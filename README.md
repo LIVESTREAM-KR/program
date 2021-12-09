@@ -20,3 +20,7 @@ https://livestream-kr.github.io/program/all.xml
 - [JTBC] 슈퍼밴드2: https://livestream-kr.github.io/program/jtbc-superband2.xml
 - [Mnet] 스트릿우먼파이터: https://livestream-kr.github.io/program/mnet-streetwomanfighter.xml
 - [JTBC] 싱어게인2: https://livestream-kr.github.io/program/jtbc-singagain2.xml
+
+---
+
+[▶️ 네이버TV 프로그램 이동하기](https://github.com/LIVESTREAM-KR/navertv_program)
