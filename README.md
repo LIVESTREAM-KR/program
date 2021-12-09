@@ -15,8 +15,8 @@ https://livestream-kr.github.io/music-program/all.xml
 
 ## 음악예능
 https://livestream-kr.github.io/program/all.xml
-- https://livestream-kr.github.io/program/jtbc-barada.xml
-- https://livestream-kr.github.io/program/mnet-girlsplanet999.xml
-- https://livestream-kr.github.io/program/jtbc-superband2.xml
-- https://livestream-kr.github.io/program/mnet-streetwomanfighter.xml
-- https://livestream-kr.github.io/program/jtbc-singagain2.xml
+- [JTBC] 바라던 바다: https://livestream-kr.github.io/program/jtbc-barada.xml
+- [Mnet] 걸스플래닛999: https://livestream-kr.github.io/program/mnet-girlsplanet999.xml
+- [JTBC] 슈퍼밴드2: https://livestream-kr.github.io/program/jtbc-superband2.xml
+- [Mnet] 스트릿우먼파이터: https://livestream-kr.github.io/program/mnet-streetwomanfighter.xml
+- [JTBC] 싱어게인2: https://livestream-kr.github.io/program/jtbc-singagain2.xml
