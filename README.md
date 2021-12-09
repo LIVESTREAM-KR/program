@@ -11,10 +11,10 @@ https://livestream-kr.github.io/music-program/all.xml
 - [KBS] 스케치북: https://livestream-kr.github.io/music-program/sketchbook.xml
 - [KBS] 불후의 명곡: https://livestream-kr.github.io/music-program/satfreedom.xml
 - [MBC] 복면가왕: https://livestream-kr.github.io/music-program/mask.xml
-- [tvN] 놀라운 토요일 도레미마켓: https://livestream-kr.github.io/music-program/amazingsaturday.xml
 
 ## 음악예능
 https://livestream-kr.github.io/program/all.xml
+- [tvN] 놀라운 토요일 도레미마켓: https://livestream-kr.github.io/program/tvn-amazingsaturday.xml
 - [JTBC] 바라던 바다: https://livestream-kr.github.io/program/jtbc-barada.xml
 - [Mnet] 걸스플래닛999: https://livestream-kr.github.io/program/mnet-girlsplanet999.xml
 - [JTBC] 슈퍼밴드2: https://livestream-kr.github.io/program/jtbc-superband2.xml
