@@ -1,34 +1,22 @@
-# CI setup for Feed me up, Scotty!
+# 프로그램
 
-You can fork this repository and edit `feeds.toml` to start generating your own
-RSS feeds.
+## [음악방송](https://github.com/LIVESTREAM-KR/music-program)
+https://livestream-kr.github.io/music-program/all.xml
+- [KBS] 뮤직뱅크: https://livestream-kr.github.io/music-program/musicbank.xml
+- [MBC] 쇼! 음악중심: https://livestream-kr.github.io/music-program/showmusiccore.xml
+- [SBS] 인기가요: https://livestream-kr.github.io/music-program/inkigayo.xml
+- [Mnet] 엠카운트다운: https://livestream-kr.github.io/music-program/mcountdown.xml
+- [SBS MTV] 더 쇼: https://livestream-kr.github.io/music-program/theshow.xml
+- [MBC M] 쇼챔피언: https://livestream-kr.github.io/music-program/showchampion.xml
+- [KBS] 스케치북: https://livestream-kr.github.io/music-program/sketchbook.xml
+- [KBS] 불후의 명곡: https://livestream-kr.github.io/music-program/satfreedom.xml
+- [MBC] 복면가왕: https://livestream-kr.github.io/music-program/mask.xml
+- [tvN] 놀라운 토요일 도레미마켓: https://livestream-kr.github.io/music-program/amazingsaturday.xml
 
-# Automatically generate feeds
-
-## On GitHub
-
-To automatically generate feeds twice a day on GitHub:
-
-1. Fork this repository and edit `feeds.toml`.
-2. Create a branch called `gh-pages`.
-3. Visit the _Actions_ tab for your fork, then enable workflows for your fork.
-4. Make sure the Publishing Source for your GitHub Pages site is set to the
-   `gh-pages` branch.
-   [Instructions here.](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site)
-
-GitHub Actions will then automatically run twice a day to check for updates,
-and publish your feeds at `https://<username>.github.io/feeds/`.
-
-## On GitLab
-
-To automatically generate feeds on GitLab:
-
-1. Fork this repository and edit `feeds.toml`.
-2. [Create a new pipeline schedule](./-/pipeline_schedules/new) (CI/CD ˃
-   Schedules).
-3. Set it to your desired interval (e.g. `30 5,17 * * *` to run at 5:30 and
-   17:30).
-4. Hit "Save pipeline schedule".
-
-GitLab CI/CD will then automatically run at your selected interval to check for
-updates, and publish your feeds at `https://<username>.gitlab.io/feeds/`.
+## 음악예능
+https://livestream-kr.github.io/program/all.xml
+- https://livestream-kr.github.io/program/jtbc-barada.xml
+- https://livestream-kr.github.io/program/mnet-girlsplanet999.xml
+- https://livestream-kr.github.io/program/jtbc-superband2.xml
+- https://livestream-kr.github.io/program/mnet-streetwomanfighter.xml
+- https://livestream-kr.github.io/program/jtbc-singagain2.xml
