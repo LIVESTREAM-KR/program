@@ -24,7 +24,7 @@ https://livestream-kr.github.io/audition-program/all.xml
 - [Mnet] 스트릿우먼파이터: https://livestream-kr.github.io/audition-program/mnet-streetwomanfighter.xml
 - [JTBC] 싱어게인2: https://livestream-kr.github.io/audition-program/jtbc-singagain2.xml
 - [MBC] 방과후설렘: https://livestream-kr.github.io/audition-program/mbc-myteenagegirl.xml
-- 
+
 ## [아이돌](https://github.com/LIVESTREAM-KR/idol-program)
 - [MBC M] 주간 아이돌: https://livestream-kr.github.io/idol-program/mbcm-weekidol.xml
 
