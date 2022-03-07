@@ -23,7 +23,9 @@ https://livestream-kr.github.io/program/all.xml
 - [JTBC] 싱어게인2: https://livestream-kr.github.io/program/jtbc-singagain2.xml
 - [MBC] 방과후 설렘: https://livestream-kr.github.io/program/mbc-myteenagegirl.xml
 
-## [아이돌 예능](https://github.com/LIVESTREAM-KR/idol-program)
+## [오디션](https://github.com/LIVESTREAM-KR/audition-program)
+
+## [아이돌](https://github.com/LIVESTREAM-KR/idol-program)
 - [MBC M] 주간 아이돌: https://livestream-kr.github.io/idol-program/mbcm-weekidol.xml
 
 ---
