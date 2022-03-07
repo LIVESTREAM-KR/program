@@ -1,14 +1,3 @@
-[mbcm-weekidol]
-title = "주간 아이돌"
-url = "https://program.naver.com/p/668287/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
 [tvn-amazingsaturday]
 title = "놀라운 토요일"
 url = "https://program.naver.com/p/7682370/clip"
@@ -20,64 +9,20 @@ contentSelector = "span.ClipCard_time__128vc"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[jtbc-bros]
+title = "아는 형님"
+url = "https://program.naver.com/p/3052901/clip"
+entrySelector = "li.ClipCard_item__1ly4h"
+titleSelector = "strong.ClipCard_title__2I1pd"
+linkSelector = "a.ClipCard_link__2XpqM"
+imageSelector = "img.ClipCard_img__2XgXF"
+contentSelector = "span.ClipCard_time__128vc"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [jtbc-barada]
 title = "바라는 바다"
 url = "https://program.naver.com/p/18681490/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[mnet-girlsplanet999]
-title = "걸스플래닛999 소녀대전"
-url = "https://program.naver.com/p/17707525/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[jtbc-superband2]
-title = "슈퍼밴드2"
-url = "https://program.naver.com/p/17565456/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[mnet-streetwomanfighter]
-title = "스트릿 우먼 파이터"
-url = "https://program.naver.com/p/18923570/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[jtbc-singagain2]
-title = "싱어게인2"
-url = "https://program.naver.com/p/18806600/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[mbc-myteenagegirl]
-title = "방과후 설렘"
-url = "https://program.naver.com/p/18684994/clip"
 entrySelector = "li.ClipCard_item__1ly4h"
 titleSelector = "strong.ClipCard_title__2I1pd"
 linkSelector = "a.ClipCard_link__2XpqM"
