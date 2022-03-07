@@ -12,10 +12,11 @@ https://livestream-kr.github.io/music-program/all.xml
 - [KBS] 불후의 명곡: https://livestream-kr.github.io/music-program/satfreedom.xml
 - [MBC] 복면가왕: https://livestream-kr.github.io/music-program/mask.xml
 
-## 음악예능
+## 예능
 https://livestream-kr.github.io/program/all.xml
 - [tvN] 놀라운 토요일 도레미마켓: https://livestream-kr.github.io/program/tvn-amazingsaturday.xml
 - [JTBC] 바라던 바다: https://livestream-kr.github.io/program/jtbc-barada.xml
+- [JTBC] 아는 형님: https://livestream-kr.github.io/program/jtbc-bros.xml
 
 ## [오디션](https://github.com/LIVESTREAM-KR/audition-program)
 https://livestream-kr.github.io/audition-program/all.xml
