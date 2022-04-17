@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 05:37:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 17:40:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,20 +272,20 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_39/C3Y1U_1650103329097HU1J1_JPEG/20220416_184950_358_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[※'그' 초혼 아님※ 제목 나오자마자 시선 집중 당한(?) 상민-장훈 ㅋㅋ | JTBC 220416 방송 (아는 형님)]]></title>
-            <link>https://tv.naver.com/v/26267883</link>
-            <guid>https://tv.naver.com/v/26267883</guid>
-            <pubDate>Sat, 16 Apr 2022 17:39:41 GMT</pubDate>
-            <content:encoded><![CDATA[02:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_93/xwmFt_1650103323374dUWAR_JPEG/20220416_184635_651_1.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[얼~쑤↗  송가인의 구~수한 노래에 덩실( *˘╰╯˘*)  〈짝사랑〉♪ | JTBC 220416 방송 (아는 형님)]]></title>
             <link>https://tv.naver.com/v/26267802</link>
             <guid>https://tv.naver.com/v/26267802</guid>
             <pubDate>Sat, 16 Apr 2022 17:39:41 GMT</pubDate>
             <content:encoded><![CDATA[01:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220416_90/bB0Lf_16501030303364c1bK_JPEG/20220416_184815_391_1.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[※'그' 초혼 아님※ 제목 나오자마자 시선 집중 당한(?) 상민-장훈 ㅋㅋ | JTBC 220416 방송 (아는 형님)]]></title>
+            <link>https://tv.naver.com/v/26267883</link>
+            <guid>https://tv.naver.com/v/26267883</guid>
+            <pubDate>Sat, 16 Apr 2022 17:39:41 GMT</pubDate>
+            <content:encoded><![CDATA[02:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220416_93/xwmFt_1650103323374dUWAR_JPEG/20220416_184635_651_1.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[열심히는 추지만^_^;; 느슨한 댄스계에 긴장감 주는 발라드 파의 〈나혼자〉 | JTBC 220416 방송 (아는 형님)]]></title>
