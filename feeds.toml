@@ -1,3 +1,6 @@
+[default]
+timeout = 120
+
 [tvn-amazingsaturday]
 title = "놀라운 토요일"
 url = "https://program.naver.com/p/7682370/clip"
@@ -6,7 +9,7 @@ titleSelector = "strong.ClipCard_title__2I1pd"
 linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
+waitForSelector = "li.ClipCard_item__1ly4h"
 onFail = "stale"
 
 [jtbc-bros]
@@ -17,16 +20,5 @@ titleSelector = "strong.ClipCard_title__2I1pd"
 linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
-onFail = "stale"
-
-[jtbc-barada]
-title = "바라던 바다"
-url = "https://program.naver.com/p/18681490/clip"
-entrySelector = "li.ClipCard_item__1ly4h"
-titleSelector = "strong.ClipCard_title__2I1pd"
-linkSelector = "a.ClipCard_link__2XpqM"
-imageSelector = "img.ClipCard_img__2XgXF"
-contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
+waitForSelector = "li.ClipCard_item__1ly4h"
 onFail = "stale"
