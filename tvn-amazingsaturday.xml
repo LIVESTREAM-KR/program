@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-09-26T06:35:30.032Z</updated>
+    <updated>2022-09-26T17:55:11.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 흥 올려~♪ 놀토 접수하러 온 극강 텐션 김호영 X 가비]]></title>
+        <id>https://tv.naver.com/v/29472683</id>
+        <link href="https://tv.naver.com/v/29472683"/>
+        <updated>2022-09-26T17:55:02.325Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 흥으로 불타는 놀토에 흥 가솔린을 부어줄 흥재벌 김호영 X 가비]]></title>
         <id>https://tv.naver.com/v/29435064</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29267548"/>
         <updated>2022-09-24T09:53:02.893Z</updated>
         <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힌트판 공개되면 작동하는 키컴!! 키어로의 선택으로 정답 맞힌 꽁밥존 | tvN 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29267404</id>
-        <link href="https://tv.naver.com/v/29267404"/>
-        <updated>2022-09-24T09:53:02.893Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
     </entry>
 </feed>

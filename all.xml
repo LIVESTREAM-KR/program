@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-26T06:35:30.134Z</updated>
+    <updated>2022-09-26T17:55:11.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 흥 올려~♪ 놀토 접수하러 온 극강 텐션 김호영 X 가비 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/29472683</id>
+        <link href="https://tv.naver.com/v/29472683"/>
+        <updated>2022-09-26T17:55:02.325Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 흥으로 불타는 놀토에 흥 가솔린을 부어줄 흥재벌 김호영 X 가비 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/29435064</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/29267548"/>
         <updated>2022-09-24T09:53:02.893Z</updated>
         <content type="html"><![CDATA[02:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힌트판 공개되면 작동하는 키컴!! 키어로의 선택으로 정답 맞힌 꽁밥존 | tvN 220917 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29267404</id>
-        <link href="https://tv.naver.com/v/29267404"/>
-        <updated>2022-09-24T09:53:02.893Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 내 안에 '다른 사람(?)' 있다😲 美친 싱크로율 「정성호x김보민x박슬기x양승원」의 성대모사 모음zip.↗ | JTBC 220924 방송 (아는 형님)]]></title>
