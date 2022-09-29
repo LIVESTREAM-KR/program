@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-09-28T18:01:04.151Z</updated>
+    <updated>2022-09-29T06:40:11.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 💥이 조합? 찬성입니다💥 형님 학교에 크러쉬 X 재재 X 비비가 찾아왔습니다~💕]]></title>
+        <id>https://tv.naver.com/v/29547944</id>
+        <link href="https://tv.naver.com/v/29547944"/>
+        <updated>2022-09-29T06:40:11.091Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 내 안에 '다른 사람(?)' 있다😲 美친 싱크로율 「정성호x김보민x박슬기x양승원」의 성대모사 모음zip.↗ | JTBC 220924 방송]]></title>
         <id>https://tv.naver.com/v/29436731</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29265740"/>
         <updated>2022-09-24T06:29:45.592Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본격 〈우리집〉 가자고 꼬시는 예나.mp4 (ft. 난리 난 선비🙊) | JTBC 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29265623</id>
-        <link href="https://tv.naver.com/v/29265623"/>
-        <updated>2022-09-24T06:29:45.592Z</updated>
-        <content type="html"><![CDATA[03:32]]></content>
     </entry>
 </feed>
