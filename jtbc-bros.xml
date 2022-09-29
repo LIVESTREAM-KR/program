@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-09-29T06:40:11.752Z</updated>
+    <updated>2022-09-29T17:57:48.771Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 오프닝부터 역대급 텐션↗ 보기보다 순한(?) 특급 배우 4인방 엄정화x박성웅x이상윤x이선빈 토크 하이라이트  | JTBC 200808 방송]]></title>
+        <id>https://tv.naver.com/v/29567362</id>
+        <link href="https://tv.naver.com/v/29567362"/>
+        <updated>2022-09-29T17:57:48.178Z</updated>
+        <content type="html"><![CDATA[15:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 💥이 조합? 찬성입니다💥 형님 학교에 크러쉬 X 재재 X 비비가 찾아왔습니다~💕]]></title>
         <id>https://tv.naver.com/v/29547944</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29265742"/>
         <updated>2022-09-24T06:29:45.591Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[↖드디어 퀴즈 맞혔츄🐧↗ 츄의 귀욤 폭발 〈롤린〉 댄스❣ | JTBC 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29265740</id>
-        <link href="https://tv.naver.com/v/29265740"/>
-        <updated>2022-09-24T06:29:45.592Z</updated>
-        <content type="html"><![CDATA[02:30]]></content>
     </entry>
 </feed>
