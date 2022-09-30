@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-30T06:37:39.616Z</updated>
+    <updated>2022-09-30T17:57:35.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 뮤지컬 무대의 참 맛을 알아버린 도레미들♪ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/29589276</id>
+        <link href="https://tv.naver.com/v/29589276"/>
+        <updated>2022-09-30T17:57:27.742Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 소개만으로도 놀토 텐션 찢어버리는 김호영&가비 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/29589271</id>
+        <link href="https://tv.naver.com/v/29589271"/>
+        <updated>2022-09-30T17:57:27.742Z</updated>
+        <content type="html"><![CDATA[05:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 흥 올려~♪ 놀토 접수하러 온 극강 텐션 김호영 X 가비 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/29472683</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/29267690"/>
         <updated>2022-09-24T09:53:02.892Z</updated>
         <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뚱유니가 출연한 영화의 제목을 맞혀라! 7전8탱 집념의 탱구♥ | tvN 220917 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29267618</id>
-        <link href="https://tv.naver.com/v/29267618"/>
-        <updated>2022-09-24T09:53:02.893Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김무열 영화 포스터에 냅다 4 미란 발사하고 보는 라미란ㅋㅋ | tvN 220917 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29267548</id>
-        <link href="https://tv.naver.com/v/29267548"/>
-        <updated>2022-09-24T09:53:02.893Z</updated>
-        <content type="html"><![CDATA[02:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 오프닝부터 역대급 텐션↗ 보기보다 순한(?) 특급 배우 4인방 엄정화x박성웅x이상윤x이선빈 토크 하이라이트  | JTBC 200808 방송 (아는 형님)]]></title>
