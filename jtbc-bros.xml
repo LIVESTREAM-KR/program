@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-09-30T17:57:35.319Z</updated>
+    <updated>2022-10-01T06:13:22.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 비비가 GG비비가 될 뻔한 썰💥 크러쉬는 중간에서 멘탈 크러쉬]]></title>
+        <id>https://tv.naver.com/v/29600286</id>
+        <link href="https://tv.naver.com/v/29600286"/>
+        <updated>2022-10-01T06:13:21.468Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 오프닝부터 역대급 텐션↗ 보기보다 순한(?) 특급 배우 4인방 엄정화x박성웅x이상윤x이선빈 토크 하이라이트  | JTBC 200808 방송]]></title>
         <id>https://tv.naver.com/v/29567362</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29265744"/>
         <updated>2022-09-24T06:29:45.591Z</updated>
         <content type="html"><![CDATA[02:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 본 사람은 있어도 한 번만 본 사람❌ 「최예나-츄」 입덕 영상🎞 | JTBC 220917 방송]]></title>
-        <id>https://tv.naver.com/v/29265742</id>
-        <link href="https://tv.naver.com/v/29265742"/>
-        <updated>2022-09-24T06:29:45.591Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
