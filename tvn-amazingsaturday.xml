@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-10-03T06:01:54.153Z</updated>
+    <updated>2022-10-03T18:02:05.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고]  혼자서도 자체발광! 솔로 가수 특집 에일리 X 슬기 X 츄♡]]></title>
+        <id>https://tv.naver.com/v/29636644</id>
+        <link href="https://tv.naver.com/v/29636644"/>
+        <updated>2022-10-03T18:01:57.080Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 빛이 나는 SOLO 가수 에일리 X 슬기 X 츄! 첫 솔로 데뷔한 슬기 퍼포먼스 최초공개!]]></title>
         <id>https://tv.naver.com/v/29608206</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29434294"/>
         <updated>2022-09-24T17:45:11.468Z</updated>
         <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[//찐친피셜// 아무리 들어도 안 들린다.. 지코 잘알 크러쉬가 유추하는 받쓰! | tvN 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29434216</id>
-        <link href="https://tv.naver.com/v/29434216"/>
-        <updated>2022-09-24T17:45:11.485Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
