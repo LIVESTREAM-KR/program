@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-10-05T18:02:54.909Z</updated>
+    <updated>2022-10-06T06:01:29.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 콜마이네임 게임 하는 💚마마무💚 궁금한 무무들 집합~🙌+ 🍪이벤트🍪]]></title>
+        <id>https://tv.naver.com/v/29710969</id>
+        <link href="https://tv.naver.com/v/29710969"/>
+        <updated>2022-10-06T06:01:29.185Z</updated>
+        <content type="html"><![CDATA[05:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 크러쉬x재재x비비의 치열한(?) 게임 대결🔥 「엔딩 무대」를 선점할 주인공은~? (썸네일에 힌트 있음🤫) | JTBC 221001 방송]]></title>
         <id>https://tv.naver.com/v/29609506</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29433279"/>
         <updated>2022-09-24T17:45:17.910Z</updated>
         <content type="html"><![CDATA[01:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상하게 귀에 쏙 들어오는👂 이수근의 원주민 언어ㅋㅋㅋ | JTBC 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29433278</id>
-        <link href="https://tv.naver.com/v/29433278"/>
-        <updated>2022-09-24T17:45:17.912Z</updated>
-        <content type="html"><![CDATA[03:17]]></content>
     </entry>
 </feed>
