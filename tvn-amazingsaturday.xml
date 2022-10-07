@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-10-07T05:56:51.353Z</updated>
+    <updated>2022-10-07T18:01:35.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 감독님들 찐 팬심 자극하는 츄 vs 경이로운 안무위키]]></title>
+        <id>https://tv.naver.com/v/29759461</id>
+        <link href="https://tv.naver.com/v/29759461"/>
+        <updated>2022-10-07T18:01:28.174Z</updated>
+        <content type="html"><![CDATA[03:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 경☆올라운더 본투비 아이돌 슬기 첫 솔로 무대 최초공개☆축 #28reasons]]></title>
+        <id>https://tv.naver.com/v/29759455</id>
+        <link href="https://tv.naver.com/v/29759455"/>
+        <updated>2022-10-07T18:01:28.189Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고]  혼자서도 자체발광! 솔로 가수 특집 에일리 X 슬기 X 츄♡]]></title>
         <id>https://tv.naver.com/v/29636644</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29434436"/>
         <updated>2022-09-24T17:45:11.465Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크러쉬 신곡 안무를 이렇게 빨리 딸 수 있는 거임..? 키의 美친 칼각 안무 ㄷㄷ | tvN 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29434370</id>
-        <link href="https://tv.naver.com/v/29434370"/>
-        <updated>2022-09-24T17:45:11.466Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따!!!!!! 정답 맞혀놓고 이름 말 안 해서 스틸당한 크러쉬ㅋㅋ | tvN 220924 방송]]></title>
-        <id>https://tv.naver.com/v/29434294</id>
-        <link href="https://tv.naver.com/v/29434294"/>
-        <updated>2022-09-24T17:45:11.468Z</updated>
-        <content type="html"><![CDATA[01:12]]></content>
     </entry>
 </feed>
