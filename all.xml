@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-07T18:01:35.414Z</updated>
+    <updated>2022-10-08T05:53:20.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 감독님들 찐 팬심 자극하는 츄 vs 경이로운 안무위키 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:48]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 동공 확장😲 발음하기도 어려운 문제 척척 맞추는 수도 천재 '화사'?! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/29766028</id>
+        <link href="https://tv.naver.com/v/29766028"/>
+        <updated>2022-10-08T05:53:19.824Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂재훈이가 수미를 찼다던데?＂ 만담 듀오급 찰떡 호흡★ 올타임 레전드 김수미x탁재훈 토크 | JTBC 200801 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/29731777</id>
         <link href="https://tv.naver.com/v/29731777"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/29434056"/>
         <updated>2022-09-24T17:45:17.906Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝까지 듣고 싶은😆 정성호-김보민의 성대모사 퀴즈 | JTBC 220924 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/29433866</id>
-        <link href="https://tv.naver.com/v/29433866"/>
-        <updated>2022-09-24T17:45:17.908Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
     </entry>
 </feed>
