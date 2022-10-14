@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-14T06:34:38.423Z</updated>
+    <updated>2022-10-14T17:55:00.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 주워먹기 판치는 놀토에 정정당당 김유정의 등장이라☆ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/29925226</id>
+        <link href="https://tv.naver.com/v/29925226"/>
+        <updated>2022-10-14T17:54:53.356Z</updated>
+        <content type="html"><![CDATA[04:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 강제로 첫사랑 기억 조작하는 비주얼 김유정 X 변우석 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/29925224</id>
+        <link href="https://tv.naver.com/v/29925224"/>
+        <updated>2022-10-14T17:54:53.356Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 21세기 놀토에 찾아온 20세기 소녀소년 김유정X변우석 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/29810506</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/29607667"/>
         <updated>2022-10-01T17:49:09.659Z</updated>
         <content type="html"><![CDATA[03:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이게 10초 만에 짠 포포몬쓰..? ㅇㅁㅇ 김호영X가비의 ＜체념＞ 뮤지컬 (with 뚱유니) | tvN 221001 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29607664</id>
-        <link href="https://tv.naver.com/v/29607664"/>
-        <updated>2022-10-01T17:49:09.660Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키어로 VS 가비의 ＜After LIKE＞ 대결?! 키어로 기세 꺾는 가비의 프리스타일 왁킹 | tvN 221001 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29607591</id>
-        <link href="https://tv.naver.com/v/29607591"/>
-        <updated>2022-10-01T17:49:09.665Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 마음 먹고 강호동 저격하는 보아X성시경 매운맛 토크♨️ 망붕까지 유발하는 두 분 제법 잘 어울려요💕 | JTBC 200725 방송 (아는 형님)]]></title>
