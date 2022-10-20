@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-10-20T05:59:20.026Z</updated>
+    <updated>2022-10-20T18:07:17.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ＂식빵 광고 노리고 있어^^＂ 예능감까지 장착한 김연경 토크 하이라이트 | JTBC 200718 방송]]></title>
+        <id>https://tv.naver.com/v/30095986</id>
+        <link href="https://tv.naver.com/v/30095986"/>
+        <updated>2022-10-20T18:07:17.074Z</updated>
+        <content type="html"><![CDATA[17:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 빵빵↗ 한블리 가족들 지나갑니다🚗 한문철x기욤x한보름x수빈의 다채로운 매력✨ | JTBC 221015 방송]]></title>
         <id>https://tv.naver.com/v/29953015</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29777728"/>
         <updated>2022-10-08T17:50:02.191Z</updated>
         <content type="html"><![CDATA[02:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 별에서 따온⭐ 순수 한글이름 '文별이'(ღ•͈ᴗ•͈ღ) | JTBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/29777726</id>
-        <link href="https://tv.naver.com/v/29777726"/>
-        <updated>2022-10-08T17:50:02.192Z</updated>
-        <content type="html"><![CDATA[01:57]]></content>
     </entry>
 </feed>
