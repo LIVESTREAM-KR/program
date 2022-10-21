@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-21T06:05:54.138Z</updated>
+    <updated>2022-10-21T17:57:11.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 노래 초성 맞추기 0.1초 신기록 세운 안무위'키'의 핑크베놈 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30124927</id>
+        <link href="https://tv.naver.com/v/30124927"/>
+        <updated>2022-10-21T17:57:04.226Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] [속보] 르세라핌 쌈무 리더 채원, 안무위키 'Fearless' 퍼포먼스 10번 넘게 봐♡ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30124807</id>
+        <link href="https://tv.naver.com/v/30124807"/>
+        <updated>2022-10-21T17:57:04.252Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 퍼☆포☆먼☆스 대축제! 르세라핌 놀토 출격! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/29992348</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/29779169"/>
         <updated>2022-10-08T17:49:54.744Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다 된 에일리에 놀보 뿌리기..?ㅋㅋㅋ 에일리 ＜보여줄게＞ 포포몬쓰 (wtih 놀보) | tvN 221008 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29779108</id>
-        <link href="https://tv.naver.com/v/29779108"/>
-        <updated>2022-10-08T17:49:54.747Z</updated>
-        <content type="html"><![CDATA[02:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[//고.음.폭.발// 박정현 ＜꿈에＞ 즉석 라이브로 부르는 에일리 ㄷㄷ | tvN 221008 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29779033</id>
-        <link href="https://tv.naver.com/v/29779033"/>
-        <updated>2022-10-08T17:49:54.749Z</updated>
-        <content type="html"><![CDATA[04:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂식빵 광고 노리고 있어^^＂ 예능감까지 장착한 김연경 토크 하이라이트 | JTBC 200718 방송 (아는 형님)]]></title>
