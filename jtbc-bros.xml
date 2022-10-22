@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-10-21T17:57:11.379Z</updated>
+    <updated>2022-10-22T05:59:50.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 교실에 복싱 전설 난입😲!! 다짜고짜 강호동 멱살 잡는 파퀴아오ㅋㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/30130543</id>
+        <link href="https://tv.naver.com/v/30130543"/>
+        <updated>2022-10-22T05:59:50.107Z</updated>
+        <content type="html"><![CDATA[03:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂식빵 광고 노리고 있어^^＂ 예능감까지 장착한 김연경 토크 하이라이트 | JTBC 200718 방송]]></title>
         <id>https://tv.naver.com/v/30095986</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29778152"/>
         <updated>2022-10-08T17:50:02.191Z</updated>
         <content type="html"><![CDATA[01:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂아↗아↗ 모르게써엌!!!↗＂ 게임 중에 ✨고급 성량✨ 뽐내는 휘인 | JTBC 221008 방송]]></title>
-        <id>https://tv.naver.com/v/29777728</id>
-        <link href="https://tv.naver.com/v/29777728"/>
-        <updated>2022-10-08T17:50:02.191Z</updated>
-        <content type="html"><![CDATA[02:14]]></content>
     </entry>
 </feed>
