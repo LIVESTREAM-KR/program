@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-10-24T06:46:16.070Z</updated>
+    <updated>2022-10-24T18:02:13.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 존재 자체가 장르 이찬혁 X 신이 내린 리듬감 김용명 놀토 강림!]]></title>
+        <id>https://tv.naver.com/v/30185300</id>
+        <link href="https://tv.naver.com/v/30185300"/>
+        <updated>2022-10-24T18:02:05.991Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 평범한 건 거부하는 찐 음악 천재들 등장! 김용명 x 이찬혁]]></title>
         <id>https://tv.naver.com/v/30143086</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/29951191"/>
         <updated>2022-10-15T17:51:14.981Z</updated>
         <content type="html"><![CDATA[02:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 맞네.. 알고 들으면 다 들리는 놀토 매직에 놀란 김유정X변우석ㅋㅋ | tvN 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29951190</id>
-        <link href="https://tv.naver.com/v/29951190"/>
-        <updated>2022-10-15T17:51:14.986Z</updated>
-        <content type="html"><![CDATA[02:50]]></content>
     </entry>
 </feed>
