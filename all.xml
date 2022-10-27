@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-27T05:47:38.963Z</updated>
+    <updated>2022-10-27T17:46:57.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 존재 자체가 장르 이찬혁 X 신이 내린 리듬감 김용명 놀토 강림! (놀라운 토요일)]]></title>
@@ -215,6 +215,20 @@
         <content type="html"><![CDATA[02:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 본업할때 제일 짜릿✨ 쁘악수가 절로 나오는 힙판왕 지코x선미x셔누x주헌 퍼포먼스 | JTBC 200711 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/30290334</id>
+        <link href="https://tv.naver.com/v/30290334"/>
+        <updated>2022-10-27T17:46:56.758Z</updated>
+        <content type="html"><![CDATA[10:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 들숨에 HIP 날숨에 텐션↗ 순둥美 넘치는 본업 천재 선미X지코X셔누X주헌의 반전 입담 대방출 | JTBC 200711 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/30290181</id>
+        <link href="https://tv.naver.com/v/30290181"/>
+        <updated>2022-10-27T17:46:56.758Z</updated>
+        <content type="html"><![CDATA[14:13]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】내가 제일 댄스 (여자)아이들↗💜 귀엽고 예삐예삐 다~보여주는 아이들 보고 가세요 + 🎁이벤트🎁 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/30269195</id>
         <link href="https://tv.naver.com/v/30269195"/>
@@ -409,19 +423,5 @@
         <link href="https://tv.naver.com/v/29950688"/>
         <updated>2022-10-15T17:51:22.765Z</updated>
         <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂방송을 그렇게 해🔥?＂ 반박하려다 한방 먹은 김영철😂 | JTBC 221015 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/29950320</id>
-        <link href="https://tv.naver.com/v/29950320"/>
-        <updated>2022-10-15T17:51:22.765Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강호동의 빠른 '번아웃' 변호하는 이런칠칠이(?) 이수근(*•̀ᴗ•́*)و ̑̑  | JTBC 221015 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/29950271</id>
-        <link href="https://tv.naver.com/v/29950271"/>
-        <updated>2022-10-15T17:51:22.765Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
