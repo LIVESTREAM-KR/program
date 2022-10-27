@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-26T17:45:52.292Z</updated>
+    <updated>2022-10-27T05:47:38.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 존재 자체가 장르 이찬혁 X 신이 내린 리듬감 김용명 놀토 강림! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:33]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】내가 제일 댄스 (여자)아이들↗💜 귀엽고 예삐예삐 다~보여주는 아이들 보고 가세요 + 🎁이벤트🎁 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/30269195</id>
+        <link href="https://tv.naver.com/v/30269195"/>
+        <updated>2022-10-27T05:47:38.363Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아는 형님 356회 예고편 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/30141620</id>
         <link href="https://tv.naver.com/v/30141620"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/29950271"/>
         <updated>2022-10-15T17:51:22.765Z</updated>
         <content type="html"><![CDATA[03:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강호동이 한 시간 일찍 출근하는 이유 ☞ 도시락 분석ㅋㅋㅋ | JTBC 221015 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/29950270</id>
-        <link href="https://tv.naver.com/v/29950270"/>
-        <updated>2022-10-15T17:51:22.766Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
     </entry>
 </feed>
