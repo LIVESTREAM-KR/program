@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-10-28T05:49:20.029Z</updated>
+    <updated>2022-10-28T17:45:26.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이게 된다고?! 순발력, 개그감 10000000점! 김용명의 허준 퍼포먼스]]></title>
+        <id>https://tv.naver.com/v/30318140</id>
+        <link href="https://tv.naver.com/v/30318140"/>
+        <updated>2022-10-28T17:45:19.289Z</updated>
+        <content type="html"><![CDATA[05:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] BTS 정국과 지코가 인정한 확신의 음악 개그 천재 김용명]]></title>
+        <id>https://tv.naver.com/v/30318138</id>
+        <link href="https://tv.naver.com/v/30318138"/>
+        <updated>2022-10-28T17:45:19.289Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 존재 자체가 장르 이찬혁 X 신이 내린 리듬감 김용명 놀토 강림!]]></title>
         <id>https://tv.naver.com/v/30185300</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/29951459"/>
         <updated>2022-10-15T17:51:14.976Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온갖 정답 다 나오는 희극인 모임과 진짜 광기 변우석의 포포몬쓰가 만나면?! | tvN 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29951380</id>
-        <link href="https://tv.naver.com/v/29951380"/>
-        <updated>2022-10-15T17:51:14.979Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확신의 야망캐 김유정♡ 결국 놀토 하이에나들에게 잡아먹힌.SSUL | tvN 221015 방송]]></title>
-        <id>https://tv.naver.com/v/29951191</id>
-        <link href="https://tv.naver.com/v/29951191"/>
-        <updated>2022-10-15T17:51:14.981Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
     </entry>
 </feed>

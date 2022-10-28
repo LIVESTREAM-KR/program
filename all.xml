@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-10-28T05:49:19.948Z</updated>
+    <updated>2022-10-28T17:45:26.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이게 된다고?! 순발력, 개그감 10000000점! 김용명의 허준 퍼포먼스 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30318140</id>
+        <link href="https://tv.naver.com/v/30318140"/>
+        <updated>2022-10-28T17:45:19.289Z</updated>
+        <content type="html"><![CDATA[05:07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] BTS 정국과 지코가 인정한 확신의 음악 개그 천재 김용명 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30318138</id>
+        <link href="https://tv.naver.com/v/30318138"/>
+        <updated>2022-10-28T17:45:19.289Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 존재 자체가 장르 이찬혁 X 신이 내린 리듬감 김용명 놀토 강림! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/30185300</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/29951459"/>
         <updated>2022-10-15T17:51:14.976Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온갖 정답 다 나오는 희극인 모임과 진짜 광기 변우석의 포포몬쓰가 만나면?! | tvN 221015 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29951380</id>
-        <link href="https://tv.naver.com/v/29951380"/>
-        <updated>2022-10-15T17:51:14.979Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확신의 야망캐 김유정♡ 결국 놀토 하이에나들에게 잡아먹힌.SSUL | tvN 221015 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/29951191</id>
-        <link href="https://tv.naver.com/v/29951191"/>
-        <updated>2022-10-15T17:51:14.981Z</updated>
-        <content type="html"><![CDATA[02:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 본업할때 제일 짜릿✨ 쁘악수가 절로 나오는 힙판왕 지코x선미x셔누x주헌 퍼포먼스 | JTBC 200711 방송 (아는 형님)]]></title>
