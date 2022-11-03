@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-03T05:42:45.672Z</updated>
+    <updated>2022-11-03T17:43:33.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ＂GD가 나에 대해 얘기한 건 없어?＂ 처남 지드래곤 썰부터 기인열전까지👀 김민준x송종호x손호준x구자성 토크 하이라이트 | JTBC 200704 방송]]></title>
+        <id>https://tv.naver.com/v/30470626</id>
+        <link href="https://tv.naver.com/v/30470626"/>
+        <updated>2022-11-03T17:43:32.421Z</updated>
+        <content type="html"><![CDATA[13:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 끝없는 매력 발산٩(๑˃̵ᴗ˂̵)و (여자)아이들 게임·퍼포먼스 모음.zip | JTBC 221029 방송]]></title>
         <id>https://tv.naver.com/v/30341185</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30140917"/>
         <updated>2022-10-22T17:52:14.690Z</updated>
         <content type="html"><![CDATA[02:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화려한 등장에 비해 형편없는 균형감각의 김희철🤣 | JTBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30140855</id>
-        <link href="https://tv.naver.com/v/30140855"/>
-        <updated>2022-10-22T17:52:14.691Z</updated>
-        <content type="html"><![CDATA[02:44]]></content>
     </entry>
 </feed>
