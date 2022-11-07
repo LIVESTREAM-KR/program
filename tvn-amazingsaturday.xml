@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-06T17:39:42.979Z</updated>
+    <updated>2022-11-07T05:46:40.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 시간을 달리는 대세 배우들! 여진구 x 조이현 x 김혜윤 x 나인우]]></title>
+        <id>https://tv.naver.com/v/30549457</id>
+        <link href="https://tv.naver.com/v/30549457"/>
+        <updated>2022-11-07T05:46:32.679Z</updated>
+        <content type="html"><![CDATA[01:07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[놀토 경력직은 다르다✨ 탱키 크로스가 캐리한 영어 범벅 랩 받쓰💖 #highlight]]></title>
         <id>https://tv.naver.com/v/30340308</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30142224"/>
         <updated>2022-10-22T17:52:08.061Z</updated>
         <content type="html"><![CDATA[07:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이먼 도미닉 ＜파티 포에버＞ ♪ 안티프레자일 안무 한번에 복사하는 키어로 | tvN 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30141977</id>
-        <link href="https://tv.naver.com/v/30141977"/>
-        <updated>2022-10-31T05:52:47.711Z</updated>
-        <content type="html"><![CDATA[04:48]]></content>
     </entry>
 </feed>
