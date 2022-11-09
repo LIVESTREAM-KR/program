@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-08T17:48:36.036Z</updated>
+    <updated>2022-11-09T05:48:04.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 첫사랑 기억 조작 비주얼 그 잡채! 여진구 x 조이현 x 김혜윤 x 나인우]]></title>
+        <id>https://tv.naver.com/v/30591502</id>
+        <link href="https://tv.naver.com/v/30591502"/>
+        <updated>2022-11-09T05:47:56.905Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 시간을 달리는 대세 배우들! 여진구 x 조이현 x 김혜윤 x 나인우]]></title>
         <id>https://tv.naver.com/v/30549457</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30142427"/>
         <updated>2022-10-22T17:52:08.061Z</updated>
         <content type="html"><![CDATA[02:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국힙원탑 = MC키쪽 ^ㅁ^ 한 번에 단어 맞혀버린 키sbn에게 감탄하는 김채원 | tvN 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142224</id>
-        <link href="https://tv.naver.com/v/30142224"/>
-        <updated>2022-10-22T17:52:08.061Z</updated>
-        <content type="html"><![CDATA[07:02]]></content>
     </entry>
 </feed>
