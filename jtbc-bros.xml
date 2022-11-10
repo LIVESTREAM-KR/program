@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-09T17:44:01.616Z</updated>
+    <updated>2022-11-10T05:45:06.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 다시 보는 반가운 얼굴들💙 최민호&채수빈이 형님 학교에 찾아왔습니다~ + 🎁이벤트🎁]]></title>
+        <id>https://tv.naver.com/v/30642261</id>
+        <link href="https://tv.naver.com/v/30642261"/>
+        <updated>2022-11-10T05:45:05.768Z</updated>
+        <content type="html"><![CDATA[03:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂GD가 나에 대해 얘기한 건 없어?＂ 처남 지드래곤 썰부터 기인열전까지👀 김민준x송종호x손호준x구자성 토크 하이라이트 | JTBC 200704 방송]]></title>
         <id>https://tv.naver.com/v/30470626</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30143671"/>
         <updated>2022-10-22T17:52:14.688Z</updated>
         <content type="html"><![CDATA[20:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['복싱' 레전드 vs '씨름' 레전드🔥 강자들의 대결 결과는!? | JTBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30140917</id>
-        <link href="https://tv.naver.com/v/30140917"/>
-        <updated>2022-10-22T17:52:14.690Z</updated>
-        <content type="html"><![CDATA[02:10]]></content>
     </entry>
 </feed>
