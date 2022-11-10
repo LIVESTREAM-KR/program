@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-10T05:45:06.496Z</updated>
+    <updated>2022-11-10T17:43:38.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 배우까지 개그 욕심 폭발🔥 너무 웃겨서 배꼽 찢는 김준호X오만석X박영진 대환장 디스 토크 | JTBC 200627 방송]]></title>
+        <id>https://tv.naver.com/v/30665662</id>
+        <link href="https://tv.naver.com/v/30665662"/>
+        <updated>2022-11-10T17:43:37.812Z</updated>
+        <content type="html"><![CDATA[19:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 다시 보는 반가운 얼굴들💙 최민호&채수빈이 형님 학교에 찾아왔습니다~ + 🎁이벤트🎁]]></title>
         <id>https://tv.naver.com/v/30642261</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30143740"/>
         <updated>2022-10-22T17:52:14.683Z</updated>
         <content type="html"><![CDATA[23:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] ※합성 아님※ 복싱 레전드 '파퀴아오' 매서운 펀치력과 비례되는 귀여운 매력ㅋㅋㅋ | JTBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30143671</id>
-        <link href="https://tv.naver.com/v/30143671"/>
-        <updated>2022-10-22T17:52:14.688Z</updated>
-        <content type="html"><![CDATA[20:06]]></content>
     </entry>
 </feed>
