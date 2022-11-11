@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-11T05:46:27.020Z</updated>
+    <updated>2022-11-11T17:43:21.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 동굴 목소리 진구 오빠 목소리로 듣는 ＂이거 마시면..＂ 심쿵 명대사]]></title>
+        <id>https://tv.naver.com/v/30686962</id>
+        <link href="https://tv.naver.com/v/30686962"/>
+        <updated>2022-11-11T17:43:13.889Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 유독 의욕 넘치는 동감즈! 벌써 원샷 준비까아쥐?!]]></title>
+        <id>https://tv.naver.com/v/30686776</id>
+        <link href="https://tv.naver.com/v/30686776"/>
+        <updated>2022-11-11T17:43:13.890Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 첫사랑 기억 조작 비주얼 그 잡채! 여진구 x 조이현 x 김혜윤 x 나인우]]></title>
         <id>https://tv.naver.com/v/30591502</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30142523"/>
         <updated>2022-10-22T17:52:08.055Z</updated>
         <content type="html"><![CDATA[03:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소름 돋게 잘 맞는다 ㄷㄷ 김채원X허윤진X키어로의 ＜주인공＞ 포포몬쓰 | tvN 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142519</id>
-        <link href="https://tv.naver.com/v/30142519"/>
-        <updated>2022-10-22T17:52:08.055Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기야 여보야 채원아♡ 러블리 쌈무 김채원은 발라드 포포몬쓰도 살린다!! | tvN 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30142427</id>
-        <link href="https://tv.naver.com/v/30142427"/>
-        <updated>2022-10-22T17:52:08.061Z</updated>
-        <content type="html"><![CDATA[02:58]]></content>
     </entry>
 </feed>
