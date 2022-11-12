@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-11T17:43:21.255Z</updated>
+    <updated>2022-11-12T05:40:01.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 애~매한 분위기 속, 판을 뒤집어 더 패뷸러스한 입주자 최민호의 등장..!✨]]></title>
+        <id>https://tv.naver.com/v/30700947</id>
+        <link href="https://tv.naver.com/v/30700947"/>
+        <updated>2022-11-12T05:40:00.749Z</updated>
+        <content type="html"><![CDATA[03:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 배우까지 개그 욕심 폭발🔥 너무 웃겨서 배꼽 찢는 김준호X오만석X박영진 대환장 디스 토크 | JTBC 200627 방송]]></title>
         <id>https://tv.naver.com/v/30665662</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30141620"/>
         <updated>2022-10-22T17:52:14.679Z</updated>
         <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 파퀴아오 얼굴에 주먹을 갖다 댄 남자,,★?! 형님들이랑 케미 터지는 게임 하이라이트📂 | JTBC 221022 방송]]></title>
-        <id>https://tv.naver.com/v/30143740</id>
-        <link href="https://tv.naver.com/v/30143740"/>
-        <updated>2022-10-22T17:52:14.683Z</updated>
-        <content type="html"><![CDATA[23:31]]></content>
     </entry>
 </feed>
