@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-14T05:45:41.970Z</updated>
+    <updated>2022-11-14T17:54:52.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 셀프 홍보하러 놀토를 찾아온 요정들! 효정x유아x미미! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30760030</id>
+        <link href="https://tv.naver.com/v/30760030"/>
+        <updated>2022-11-14T17:54:43.731Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 찾았다 오마이걸! 놀토를 찾아온 효정x유아x미미! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/30717948</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/30339553"/>
         <updated>2022-11-05T17:39:23.095Z</updated>
         <content type="html"><![CDATA[01:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슈가 랩은 70% 해도 안 들린다..? 결정적인 순간엔 역시 빛나는 키어로★ | tvN 221029 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/30339375</id>
-        <link href="https://tv.naver.com/v/30339375"/>
-        <updated>2022-11-05T17:39:23.096Z</updated>
-        <content type="html"><![CDATA[06:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 나의 X는 누구(๑•᎑＜๑)ｰ☆? 최민호, 채수빈과 함께 하는 환승 짝꿍 게임 모음.zip | JTBC 221112 방송 (아는 형님)]]></title>
