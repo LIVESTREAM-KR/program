@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-17T05:38:51.691Z</updated>
+    <updated>2022-11-17T17:40:42.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ＂유리는 사기꾼 같아서 그래!＂ 소리꾼과 사기꾼의 갓벽한 조합🤣 이유리x이봉근 토크 하이라이트 | JTBC 200620 방송]]></title>
+        <id>https://tv.naver.com/v/30859483</id>
+        <link href="https://tv.naver.com/v/30859483"/>
+        <updated>2022-11-17T17:40:41.436Z</updated>
+        <content type="html"><![CDATA[13:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 항상 높고 크게 빛나는 ⭐코요태⭐가 형님 학교에 찾아왔습니다~✨ (ft.콜마이네임 게임)]]></title>
         <id>https://tv.naver.com/v/30839941</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30338060"/>
         <updated>2022-10-29T17:45:37.173Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우기 당당한 ＂개XX＂ 발언에 두 손 모아 사과하는 리더님ㅋㅋㅋ | JTBC 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30337990</id>
-        <link href="https://tv.naver.com/v/30337990"/>
-        <updated>2022-10-29T17:45:37.183Z</updated>
-        <content type="html"><![CDATA[01:29]]></content>
     </entry>
 </feed>
