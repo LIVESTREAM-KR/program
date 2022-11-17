@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-16T05:39:19.493Z</updated>
+    <updated>2022-11-17T05:38:51.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 셀프 홍보하러 놀토를 찾아온 요정들! 효정x유아x미미! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】 항상 높고 크게 빛나는 ⭐코요태⭐가 형님 학교에 찾아왔습니다~✨ (ft.콜마이네임 게임) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/30839941</id>
+        <link href="https://tv.naver.com/v/30839941"/>
+        <updated>2022-11-17T05:38:51.088Z</updated>
+        <content type="html"><![CDATA[03:07]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 나의 X는 누구(๑•᎑＜๑)ｰ☆? 최민호, 채수빈과 함께 하는 환승 짝꿍 게임 모음.zip | JTBC 221112 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/30719319</id>
         <link href="https://tv.naver.com/v/30719319"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/30337990"/>
         <updated>2022-11-05T17:39:29.796Z</updated>
         <content type="html"><![CDATA[01:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카메라로 돌진,, 아니 승리 만끽하는 언니즈🥰〈TOMBOY〉♬ | JTBC 221029 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/30337988</id>
-        <link href="https://tv.naver.com/v/30337988"/>
-        <updated>2022-11-05T17:39:29.797Z</updated>
-        <content type="html"><![CDATA[01:07]]></content>
     </entry>
 </feed>
