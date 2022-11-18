@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-18T05:38:46.073Z</updated>
+    <updated>2022-11-18T17:41:06.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 노래 가사 네모 퀴즈! 네 손을 내 00위로! #동엽신_폭풍_댄스]]></title>
+        <id>https://tv.naver.com/v/30883207</id>
+        <link href="https://tv.naver.com/v/30883207"/>
+        <updated>2022-11-18T17:40:58.972Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 홍보도 컨셉도 셀프로 철저하게 준비한 오마이걸 효정x유아x미미]]></title>
+        <id>https://tv.naver.com/v/30883204</id>
+        <link href="https://tv.naver.com/v/30883204"/>
+        <updated>2022-11-18T17:40:58.982Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 셀프 홍보하러 놀토를 찾아온 요정들! 효정x유아x미미!]]></title>
         <id>https://tv.naver.com/v/30760030</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30339636"/>
         <updated>2022-10-30T05:44:47.468Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수현이에게 하고 싶은 말 = 오랜만이야..^^ 이찬혁한테 힌트 잘못 준 붐청이 | tvN 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30339634</id>
-        <link href="https://tv.naver.com/v/30339634"/>
-        <updated>2022-10-30T05:44:47.469Z</updated>
-        <content type="html"><![CDATA[03:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대사까지 다 맞혀버렸다 ㅇ0ㅇ 케이팝 천재 키차르트의 최애 드라마?! | tvN 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30339553</id>
-        <link href="https://tv.naver.com/v/30339553"/>
-        <updated>2022-10-30T05:44:47.470Z</updated>
-        <content type="html"><![CDATA[01:45]]></content>
     </entry>
 </feed>
