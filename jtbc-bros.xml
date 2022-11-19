@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-18T17:41:06.820Z</updated>
+    <updated>2022-11-19T05:38:14.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 근무 태만 '김종민&빽가' vs 혼 만내는 '신지' 코요태의 치열한(?) 법정 공방⚖️]]></title>
+        <id>https://tv.naver.com/v/30893694</id>
+        <link href="https://tv.naver.com/v/30893694"/>
+        <updated>2022-11-19T05:38:13.680Z</updated>
+        <content type="html"><![CDATA[03:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂유리는 사기꾼 같아서 그래!＂ 소리꾼과 사기꾼의 갓벽한 조합🤣 이유리x이봉근 토크 하이라이트 | JTBC 200620 방송]]></title>
         <id>https://tv.naver.com/v/30859483</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30338061"/>
         <updated>2022-10-29T17:45:37.172Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서장훈 취향 저격한 노래🤭 (여자)아이들 '덤디덤디'♬ 세리머니 | JTBC 221029 방송]]></title>
-        <id>https://tv.naver.com/v/30338060</id>
-        <link href="https://tv.naver.com/v/30338060"/>
-        <updated>2022-10-29T17:45:37.173Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
