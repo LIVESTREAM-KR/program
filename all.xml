@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-21T05:39:19.744Z</updated>
+    <updated>2022-11-21T17:41:13.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 발라드 3대장 정승환x정재형x적재 와 함께하는 가을 음악회 특집! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/30949470</id>
+        <link href="https://tv.naver.com/v/30949470"/>
+        <updated>2022-11-21T17:41:06.070Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 등장한 진짜 음악 천재 정재형x적재x정승환 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/30909429</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/30717155"/>
         <updated>2022-11-12T17:40:37.736Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탱구의 놀보화가 시작됐다.. 옆자리에서 탱드바이스 받는 김혜윤 | tvN 221112 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/30716668</id>
-        <link href="https://tv.naver.com/v/30716668"/>
-        <updated>2022-11-12T17:40:37.736Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 단단한 우정에 그렇지 못한 싸움 방식🤣 '코요태' 신지 vs 김종민＆빽가의 법정 공방! | JTBC 221119 방송 (아는 형님)]]></title>

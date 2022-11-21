@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-21T05:39:19.739Z</updated>
+    <updated>2022-11-21T17:41:13.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 발라드 3대장 정승환x정재형x적재 와 함께하는 가을 음악회 특집!]]></title>
+        <id>https://tv.naver.com/v/30949470</id>
+        <link href="https://tv.naver.com/v/30949470"/>
+        <updated>2022-11-21T17:41:06.070Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 등장한 진짜 음악 천재 정재형x적재x정승환]]></title>
         <id>https://tv.naver.com/v/30909429</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30717155"/>
         <updated>2022-11-12T17:40:37.736Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탱구의 놀보화가 시작됐다.. 옆자리에서 탱드바이스 받는 김혜윤 | tvN 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30716668</id>
-        <link href="https://tv.naver.com/v/30716668"/>
-        <updated>2022-11-12T17:40:37.736Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
