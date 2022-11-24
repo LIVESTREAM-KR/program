@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-24T05:36:57.343Z</updated>
+    <updated>2022-11-24T17:37:17.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 발라드 3대장 정승환x정재형x적재 와 함께하는 가을 음악회 특집! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:01]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트]임슬옹은 계획이 다 있었구나..호동이 잡으러 찐친들 총출동🌟 임슬옹x손담비x정찬성 | 아는형님 | JTBC 200613 방송 | JTBC 200613 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/31062438</id>
+        <link href="https://tv.naver.com/v/31062438"/>
+        <updated>2022-11-24T17:37:17.210Z</updated>
+        <content type="html"><![CDATA[18:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】최고 배우 박성훈X김소은X임나영X송진우가 찾아왔습니다~💜 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/31039831</id>
         <link href="https://tv.naver.com/v/31039831"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/30715411"/>
         <updated>2022-11-12T17:40:45.298Z</updated>
         <content type="html"><![CDATA[01:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂내 노래였어?＂ 당황은 잠시! 본업에 충실한 민호의 〈Don't Call Me〉♬ | JTBC 221112 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/30715310</id>
-        <link href="https://tv.naver.com/v/30715310"/>
-        <updated>2022-11-12T17:40:45.298Z</updated>
-        <content type="html"><![CDATA[01:44]]></content>
     </entry>
 </feed>
