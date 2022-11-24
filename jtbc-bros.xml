@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-23T17:36:43.261Z</updated>
+    <updated>2022-11-24T05:36:57.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】최고 배우 박성훈X김소은X임나영X송진우가 찾아왔습니다~💜]]></title>
+        <id>https://tv.naver.com/v/31039831</id>
+        <link href="https://tv.naver.com/v/31039831"/>
+        <updated>2022-11-24T05:36:56.723Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 단단한 우정에 그렇지 못한 싸움 방식🤣 '코요태' 신지 vs 김종민＆빽가의 법정 공방! | JTBC 221119 방송]]></title>
         <id>https://tv.naver.com/v/30910059</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30715310"/>
         <updated>2022-11-12T17:40:45.298Z</updated>
         <content type="html"><![CDATA[01:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✨춤신춤왕✨ 서장훈-강호동의 빅 사이즈 〈데칼코마니〉♬ | JTBC 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30715134</id>
-        <link href="https://tv.naver.com/v/30715134"/>
-        <updated>2022-11-12T17:40:45.298Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
     </entry>
 </feed>
