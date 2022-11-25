@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-25T05:37:05.072Z</updated>
+    <updated>2022-11-25T17:37:23.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 원곡자를 찾아라! '전화 받어'의 원곡자는?! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31084475</id>
+        <link href="https://tv.naver.com/v/31084475"/>
+        <updated>2022-11-25T17:37:16.287Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가을 감성 책임지는 가요계 대표 미남들 등판🎤 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31084473</id>
+        <link href="https://tv.naver.com/v/31084473"/>
+        <updated>2022-11-25T17:37:16.293Z</updated>
+        <content type="html"><![CDATA[05:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 발라드 3대장 정승환x정재형x적재 와 함께하는 가을 음악회 특집! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/30949470</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/30717272"/>
         <updated>2022-11-12T17:40:37.725Z</updated>
         <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기 시작했다 연기 끝났다..? 간겜 광탈하는 여진구X김혜윤 (ft. 예서♥) | tvN 221112 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/30717156</id>
-        <link href="https://tv.naver.com/v/30717156"/>
-        <updated>2022-11-12T17:40:37.725Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언니가 미안하다.. 윤아 나온 ＜엑시트＞ 장면 못 맞힌 탱구ㅋㅋ | tvN 221112 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/30717155</id>
-        <link href="https://tv.naver.com/v/30717155"/>
-        <updated>2022-11-12T17:40:37.736Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트]임슬옹은 계획이 다 있었구나..호동이 잡으러 찐친들 총출동🌟 임슬옹x손담비x정찬성 | 아는형님 | JTBC 200613 방송 | JTBC 200613 방송 (아는 형님)]]></title>

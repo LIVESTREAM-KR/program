@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-25T05:37:05.067Z</updated>
+    <updated>2022-11-25T17:37:23.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 원곡자를 찾아라! '전화 받어'의 원곡자는?!]]></title>
+        <id>https://tv.naver.com/v/31084475</id>
+        <link href="https://tv.naver.com/v/31084475"/>
+        <updated>2022-11-25T17:37:16.287Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가을 감성 책임지는 가요계 대표 미남들 등판🎤]]></title>
+        <id>https://tv.naver.com/v/31084473</id>
+        <link href="https://tv.naver.com/v/31084473"/>
+        <updated>2022-11-25T17:37:16.293Z</updated>
+        <content type="html"><![CDATA[05:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 발라드 3대장 정승환x정재형x적재 와 함께하는 가을 음악회 특집!]]></title>
         <id>https://tv.naver.com/v/30949470</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30717272"/>
         <updated>2022-11-12T17:40:37.725Z</updated>
         <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연기 시작했다 연기 끝났다..? 간겜 광탈하는 여진구X김혜윤 (ft. 예서♥) | tvN 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30717156</id>
-        <link href="https://tv.naver.com/v/30717156"/>
-        <updated>2022-11-12T17:40:37.725Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언니가 미안하다.. 윤아 나온 ＜엑시트＞ 장면 못 맞힌 탱구ㅋㅋ | tvN 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30717155</id>
-        <link href="https://tv.naver.com/v/30717155"/>
-        <updated>2022-11-12T17:40:37.736Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
