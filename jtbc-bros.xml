@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-11-25T17:37:23.883Z</updated>
+    <updated>2022-11-26T05:36:52.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ㄷㄷ; 배우가 배우를 삼켰다는 말밖에,,😦 송진우x박성훈의 찰진 성대모사↗]]></title>
+        <id>https://tv.naver.com/v/31096603</id>
+        <link href="https://tv.naver.com/v/31096603"/>
+        <updated>2022-11-26T05:36:51.481Z</updated>
+        <content type="html"><![CDATA[03:43]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트]임슬옹은 계획이 다 있었구나..호동이 잡으러 찐친들 총출동🌟 임슬옹x손담비x정찬성 | 아는형님 | JTBC 200613 방송 | JTBC 200613 방송]]></title>
         <id>https://tv.naver.com/v/31062438</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30715801"/>
         <updated>2022-11-12T17:40:45.294Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점수가 너무 짜요ㅠ 1점 따려고 고군분투하는 민호 〈줄리엣〉♬ | JTBC 221112 방송]]></title>
-        <id>https://tv.naver.com/v/30715411</id>
-        <link href="https://tv.naver.com/v/30715411"/>
-        <updated>2022-11-12T17:40:45.298Z</updated>
-        <content type="html"><![CDATA[01:21]]></content>
     </entry>
 </feed>
