@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-11-28T05:37:13.411Z</updated>
+    <updated>2022-11-28T17:38:49.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 하이퍼리얼리즘 개그 천재 김원훈 x 엄지윤 x 조진세]]></title>
+        <id>https://tv.naver.com/v/31151358</id>
+        <link href="https://tv.naver.com/v/31151358"/>
+        <updated>2022-11-28T17:38:41.519Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 등장한 대세 코미디언 김원훈 x 엄지윤 x 조진세]]></title>
         <id>https://tv.naver.com/v/31111398</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/30908570"/>
         <updated>2022-11-19T17:38:22.381Z</updated>
         <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키컴 대신 동컴이 계산했다 ㄷㄷ 놀보X유아X미미가 만들어낸 꼴찌들의 반란 | tvN 221119 방송]]></title>
-        <id>https://tv.naver.com/v/30908259</id>
-        <link href="https://tv.naver.com/v/30908259"/>
-        <updated>2022-11-19T17:38:22.381Z</updated>
-        <content type="html"><![CDATA[05:26]]></content>
     </entry>
 </feed>

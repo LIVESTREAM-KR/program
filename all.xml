@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-28T05:37:13.407Z</updated>
+    <updated>2022-11-28T17:38:49.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 하이퍼리얼리즘 개그 천재 김원훈 x 엄지윤 x 조진세 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31151358</id>
+        <link href="https://tv.naver.com/v/31151358"/>
+        <updated>2022-11-28T17:38:41.519Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 등장한 대세 코미디언 김원훈 x 엄지윤 x 조진세 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/31111398</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/30908570"/>
         <updated>2022-11-19T17:38:22.381Z</updated>
         <content type="html"><![CDATA[02:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키컴 대신 동컴이 계산했다 ㄷㄷ 놀보X유아X미미가 만들어낸 꼴찌들의 반란 | tvN 221119 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/30908259</id>
-        <link href="https://tv.naver.com/v/30908259"/>
-        <updated>2022-11-19T17:38:22.381Z</updated>
-        <content type="html"><![CDATA[05:26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 퍼포먼스에 진심인 '박성훈·김소은·송진우·임나영'의 우당탕탕 게임 하이라이트⚡ | JTBC 221126 방송 (아는 형님)]]></title>
