@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T05:37:53.261Z</updated>
+    <updated>2022-12-02T05:36:48.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 하이퍼리얼리즘 개그 천재 김원훈 x 엄지윤 x 조진세 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:32]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 강호동 피해자 신아영부터 김영철과 썸탄(?) 안현모까지↗ 뉴스에서 놀아본 전학생의 토크 하이라이트 | JTBC 200606 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/31257722</id>
+        <link href="https://tv.naver.com/v/31257722"/>
+        <updated>2022-12-02T05:36:47.648Z</updated>
+        <content type="html"><![CDATA[13:06]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】이거잖아..내가 기다리던 거...❣️카라❣️ 와 함께 하는 이모지 게임&토크✨ (아는 형님)]]></title>
         <id>https://tv.naver.com/v/31236546</id>
         <link href="https://tv.naver.com/v/31236546"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/30908157"/>
         <updated>2022-11-19T17:38:29.650Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빽가 없이도 일정 소화하는 '코요태'😎 우리의 꿈 퍼포먼스 인정 완.료 | JTBC 221119 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/30907607</id>
-        <link href="https://tv.naver.com/v/30907607"/>
-        <updated>2022-11-19T17:38:29.650Z</updated>
-        <content type="html"><![CDATA[03:06]]></content>
     </entry>
 </feed>
