@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-02T05:36:48.338Z</updated>
+    <updated>2022-12-02T17:36:35.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토 멤버들 맴찢하게 만든 김원훈의 노잼 포포먼쓰😥]]></title>
+        <id>https://tv.naver.com/v/31288743</id>
+        <link href="https://tv.naver.com/v/31288743"/>
+        <updated>2022-12-02T17:36:28.041Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] [속보] 숏박스 팀, 사실은 최악의 팀워크? (ft.세대차이)]]></title>
+        <id>https://tv.naver.com/v/31288740</id>
+        <link href="https://tv.naver.com/v/31288740"/>
+        <updated>2022-12-02T17:36:28.050Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 하이퍼리얼리즘 개그 천재 김원훈 x 엄지윤 x 조진세]]></title>
         <id>https://tv.naver.com/v/31151358</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/30908684"/>
         <updated>2022-11-19T17:38:22.378Z</updated>
         <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래 나 못 돼 숙녀가 못 돼~♬ 예수님부터 부처님까지 다 찾는 도레미들ㅋㅋ | tvN 221119 방송]]></title>
-        <id>https://tv.naver.com/v/30908674</id>
-        <link href="https://tv.naver.com/v/30908674"/>
-        <updated>2022-11-19T17:38:22.381Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버블팝좌 효정의 상큼한 ＜부기 업＞ & 탱구의 그 시절 브아걸 포포몬쓰까지♥ | tvN 221119 방송]]></title>
-        <id>https://tv.naver.com/v/30908570</id>
-        <link href="https://tv.naver.com/v/30908570"/>
-        <updated>2022-11-19T17:38:22.381Z</updated>
-        <content type="html"><![CDATA[02:32]]></content>
     </entry>
 </feed>
