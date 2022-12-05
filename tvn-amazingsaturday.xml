@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-05T05:36:24.197Z</updated>
+    <updated>2022-12-05T17:36:55.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토를 흠뻑 취하게 할 ＂술꾼도시여자들2＂ 이선빈 x 정은지 x 한선화]]></title>
+        <id>https://tv.naver.com/v/31356028</id>
+        <link href="https://tv.naver.com/v/31356028"/>
+        <updated>2022-12-05T17:36:48.536Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 텐션 올려~! ＜술꾼도시여자들＞ 이선빈 x 정은지 x 한선화]]></title>
         <id>https://tv.naver.com/v/31308337</id>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/31110269</id>
         <link href="https://tv.naver.com/v/31110269"/>
         <updated>2022-11-26T17:36:27.368Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사전 인터뷰 했었어 내가!? 그냥 같이 술 먹은 사람들만 기억하는 정재형ㅋㅋ | tvN 221126 방송]]></title>
-        <id>https://tv.naver.com/v/31110268</id>
-        <link href="https://tv.naver.com/v/31110268"/>
-        <updated>2022-11-26T17:36:27.369Z</updated>
         <content type="html"><![CDATA[01:14]]></content>
     </entry>
 </feed>
