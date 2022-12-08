@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-07T17:37:13.081Z</updated>
+    <updated>2022-12-08T05:36:28.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 흠뻑 취하게 할 ＂술꾼도시여자들2＂ 이선빈 x 정은지 x 한선화 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】예능 천재의 '탄생'..?! 윤시윤&이호원이 형님 학교에 찾아왔습니다~🙏 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/31434245</id>
+        <link href="https://tv.naver.com/v/31434245"/>
+        <updated>2022-12-08T05:36:27.373Z</updated>
+        <content type="html"><![CDATA[03:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 언니들 왔다😎 15주년 완전체로 컴백한 카라 퍼포먼스 모음.zip | JTBC 221203 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/31309961</id>
         <link href="https://tv.naver.com/v/31309961"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/31111935"/>
         <updated>2022-11-26T17:36:33.643Z</updated>
         <content type="html"><![CDATA[19:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 360회 예고편 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/31110057</id>
-        <link href="https://tv.naver.com/v/31110057"/>
-        <updated>2022-11-26T17:36:33.646Z</updated>
-        <content type="html"><![CDATA[01:56]]></content>
     </entry>
 </feed>
