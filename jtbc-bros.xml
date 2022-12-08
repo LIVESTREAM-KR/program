@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-08T05:36:27.993Z</updated>
+    <updated>2022-12-08T17:36:33.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 카메라 돌면 눈빛 싹~ 변하는 악역 전문가들 다 모였다. 박하나x이학주x안보현 토크 하이라이트 | JTBC 200530 방송]]></title>
+        <id>https://tv.naver.com/v/31452930</id>
+        <link href="https://tv.naver.com/v/31452930"/>
+        <updated>2022-12-08T17:36:32.960Z</updated>
+        <content type="html"><![CDATA[13:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】예능 천재의 '탄생'..?! 윤시윤&이호원이 형님 학교에 찾아왔습니다~🙏]]></title>
         <id>https://tv.naver.com/v/31434245</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31113312"/>
         <updated>2022-11-26T17:36:33.638Z</updated>
         <content type="html"><![CDATA[19:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 이렇게 웃긴 배우들 처음 봄 ㅋㅋ 매력 유포자들ღ '박성훈-김소은-송진우-임나영' 토크 모음 | JTBC 221126 방송]]></title>
-        <id>https://tv.naver.com/v/31111935</id>
-        <link href="https://tv.naver.com/v/31111935"/>
-        <updated>2022-11-26T17:36:33.643Z</updated>
-        <content type="html"><![CDATA[19:29]]></content>
     </entry>
 </feed>
