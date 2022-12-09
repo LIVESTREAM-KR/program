@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-09T05:36:34.192Z</updated>
+    <updated>2022-12-09T17:37:05.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 정답을 맞추란 말이야~~~~ (ft.따뜻한 아이스 라떼)]]></title>
+        <id>https://tv.naver.com/v/31481609</id>
+        <link href="https://tv.naver.com/v/31481609"/>
+        <updated>2022-12-09T17:36:57.012Z</updated>
+        <content type="html"><![CDATA[03:42]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 숙취없는 클라쓰🍻 올 때마다 새롭고 짜릿한 그녀들이 돌아왔다!!]]></title>
+        <id>https://tv.naver.com/v/31481608</id>
+        <link href="https://tv.naver.com/v/31481608"/>
+        <updated>2022-12-09T17:36:57.018Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 흠뻑 취하게 할 ＂술꾼도시여자들2＂ 이선빈 x 정은지 x 한선화]]></title>
         <id>https://tv.naver.com/v/31356028</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31110481"/>
         <updated>2022-11-26T17:36:27.364Z</updated>
         <content type="html"><![CDATA[02:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왤케 신났어ㅋㅋㅋ 거~의 신내림 받은 키범이의 핑클 완벽 접선 | tvN 221126 방송]]></title>
-        <id>https://tv.naver.com/v/31110395</id>
-        <link href="https://tv.naver.com/v/31110395"/>
-        <updated>2022-11-26T17:36:27.365Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점으로 빼앗아 간 정답.. 멘탈 나간 적재와 신나버린 뚱유니의 정답 가로채기ㅋㅋㅋ | tvN 221126 방송]]></title>
-        <id>https://tv.naver.com/v/31110269</id>
-        <link href="https://tv.naver.com/v/31110269"/>
-        <updated>2022-11-26T17:36:27.368Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
     </entry>
 </feed>
