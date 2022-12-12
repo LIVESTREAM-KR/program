@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-12T05:36:31.401Z</updated>
+    <updated>2022-12-12T17:37:10.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 美친 목소리, 美친 예능감!!!💕 김범수 x KCM]]></title>
+        <id>https://tv.naver.com/v/31540218</id>
+        <link href="https://tv.naver.com/v/31540218"/>
+        <updated>2022-12-12T17:37:04.116Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 받쓰 못하면 어때! 목소리가 명품인데😍 김범수 X KCM #놀라운토요일]]></title>
         <id>https://tv.naver.com/v/31504101</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31307355"/>
         <updated>2022-12-03T17:36:24.409Z</updated>
         <content type="html"><![CDATA[02:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉴 새 없이 플러팅하는 원훈에 정신 나갈 것 같은(?) 키범이ㅋㅋㅋ | tvN 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31307235</id>
-        <link href="https://tv.naver.com/v/31307235"/>
-        <updated>2022-12-03T17:36:24.411Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
     </entry>
 </feed>
