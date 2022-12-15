@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-15T05:36:30.593Z</updated>
+    <updated>2022-12-15T17:37:10.033Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 급이 다른 무대! 환상의 콜라보🎶 아형 X 미스터트롯 TOP7의 퍼포먼스 하이라이트 | JTBC 200523 방송]]></title>
+        <id>https://tv.naver.com/v/31642501</id>
+        <link href="https://tv.naver.com/v/31642501"/>
+        <updated>2022-12-15T17:37:09.368Z</updated>
+        <content type="html"><![CDATA[24:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 트로트를 넘어 예능도 접수 완료 👍 빈틈없는 오디오 미스터트롯 TOP7의 토크 하이라이트 | JTBC 200509 방송]]></title>
+        <id>https://tv.naver.com/v/31642318</id>
+        <link href="https://tv.naver.com/v/31642318"/>
+        <updated>2022-12-15T17:37:09.368Z</updated>
+        <content type="html"><![CDATA[15:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 🎤역대급 콜라보?! 🎤 김연자 X 이재진 X 이홍기가 형님 학교에 찾아왔습니다!]]></title>
+        <id>https://tv.naver.com/v/31630135</id>
+        <link href="https://tv.naver.com/v/31630135"/>
+        <updated>2022-12-15T17:37:09.371Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 탄생리의 차기 이장은 누가 될 것인가!! 윤시윤·이호원 게임 하이라이트❤️‍🔥 | JTBC 221210 방송]]></title>
         <id>https://tv.naver.com/v/31505808</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/31306946"/>
         <updated>2022-12-03T17:36:31.073Z</updated>
         <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리듬에 맡겨 느낀 그대로~😎 15주년 완전체 컴백 카라 〈WHEN I MOVE〉♪ | JTBC 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31306801</id>
-        <link href="https://tv.naver.com/v/31306801"/>
-        <updated>2022-12-03T17:36:31.073Z</updated>
-        <content type="html"><![CDATA[01:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 세리머니는 카라 단체로😉 〈미스터〉♬ | JTBC 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31306799</id>
-        <link href="https://tv.naver.com/v/31306799"/>
-        <updated>2022-12-03T17:36:31.075Z</updated>
-        <content type="html"><![CDATA[01:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(긴급 투입※) 개성 강한 카라의 〈CUPID〉♬👼🏻 | JTBC 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31306872</id>
-        <link href="https://tv.naver.com/v/31306872"/>
-        <updated>2022-12-03T17:36:31.078Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
