@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-16T05:36:20.389Z</updated>
+    <updated>2022-12-16T17:36:37.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 흔들림 없는 2키 올림🔈🔉🔊 마지막 무대 매너까지 완.벽.]]></title>
+        <id>https://tv.naver.com/v/31672309</id>
+        <link href="https://tv.naver.com/v/31672309"/>
+        <updated>2022-12-16T17:36:30.727Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 문세윤 VS KCM의 받ㅆ.. 아니고 팔씨름 한판 승부!!💪💪]]></title>
+        <id>https://tv.naver.com/v/31672307</id>
+        <link href="https://tv.naver.com/v/31672307"/>
+        <updated>2022-12-16T17:36:30.728Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 美친 목소리, 美친 예능감!!!💕 김범수 x KCM]]></title>
         <id>https://tv.naver.com/v/31540218</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31307549"/>
         <updated>2022-12-03T17:36:24.404Z</updated>
         <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂아니 어떻게 글씨까지 예쁘실까＂ 놀토 공식 서기 탱구 클라쓰♥ | tvN 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31307441</id>
-        <link href="https://tv.naver.com/v/31307441"/>
-        <updated>2022-12-03T17:36:24.407Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기 셋이 모여 있으니까 되게 이상하다 ㅋㅋ 치열한 지명 경쟁🔥 | tvN 221203 방송]]></title>
-        <id>https://tv.naver.com/v/31307355</id>
-        <link href="https://tv.naver.com/v/31307355"/>
-        <updated>2022-12-03T17:36:24.409Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
 </feed>

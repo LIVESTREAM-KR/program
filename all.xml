@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T05:36:20.394Z</updated>
+    <updated>2022-12-16T17:36:37.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 흔들림 없는 2키 올림🔈🔉🔊 마지막 무대 매너까지 완.벽. (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31672309</id>
+        <link href="https://tv.naver.com/v/31672309"/>
+        <updated>2022-12-16T17:36:30.727Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 문세윤 VS KCM의 받ㅆ.. 아니고 팔씨름 한판 승부!!💪💪 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31672307</id>
+        <link href="https://tv.naver.com/v/31672307"/>
+        <updated>2022-12-16T17:36:30.728Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 美친 목소리, 美친 예능감!!!💕 김범수 x KCM (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/31540218</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/31307549"/>
         <updated>2022-12-03T17:36:24.404Z</updated>
         <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂아니 어떻게 글씨까지 예쁘실까＂ 놀토 공식 서기 탱구 클라쓰♥ | tvN 221203 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/31307441</id>
-        <link href="https://tv.naver.com/v/31307441"/>
-        <updated>2022-12-03T17:36:24.407Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기 셋이 모여 있으니까 되게 이상하다 ㅋㅋ 치열한 지명 경쟁🔥 | tvN 221203 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/31307355</id>
-        <link href="https://tv.naver.com/v/31307355"/>
-        <updated>2022-12-03T17:36:24.409Z</updated>
-        <content type="html"><![CDATA[02:46]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 급이 다른 무대! 환상의 콜라보🎶 아형 X 미스터트롯 TOP7의 퍼포먼스 하이라이트 | JTBC 200523 방송 (아는 형님)]]></title>
