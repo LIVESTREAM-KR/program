@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T17:36:37.784Z</updated>
+    <updated>2022-12-17T05:36:47.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 흔들림 없는 2키 올림🔈🔉🔊 마지막 무대 매너까지 완.벽. (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 속이 뻥↗ 인간 소화제 '이홍기'의 美친 가창력 〈아모르 파티〉 LIVE ♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/31679498</id>
+        <link href="https://tv.naver.com/v/31679498"/>
+        <updated>2022-12-17T05:36:47.140Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 급이 다른 무대! 환상의 콜라보🎶 아형 X 미스터트롯 TOP7의 퍼포먼스 하이라이트 | JTBC 200523 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/31642501</id>
         <link href="https://tv.naver.com/v/31642501"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/31309413"/>
         <updated>2022-12-03T17:36:31.073Z</updated>
         <content type="html"><![CDATA[21:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 361회 예고편 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/31306946</id>
-        <link href="https://tv.naver.com/v/31306946"/>
-        <updated>2022-12-03T17:36:31.073Z</updated>
-        <content type="html"><![CDATA[02:03]]></content>
     </entry>
 </feed>
