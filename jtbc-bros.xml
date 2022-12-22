@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-22T05:36:24.859Z</updated>
+    <updated>2022-12-22T17:36:19.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 예능감도 떡잎부터 다른 최소 인생 2회차 신동들의 토크·퍼포먼스 하이라이트 | JTBC 200502 방송]]></title>
+        <id>https://tv.naver.com/v/31822624</id>
+        <link href="https://tv.naver.com/v/31822624"/>
+        <updated>2022-12-22T17:36:18.641Z</updated>
+        <content type="html"><![CDATA[14:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】형님 학교 단골 💙슈퍼주니어💙의 바보 라이어 게임 보고 가슈~ (feat.억지 칭찬)]]></title>
         <id>https://tv.naver.com/v/31805058</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31502343"/>
         <updated>2022-12-10T17:36:57.817Z</updated>
         <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 짜릿❤️‍🔥 8:7 아슬아슬한 스코어로 시윤파의 승리 | JTBC 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31501995</id>
-        <link href="https://tv.naver.com/v/31501995"/>
-        <updated>2022-12-10T17:36:57.817Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
     </entry>
 </feed>
