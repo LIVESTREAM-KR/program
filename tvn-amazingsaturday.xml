@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-23T05:39:22.631Z</updated>
+    <updated>2022-12-23T17:36:27.448Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 다같이 불러요~ 아이유의 홍뇨홍뇨 크리스마스🎅💚]]></title>
+        <id>https://tv.naver.com/v/31845472</id>
+        <link href="https://tv.naver.com/v/31845472"/>
+        <updated>2022-12-23T17:36:20.281Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 크리스마스 특집에 테토벤? 아니 왜 베토벤이...? (※스크루지 아님주의※)]]></title>
+        <id>https://tv.naver.com/v/31845470</id>
+        <link href="https://tv.naver.com/v/31845470"/>
+        <updated>2022-12-23T17:36:20.281Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 돌아온 크리스마스 악몽?!🎅➡😈 김태우 X 테이 #놀라운토요일]]></title>
         <id>https://tv.naver.com/v/31728595</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31502968"/>
         <updated>2022-12-10T17:36:50.549Z</updated>
         <content type="html"><![CDATA[02:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복화술이 아이돌 필수였어..?ㅋㅋ 뜻밖의 복화술 장인 ★정은지★ | tvN 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31502886</id>
-        <link href="https://tv.naver.com/v/31502886"/>
-        <updated>2022-12-10T17:36:50.563Z</updated>
-        <content type="html"><![CDATA[01:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본격 집안싸움! 써니는 우는 중ㅠㅠ 과연 써니는 태티서 노래를 맞힐 수 있을지? | tvN 221210 방송]]></title>
-        <id>https://tv.naver.com/v/31502720</id>
-        <link href="https://tv.naver.com/v/31502720"/>
-        <updated>2022-12-10T17:36:50.563Z</updated>
-        <content type="html"><![CDATA[06:10]]></content>
     </entry>
 </feed>
