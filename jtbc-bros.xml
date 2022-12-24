@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-23T17:36:27.451Z</updated>
+    <updated>2022-12-24T05:36:43.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 골프채 당근 썰 풀다🥕, 냅다 일반인 성대모사하는 이특 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/31858474</id>
+        <link href="https://tv.naver.com/v/31858474"/>
+        <updated>2022-12-24T05:36:42.348Z</updated>
+        <content type="html"><![CDATA[01:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 예능감도 떡잎부터 다른 최소 인생 2회차 신동들의 토크·퍼포먼스 하이라이트 | JTBC 200502 방송]]></title>
         <id>https://tv.naver.com/v/31822624</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31505433"/>
         <updated>2022-12-10T17:36:57.817Z</updated>
         <content type="html"><![CDATA[18:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 362회 예고편]]></title>
-        <id>https://tv.naver.com/v/31502343</id>
-        <link href="https://tv.naver.com/v/31502343"/>
-        <updated>2022-12-10T17:36:57.817Z</updated>
-        <content type="html"><![CDATA[01:53]]></content>
     </entry>
 </feed>
