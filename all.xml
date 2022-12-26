@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-26T05:39:37.149Z</updated>
+    <updated>2022-12-26T17:36:41.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2022년 마지막은 놀토 × (여자)아이들 과 함께😍 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/31907231</id>
+        <link href="https://tv.naver.com/v/31907231"/>
+        <updated>2022-12-26T17:36:33.341Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[미방분] 테토벤의 [루드윅] 한 장면 감상하시죠🎵 김태우 X 테이 #놀라운토요일 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/31867001</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/31688837"/>
         <updated>2022-12-17T17:36:10.268Z</updated>
         <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2키만 올려주세요! KCM이 부르는 김태우의 ＜사랑비＞ ♬ | tvN 221217 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/31688742</id>
-        <link href="https://tv.naver.com/v/31688742"/>
-        <updated>2022-12-17T17:36:10.268Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 슈퍼주니어는 서로 잘 안다? 너무 잘 알아 틀려버리는 ☆대환장 게임★ | JTBC 221224 방송 (아는 형님)]]></title>
