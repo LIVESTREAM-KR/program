@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-29T05:39:35.110Z</updated>
+    <updated>2022-12-29T17:36:49.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 텐션 끌어올려↗↗↗ 형님들도 놀라게한 美친 예능감! 오마이걸 토크 하이라이트 | 아는형님 | JTBC 200425 방송 | JTBC 200425 방송]]></title>
+        <id>https://tv.naver.com/v/31987624</id>
+        <link href="https://tv.naver.com/v/31987624"/>
+        <updated>2022-12-29T17:36:49.128Z</updated>
+        <content type="html"><![CDATA[12:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 콘셉트 장인✨ 몽환X청순X걸크러쉬 모두 소화해내는 오마이걸 퍼포먼스 하이라이트 | 아는형님 | JTBC 200425 방송 | JTBC 200425 방송]]></title>
+        <id>https://tv.naver.com/v/31987269</id>
+        <link href="https://tv.naver.com/v/31987269"/>
+        <updated>2022-12-29T17:36:49.130Z</updated>
+        <content type="html"><![CDATA[09:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 슈퍼주니어는 서로 잘 안다? 너무 잘 알아 틀려버리는 ☆대환장 게임★ | JTBC 221224 방송]]></title>
         <id>https://tv.naver.com/v/31868668</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31687136"/>
         <updated>2022-12-17T17:36:16.859Z</updated>
         <content type="html"><![CDATA[01:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이재진 vs 김영철'🎤 고음왕 타이틀의 주인은?! | JTBC 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31687133</id>
-        <link href="https://tv.naver.com/v/31687133"/>
-        <updated>2022-12-17T17:36:16.862Z</updated>
-        <content type="html"><![CDATA[02:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진호 PICK '말괄량이들의 워너비' ☞ 서장훈ㅋㅋㅋ | JTBC 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31687127</id>
-        <link href="https://tv.naver.com/v/31687127"/>
-        <updated>2022-12-17T17:36:16.864Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
     </entry>
 </feed>
