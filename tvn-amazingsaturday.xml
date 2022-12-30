@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2022-12-30T05:36:50.353Z</updated>
+    <updated>2022-12-30T17:36:26.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가요 초성 퀴즈! (여자)아이들이 커버한 'ㅂㅁ'은?!]]></title>
+        <id>https://tv.naver.com/v/32006775</id>
+        <link href="https://tv.naver.com/v/32006775"/>
+        <updated>2022-12-30T17:36:19.117Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 연말맞이 놀토의 대형(?) 프로젝트! 팀 대항 릴레이 받쓰!]]></title>
+        <id>https://tv.naver.com/v/32006656</id>
+        <link href="https://tv.naver.com/v/32006656"/>
+        <updated>2022-12-30T17:36:19.118Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2022년 마지막은 놀토 × (여자)아이들 과 함께😍]]></title>
         <id>https://tv.naver.com/v/31907231</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31688929"/>
         <updated>2022-12-17T17:36:10.264Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[샤이니가 차린 밥상에 넉살 뿌리기ㅋㅋ 민호X넉살 샤이니의 ＜셜록＞ ♬ | tvN 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31688841</id>
-        <link href="https://tv.naver.com/v/31688841"/>
-        <updated>2022-12-17T17:36:10.264Z</updated>
-        <content type="html"><![CDATA[01:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최소한의 움직임으로 섹시, 치명 다 챙김.. 민호가 추는 레인보우의 ＜에이＞ ♬ | tvN 221217 방송]]></title>
-        <id>https://tv.naver.com/v/31688837</id>
-        <link href="https://tv.naver.com/v/31688837"/>
-        <updated>2022-12-17T17:36:10.268Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
     </entry>
 </feed>
