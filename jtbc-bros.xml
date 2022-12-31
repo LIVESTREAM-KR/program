@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2022-12-30T17:36:26.244Z</updated>
+    <updated>2022-12-31T05:36:42.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 슈퍼주니어의 2023년 미리 보기👀 글로벌 멸치 기업 CEO가 된 멤버는 누규~?]]></title>
+        <id>https://tv.naver.com/v/32017808</id>
+        <link href="https://tv.naver.com/v/32017808"/>
+        <updated>2022-12-31T05:36:41.756Z</updated>
+        <content type="html"><![CDATA[03:00]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 텐션 끌어올려↗↗↗ 형님들도 놀라게한 美친 예능감! 오마이걸 토크 하이라이트 | 아는형님 | JTBC 200425 방송 | JTBC 200425 방송]]></title>
         <id>https://tv.naver.com/v/31987624</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31690497"/>
         <updated>2022-12-17T17:36:16.858Z</updated>
         <content type="html"><![CDATA[23:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 363회 예고편]]></title>
-        <id>https://tv.naver.com/v/31687136</id>
-        <link href="https://tv.naver.com/v/31687136"/>
-        <updated>2022-12-17T17:36:16.859Z</updated>
-        <content type="html"><![CDATA[01:48]]></content>
     </entry>
 </feed>
