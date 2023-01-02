@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-02T05:36:29.881Z</updated>
+    <updated>2023-01-02T17:36:32.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2023년 계묘년 새해! 검은 토끼 사냥하러 온 웃음 사냥꾼 상준 x 두영 x 국주 x이은지 x 해준! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32060182</id>
+        <link href="https://tv.naver.com/v/32060182"/>
+        <updated>2023-01-02T17:36:24.854Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년 새해 맞이! 코미디언 5대 천왕 이상준 x 김두영 x 이국주 x 이은지 x 김해준 놀토 입성! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32026264</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/31866549"/>
         <updated>2022-12-24T17:36:23.704Z</updated>
         <content type="html"><![CDATA[02:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식물성 우유는 못.참.지. 고소해서 케이크랑 먹으면 얼마나 맛있게요♥ #유료광고포함 | tvN 221224 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/31866496</id>
-        <link href="https://tv.naver.com/v/31866496"/>
-        <updated>2022-12-24T17:36:23.704Z</updated>
-        <content type="html"><![CDATA[01:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 이진호의 눈물 수상 소감?! 슈주와 함께하는 형님학교 2022 시상식🏆 | JTBC 221231 방송 (아는 형님)]]></title>
