@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-05T05:36:46.407Z</updated>
+    <updated>2023-01-05T17:36:33.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년 계묘년 새해! 검은 토끼 사냥하러 온 웃음 사냥꾼 상준 x 두영 x 국주 x이은지 x 해준! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ?? : 사퇴하세요!! 아무말로 물고 뜯는 아형고 레전드 반장선거 하이라이트↗ 우린 이걸 난장판이라 부르기로 했어요.. | JTBC 200418 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32154113</id>
+        <link href="https://tv.naver.com/v/32154113"/>
+        <updated>2023-01-05T17:36:33.341Z</updated>
+        <content type="html"><![CDATA[19:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】🕍재벌집...🕍 아니 형님 학교에 김남희 X 박지현 X 김도현이 찾아왔습니다~🕥 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32135355</id>
         <link href="https://tv.naver.com/v/32135355"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/31865221"/>
         <updated>2022-12-24T17:36:29.348Z</updated>
         <content type="html"><![CDATA[03:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춤짱 은혁은 〈Black Suit〉 음악이 꺼져도 박자를 유지할까?! | JTBC 221224 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/31865158</id>
-        <link href="https://tv.naver.com/v/31865158"/>
-        <updated>2022-12-24T17:36:29.349Z</updated>
-        <content type="html"><![CDATA[02:14]]></content>
     </entry>
 </feed>
