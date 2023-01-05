@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-04T17:37:45.544Z</updated>
+    <updated>2023-01-05T05:36:46.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년 계묘년 새해! 검은 토끼 사냥하러 온 웃음 사냥꾼 상준 x 두영 x 국주 x이은지 x 해준! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:31]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】🕍재벌집...🕍 아니 형님 학교에 김남희 X 박지현 X 김도현이 찾아왔습니다~🕥 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32135355</id>
+        <link href="https://tv.naver.com/v/32135355"/>
+        <updated>2023-01-05T05:36:45.721Z</updated>
+        <content type="html"><![CDATA[06:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 이진호의 눈물 수상 소감?! 슈주와 함께하는 형님학교 2022 시상식🏆 | JTBC 221231 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32027707</id>
         <link href="https://tv.naver.com/v/32027707"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/31865158"/>
         <updated>2022-12-24T17:36:29.349Z</updated>
         <content type="html"><![CDATA[02:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신 있어↗ 미션 눈치채고 려욱에게 하이파이브 한 시원🙌 | JTBC 221224 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/31865215</id>
-        <link href="https://tv.naver.com/v/31865215"/>
-        <updated>2022-12-24T17:36:29.357Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>

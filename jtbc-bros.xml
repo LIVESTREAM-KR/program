@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-01-04T17:37:45.541Z</updated>
+    <updated>2023-01-05T05:36:46.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】🕍재벌집...🕍 아니 형님 학교에 김남희 X 박지현 X 김도현이 찾아왔습니다~🕥]]></title>
+        <id>https://tv.naver.com/v/32135355</id>
+        <link href="https://tv.naver.com/v/32135355"/>
+        <updated>2023-01-05T05:36:45.721Z</updated>
+        <content type="html"><![CDATA[06:03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 이진호의 눈물 수상 소감?! 슈주와 함께하는 형님학교 2022 시상식🏆 | JTBC 221231 방송]]></title>
         <id>https://tv.naver.com/v/32027707</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/31865158"/>
         <updated>2022-12-24T17:36:29.349Z</updated>
         <content type="html"><![CDATA[02:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신 있어↗ 미션 눈치채고 려욱에게 하이파이브 한 시원🙌 | JTBC 221224 방송]]></title>
-        <id>https://tv.naver.com/v/31865215</id>
-        <link href="https://tv.naver.com/v/31865215"/>
-        <updated>2022-12-24T17:36:29.357Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
     </entry>
 </feed>
