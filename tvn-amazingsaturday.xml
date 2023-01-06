@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-01-06T05:36:29.245Z</updated>
+    <updated>2023-01-06T17:36:22.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 가사 반반 퀴즈! ＂사랑한다 말하고~ 벽을 넘어서~＂ 노래 제목은?!😆]]></title>
+        <id>https://tv.naver.com/v/32177259</id>
+        <link href="https://tv.naver.com/v/32177259"/>
+        <updated>2023-01-06T17:36:14.094Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 팀 대항 받아쓰기를 위한 광란과 혼돈의 팀 선정✨]]></title>
+        <id>https://tv.naver.com/v/32177256</id>
+        <link href="https://tv.naver.com/v/32177256"/>
+        <updated>2023-01-06T17:36:14.095Z</updated>
+        <content type="html"><![CDATA[05:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2023년 계묘년 새해! 검은 토끼 사냥하러 온 웃음 사냥꾼 상준 x 두영 x 국주 x이은지 x 해준!]]></title>
         <id>https://tv.naver.com/v/32060182</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/31866661"/>
         <updated>2022-12-24T17:36:23.704Z</updated>
         <content type="html"><![CDATA[03:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키범이의 본업 모드 ON! 색다르게 멋있는.. ★ 카라의 ＜스텝＞ | tvN 221224 방송]]></title>
-        <id>https://tv.naver.com/v/31866600</id>
-        <link href="https://tv.naver.com/v/31866600"/>
-        <updated>2022-12-24T17:36:23.704Z</updated>
-        <content type="html"><![CDATA[01:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엥 이게 내 노래라고?ㅋㅋ 김태우X탱구가 같이 부르는 초 명곡 ＜사랑비＞ ♥ | tvN 221224 방송]]></title>
-        <id>https://tv.naver.com/v/31866549</id>
-        <link href="https://tv.naver.com/v/31866549"/>
-        <updated>2022-12-24T17:36:23.704Z</updated>
-        <content type="html"><![CDATA[02:31]]></content>
     </entry>
 </feed>
