@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-06T17:36:22.246Z</updated>
+    <updated>2023-01-07T05:36:12.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 가사 반반 퀴즈! ＂사랑한다 말하고~ 벽을 넘어서~＂ 노래 제목은?!😆 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 헐레벌떡💦 몸에 밴 김도현(=최창제)의 수발 모드 (ft. 키가 훌쩍 커버린 진화영) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32194575</id>
+        <link href="https://tv.naver.com/v/32194575"/>
+        <updated>2023-01-07T05:36:11.417Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ?? : 사퇴하세요!! 아무말로 물고 뜯는 아형고 레전드 반장선거 하이라이트↗ 우린 이걸 난장판이라 부르기로 했어요.. | JTBC 200418 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32154113</id>
         <link href="https://tv.naver.com/v/32154113"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/31865259"/>
         <updated>2022-12-24T17:36:29.348Z</updated>
         <content type="html"><![CDATA[01:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킁킁👃 냄새로 멤버들 물건 맞히는 촉 좋은 신동 | JTBC 221224 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/31865221</id>
-        <link href="https://tv.naver.com/v/31865221"/>
-        <updated>2022-12-24T17:36:29.348Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
