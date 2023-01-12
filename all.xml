@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-11T17:40:22.203Z</updated>
+    <updated>2023-01-12T05:36:58.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 한도 없이 행복하게 해줄 게스트 김민경 x 풍자!! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】🐰까치~까치 설맞이🐰 아는 누님 총 출동↗ (Feat.공기 놀이🔵) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32316254</id>
+        <link href="https://tv.naver.com/v/32316254"/>
+        <updated>2023-01-12T05:36:57.580Z</updated>
+        <content type="html"><![CDATA[06:26]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 진성준? 아형에서라도 후계자 만들어 드릴게! 순양家의 킹 메이킹 대작전 (ft. 댄스 타임) | JTBC 230107 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32202564</id>
         <link href="https://tv.naver.com/v/32202564"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32024084"/>
         <updated>2022-12-31T17:36:23.397Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춤짱의 클래스를 보여주는(๑ ˃̵͈́∀˂̵͈̀ ) 은혁의 〈Unholy〉♬ | JTBC 221231 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32023948</id>
-        <link href="https://tv.naver.com/v/32023948"/>
-        <updated>2022-12-31T17:36:23.397Z</updated>
-        <content type="html"><![CDATA[02:29]]></content>
     </entry>
 </feed>
