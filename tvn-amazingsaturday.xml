@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-01-12T17:45:25.121Z</updated>
+    <updated>2023-01-13T17:36:23.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂ㅇㄱㄹㅉㅍㄱㄹ＂가 초성인 라면이 있다고?!]]></title>
+        <id>https://tv.naver.com/v/32357265</id>
+        <link href="https://tv.naver.com/v/32357265"/>
+        <updated>2023-01-13T17:36:15.370Z</updated>
+        <content type="html"><![CDATA[03:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 민경이 말라깽이를 맡고 있는 전에 없던 ＂한도 초과＂ 신세계!!]]></title>
+        <id>https://tv.naver.com/v/32357068</id>
+        <link href="https://tv.naver.com/v/32357068"/>
+        <updated>2023-01-13T17:36:15.387Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 한도 없이 행복하게 해줄 게스트 김민경 x 풍자!!]]></title>
         <id>https://tv.naver.com/v/32245150</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32025889"/>
         <updated>2023-01-09T17:39:51.037Z</updated>
         <content type="html"><![CDATA[01:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽤 잘하는데..? 엽르신X붐청이 댄스 챌린지 ㅋㅋㅋ | tvN 221231 방송]]></title>
-        <id>https://tv.naver.com/v/32025884</id>
-        <link href="https://tv.naver.com/v/32025884"/>
-        <updated>2023-01-09T17:39:51.038Z</updated>
-        <content type="html"><![CDATA[02:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미연의 정답! 미연X슈화X나래X동현X세윤의 ＜한잔해＞♬ | tvN 221231 방송]]></title>
-        <id>https://tv.naver.com/v/32025707</id>
-        <link href="https://tv.naver.com/v/32025707"/>
-        <updated>2023-01-09T17:39:51.039Z</updated>
-        <content type="html"><![CDATA[01:14]]></content>
     </entry>
 </feed>
