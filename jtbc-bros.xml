@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-01-13T17:36:23.221Z</updated>
+    <updated>2023-01-14T05:36:40.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂했어? 안 했어?＂ 미미 급발진 질문에 '예능 고수' 이수근 당황 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/32370335</id>
+        <link href="https://tv.naver.com/v/32370335"/>
+        <updated>2023-01-14T05:36:39.786Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂호동이가 엄청 뭐라고 했다던데?＂ 형님들 기강잡는 스나이퍼 송가인 X 홍자 토크 하이라이트 | 아는형님  | JTBC 200411 방송]]></title>
         <id>https://tv.naver.com/v/32334141</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32026795"/>
         <updated>2022-12-31T17:36:23.396Z</updated>
         <content type="html"><![CDATA[26:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 365회 예고편]]></title>
-        <id>https://tv.naver.com/v/32024149</id>
-        <link href="https://tv.naver.com/v/32024149"/>
-        <updated>2022-12-31T17:36:23.396Z</updated>
-        <content type="html"><![CDATA[02:23]]></content>
     </entry>
 </feed>
