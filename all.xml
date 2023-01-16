@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T05:36:38.932Z</updated>
+    <updated>2023-01-16T17:36:37.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 사계절 내내 보고 싶은 매력 넘치는 두 배우! 임수향x차청화! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32418956</id>
+        <link href="https://tv.naver.com/v/32418956"/>
+        <updated>2023-01-16T17:36:30.307Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 과몰입도, 볼거리도 넘치는 임수향x차청화와 함께하는 설 맞이 놀토! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32382342</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/32202942"/>
         <updated>2023-01-07T17:36:52.495Z</updated>
         <content type="html"><![CDATA[02:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BMK 따라 하는 이국주부터 새내기 소방관 빙의하는 김두영까지... | tvN 230107 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32202940</id>
-        <link href="https://tv.naver.com/v/32202940"/>
-        <updated>2023-01-07T17:36:52.496Z</updated>
-        <content type="html"><![CDATA[01:45]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아는 형님 367회 예고편 (아는 형님)]]></title>
