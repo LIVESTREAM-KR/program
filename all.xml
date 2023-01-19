@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-19T05:37:01.835Z</updated>
+    <updated>2023-01-19T18:24:04.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 사계절 내내 보고 싶은 매력 넘치는 두 배우! 임수향x차청화! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 강호동 들었다 놨다 하는 NO 브레이크 호동생들💨 조권X우영X송민호X피오 토크 하이라이트 | JTBC 200404 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32509728</id>
+        <link href="https://tv.naver.com/v/32509728"/>
+        <updated>2023-01-19T18:24:03.440Z</updated>
+        <content type="html"><![CDATA[12:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아는 형님 367회 예고편 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32379248</id>
         <link href="https://tv.naver.com/v/32379248"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32201727"/>
         <updated>2023-01-07T17:36:59.466Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앙큼상큼 그 자체(☞ﾟヮﾟ)☞ 김도현의 댄스 본능 ㅋㅋ | JTBC 230107 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32201575</id>
-        <link href="https://tv.naver.com/v/32201575"/>
-        <updated>2023-01-07T17:36:59.468Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-01-19T05:37:01.802Z</updated>
+    <updated>2023-01-19T18:24:04.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 강호동 들었다 놨다 하는 NO 브레이크 호동생들💨 조권X우영X송민호X피오 토크 하이라이트 | JTBC 200404 방송]]></title>
+        <id>https://tv.naver.com/v/32509728</id>
+        <link href="https://tv.naver.com/v/32509728"/>
+        <updated>2023-01-19T18:24:03.440Z</updated>
+        <content type="html"><![CDATA[12:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아는 형님 367회 예고편]]></title>
         <id>https://tv.naver.com/v/32379248</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32201727"/>
         <updated>2023-01-07T17:36:59.466Z</updated>
         <content type="html"><![CDATA[03:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[앙큼상큼 그 자체(☞ﾟヮﾟ)☞ 김도현의 댄스 본능 ㅋㅋ | JTBC 230107 방송]]></title>
-        <id>https://tv.naver.com/v/32201575</id>
-        <link href="https://tv.naver.com/v/32201575"/>
-        <updated>2023-01-07T17:36:59.468Z</updated>
-        <content type="html"><![CDATA[03:15]]></content>
     </entry>
 </feed>
