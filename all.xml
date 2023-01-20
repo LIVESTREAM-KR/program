@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-20T05:36:35.127Z</updated>
+    <updated>2023-01-20T17:36:23.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂매일 보는 TV 드라마 맨날 고구마~＂ 이게 무슨 노래?! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32529072</id>
+        <link href="https://tv.naver.com/v/32529072"/>
+        <updated>2023-01-20T17:36:16.060Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] [속보] 임수향 ＂신동엽, 박나래 놀토에서 불편해보여..?!＂?? (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32529071</id>
+        <link href="https://tv.naver.com/v/32529071"/>
+        <updated>2023-01-20T17:36:16.078Z</updated>
+        <content type="html"><![CDATA[03:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 사계절 내내 보고 싶은 매력 넘치는 두 배우! 임수향x차청화! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32418956</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32203356"/>
         <updated>2023-01-07T17:36:52.486Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애초에 키쪽이 자리는 없었음.. 놀보가 커버하는 샤이니 노래ㅋㅋㅋ | tvN 230107 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32203355</id>
-        <link href="https://tv.naver.com/v/32203355"/>
-        <updated>2023-01-07T17:36:52.494Z</updated>
-        <content type="html"><![CDATA[02:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["커피 한 잔 할래요"의 그 김해준 맞음.. <새삥>부터 <Hype boy>까지 댄스 PARTY♬ | tvN 230107 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32202942</id>
-        <link href="https://tv.naver.com/v/32202942"/>
-        <updated>2023-01-07T17:36:52.495Z</updated>
-        <content type="html"><![CDATA[02:47]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 강호동 들었다 놨다 하는 NO 브레이크 호동생들💨 조권X우영X송민호X피오 토크 하이라이트 | JTBC 200404 방송 (아는 형님)]]></title>
