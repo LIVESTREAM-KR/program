@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-23T05:36:38.044Z</updated>
+    <updated>2023-01-23T17:36:28.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토를 찾아온 천만배우 이하늬 x 박소담😍 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32572279</id>
+        <link href="https://tv.naver.com/v/32572279"/>
+        <updated>2023-01-23T17:36:21.627Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 유령 같이 홀리는 연기력과 매력의 두 배우! 이하늬 x 박소담 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32550260</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/32380782"/>
         <updated>2023-01-14T17:36:21.596Z</updated>
         <content type="html"><![CDATA[06:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] ＂ㅇㄱㄹㅉㅍㄱㄹ＂가 초성인 라면이 있다고?! (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32357265</id>
-        <link href="https://tv.naver.com/v/32357265"/>
-        <updated>2023-01-13T17:36:15.370Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 그래 그래~ 설날에 할머니 집 왔으면 장기자랑은 하고 가야 세뱃돈을 주지!💸 | JTBC 230121 방송 (아는 형님)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-01-23T05:36:38.041Z</updated>
+    <updated>2023-01-23T17:36:28.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토를 찾아온 천만배우 이하늬 x 박소담😍]]></title>
+        <id>https://tv.naver.com/v/32572279</id>
+        <link href="https://tv.naver.com/v/32572279"/>
+        <updated>2023-01-23T17:36:21.627Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 유령 같이 홀리는 연기력과 매력의 두 배우! 이하늬 x 박소담]]></title>
         <id>https://tv.naver.com/v/32550260</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32380782"/>
         <updated>2023-01-14T17:36:21.596Z</updated>
         <content type="html"><![CDATA[06:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] ＂ㅇㄱㄹㅉㅍㄱㄹ＂가 초성인 라면이 있다고?!]]></title>
-        <id>https://tv.naver.com/v/32357265</id>
-        <link href="https://tv.naver.com/v/32357265"/>
-        <updated>2023-01-13T17:36:15.370Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
     </entry>
 </feed>
