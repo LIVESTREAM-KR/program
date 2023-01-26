@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-26T05:36:28.666Z</updated>
+    <updated>2023-01-26T17:36:16.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 찾아온 천만배우 이하늬 x 박소담😍 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[06:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ↖입담, 댄스 폭주↗ 하는 아는형님 침입자(?) 송지효x김무열의 토크·퍼포먼스 하이라이트 | JTBC 200314 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32647880</id>
+        <link href="https://tv.naver.com/v/32647880"/>
+        <updated>2023-01-26T17:36:16.318Z</updated>
+        <content type="html"><![CDATA[17:39]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】＂언니는 남자가 없잖아!!🔥＂ 폭로 가득 찐친들의 콜 마이 네임 현장🤣 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32629153</id>
         <link href="https://tv.naver.com/v/32629153"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32379115"/>
         <updated>2023-01-14T17:36:28.172Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝나지 않는 부먹 논란💥 먹을 것에 진심인 강호동의 반응은~? | JTBC 230114 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32378999</id>
-        <link href="https://tv.naver.com/v/32378999"/>
-        <updated>2023-01-14T17:36:28.173Z</updated>
-        <content type="html"><![CDATA[03:57]]></content>
     </entry>
 </feed>
