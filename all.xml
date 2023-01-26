@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T17:36:44.336Z</updated>
+    <updated>2023-01-26T05:36:28.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 찾아온 천만배우 이하늬 x 박소담😍 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[06:59]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】＂언니는 남자가 없잖아!!🔥＂ 폭로 가득 찐친들의 콜 마이 네임 현장🤣 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32629153</id>
+        <link href="https://tv.naver.com/v/32629153"/>
+        <updated>2023-01-26T05:36:28.058Z</updated>
+        <content type="html"><![CDATA[05:50]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 그래 그래~ 설날에 할머니 집 왔으면 장기자랑은 하고 가야 세뱃돈을 주지!💸 | JTBC 230121 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32549624</id>
         <link href="https://tv.naver.com/v/32549624"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32378999"/>
         <updated>2023-01-14T17:36:28.173Z</updated>
         <content type="html"><![CDATA[03:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호동이 마음에 쏘-옥❤ 미미 칼 박자 춤으로 매력 어필 성공👊 | JTBC 230114 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32378997</id>
-        <link href="https://tv.naver.com/v/32378997"/>
-        <updated>2023-01-14T17:36:28.174Z</updated>
-        <content type="html"><![CDATA[03:33]]></content>
     </entry>
 </feed>
