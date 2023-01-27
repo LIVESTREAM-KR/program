@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T05:36:56.250Z</updated>
+    <updated>2023-01-27T17:36:14.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 소담의 청춘 OO? 나래 언니, 우리 좋았잖아... (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32671249</id>
+        <link href="https://tv.naver.com/v/32671249"/>
+        <updated>2023-01-27T17:36:07.060Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 배우 이하늬, 가사보단 멜로디 위주로 들어 화제··· (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32671247</id>
+        <link href="https://tv.naver.com/v/32671247"/>
+        <updated>2023-01-27T17:36:07.060Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 찾아온 천만배우 이하늬 x 박소담😍 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32572279</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32381105"/>
         <updated>2023-01-14T17:36:21.596Z</updated>
         <content type="html"><![CDATA[06:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[품행제로 BGM 깔고 '자아도취' 잡는 키어로-★ 상태 이상 걸린 도레미ㅋㅋ | tvN 230114 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32380892</id>
-        <link href="https://tv.naver.com/v/32380892"/>
-        <updated>2023-01-14T17:36:21.596Z</updated>
-        <content type="html"><![CDATA[05:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부석순 - 거침없이♪] 행복은 성적순이 아니고 부석순이잖아~! | tvN 230114 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32380782</id>
-        <link href="https://tv.naver.com/v/32380782"/>
-        <updated>2023-01-14T17:36:21.596Z</updated>
-        <content type="html"><![CDATA[06:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ↖입담, 댄스 폭주↗ 하는 아는형님 침입자(?) 송지효x김무열의 토크·퍼포먼스 하이라이트 | JTBC 200314 방송 (아는 형님)]]></title>
