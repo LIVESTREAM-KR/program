@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-01-27T17:36:14.472Z</updated>
+    <updated>2023-01-28T05:36:39.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂말도 안 돼 너무 무서워...＂ 강호동 옛날 등교 모습에 모두 경악🔥 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/32686446</id>
+        <link href="https://tv.naver.com/v/32686446"/>
+        <updated>2023-01-28T05:36:39.202Z</updated>
+        <content type="html"><![CDATA[02:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ↖입담, 댄스 폭주↗ 하는 아는형님 침입자(?) 송지효x김무열의 토크·퍼포먼스 하이라이트 | JTBC 200314 방송]]></title>
         <id>https://tv.naver.com/v/32647880</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32379116"/>
         <updated>2023-01-14T17:36:28.171Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂해남이라도 가요＂ 스윗남 서장훈의 올바른 반응 ( ´͈ ᵕ `͈ )◞♡ | JTBC 230114 방송]]></title>
-        <id>https://tv.naver.com/v/32379115</id>
-        <link href="https://tv.naver.com/v/32379115"/>
-        <updated>2023-01-14T17:36:28.172Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>

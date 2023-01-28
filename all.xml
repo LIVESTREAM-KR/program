@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T17:36:14.475Z</updated>
+    <updated>2023-01-28T05:36:39.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 소담의 청춘 OO? 나래 언니, 우리 좋았잖아... (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[06:23]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] ＂말도 안 돼 너무 무서워...＂ 강호동 옛날 등교 모습에 모두 경악🔥 ㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/32686446</id>
+        <link href="https://tv.naver.com/v/32686446"/>
+        <updated>2023-01-28T05:36:39.202Z</updated>
+        <content type="html"><![CDATA[02:10]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ↖입담, 댄스 폭주↗ 하는 아는형님 침입자(?) 송지효x김무열의 토크·퍼포먼스 하이라이트 | JTBC 200314 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/32647880</id>
         <link href="https://tv.naver.com/v/32647880"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32379116"/>
         <updated>2023-01-14T17:36:28.171Z</updated>
         <content type="html"><![CDATA[03:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂해남이라도 가요＂ 스윗남 서장훈의 올바른 반응 ( ´͈ ᵕ `͈ )◞♡ | JTBC 230114 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32379115</id>
-        <link href="https://tv.naver.com/v/32379115"/>
-        <updated>2023-01-14T17:36:28.172Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
