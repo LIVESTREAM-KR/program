@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-30T05:36:34.137Z</updated>
+    <updated>2023-01-30T17:36:23.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 성스러운 매력들로 놀토를 채워줄 김민규X고보결X이장우✨ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/32736964</id>
+        <link href="https://tv.naver.com/v/32736964"/>
+        <updated>2023-01-30T17:36:15.525Z</updated>
+        <content type="html"><![CDATA[00:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 어벙한 반전매력, 프로먹깨비, 거기에 팔랑귀까지? 이 조합, 성스럽다! 김민규 X 이장우 X 고보결 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32697722</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/32549012"/>
         <updated>2023-01-21T17:36:14.665Z</updated>
         <content type="html"><![CDATA[06:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] ＂매일 보는 TV 드라마 맨날 고구마~＂ 이게 무슨 노래?! (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32529072</id>
-        <link href="https://tv.naver.com/v/32529072"/>
-        <updated>2023-01-20T17:36:16.060Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 여기서부터 잔인함..;; 아는 것보다 모르는 게 더 많은 최신 '밈' 어디까지 알고 있니?◔_◔ | JTBC 230128 방송 (아는 형님)]]></title>
