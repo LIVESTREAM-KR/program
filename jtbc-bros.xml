@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-02-02T05:36:43.477Z</updated>
+    <updated>2023-02-02T17:39:19.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 예쁜데, 구수해...! 뒤집어지게 웃긴 언니들★김성령, 박신혜, 전종서☆ 토크 하이라이트 | JTBC 200307 방송]]></title>
+        <id>https://tv.naver.com/v/32829797</id>
+        <link href="https://tv.naver.com/v/32829797"/>
+        <updated>2023-02-02T17:39:18.815Z</updated>
+        <content type="html"><![CDATA[16:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】어기야 디여차~흥부자 정동원X정주리X이지혜X김승혜가 형님 학교에 찾아왔습니다~]]></title>
         <id>https://tv.naver.com/v/32814206</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32548010"/>
         <updated>2023-01-21T17:36:21.445Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신비로운 퍼포먼스 가득‍🧚🏻‍♀️ '몽환 요정 유아'의 〈어머나 몽환.ver〉♪ | JTBC 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32547954</id>
-        <link href="https://tv.naver.com/v/32547954"/>
-        <updated>2023-01-21T17:36:21.445Z</updated>
-        <content type="html"><![CDATA[01:46]]></content>
     </entry>
 </feed>
