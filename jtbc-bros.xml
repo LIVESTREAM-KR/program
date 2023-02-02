@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-02-01T17:37:20.056Z</updated>
+    <updated>2023-02-02T05:36:43.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】어기야 디여차~흥부자 정동원X정주리X이지혜X김승혜가 형님 학교에 찾아왔습니다~]]></title>
+        <id>https://tv.naver.com/v/32814206</id>
+        <link href="https://tv.naver.com/v/32814206"/>
+        <updated>2023-02-02T05:36:42.784Z</updated>
+        <content type="html"><![CDATA[05:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 여기서부터 잔인함..;; 아는 것보다 모르는 게 더 많은 최신 '밈' 어디까지 알고 있니?◔_◔ | JTBC 230128 방송]]></title>
         <id>https://tv.naver.com/v/32698551</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32547954"/>
         <updated>2023-01-21T17:36:21.445Z</updated>
         <content type="html"><![CDATA[01:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[은밀한 거래ʕ•̀ω•́ʔ✧ 유아-서장훈의 완전 범죄(?)를 모른척하는 이상민 | JTBC 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32547913</id>
-        <link href="https://tv.naver.com/v/32547913"/>
-        <updated>2023-01-21T17:36:21.445Z</updated>
-        <content type="html"><![CDATA[01:58]]></content>
     </entry>
 </feed>
