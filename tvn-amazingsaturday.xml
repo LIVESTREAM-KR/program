@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-03T05:36:32.778Z</updated>
+    <updated>2023-02-03T17:36:43.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토TV) 훈훈한 민규의 생생 정보통!]]></title>
+        <id>https://tv.naver.com/v/32861785</id>
+        <link href="https://tv.naver.com/v/32861785"/>
+        <updated>2023-02-03T17:36:35.575Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 부캐요정 이장우, 놀토에서 부캐 하나 추가요~]]></title>
+        <id>https://tv.naver.com/v/32861658</id>
+        <link href="https://tv.naver.com/v/32861658"/>
+        <updated>2023-02-03T17:36:35.575Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 성스러운 매력들로 놀토를 채워줄 김민규X고보결X이장우✨]]></title>
         <id>https://tv.naver.com/v/32736964</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32549287"/>
         <updated>2023-01-21T17:36:14.660Z</updated>
         <content type="html"><![CDATA[06:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※헤드폰 오류 논란※ 탱듣찬 받고 엉듣찬으로 묻고 더블로 가! | tvN 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32549195</id>
-        <link href="https://tv.naver.com/v/32549195"/>
-        <updated>2023-01-21T17:36:14.660Z</updated>
-        <content type="html"><![CDATA[08:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엉덩이가 자진모리장단으로 둠칫거리는 노래! 석호 없는 팀〈펜타곤 - 신토불이♪〉 | tvN 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32549012</id>
-        <link href="https://tv.naver.com/v/32549012"/>
-        <updated>2023-01-21T17:36:14.665Z</updated>
-        <content type="html"><![CDATA[06:21]]></content>
     </entry>
 </feed>
