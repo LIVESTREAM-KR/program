@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-02-03T17:36:43.516Z</updated>
+    <updated>2023-02-04T05:36:29.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 찬원이 삼촌이 왜 거기서 나와?🌸 동원이 응원하러 방문한 찬또배기!]]></title>
+        <id>https://tv.naver.com/v/32870156</id>
+        <link href="https://tv.naver.com/v/32870156"/>
+        <updated>2023-02-04T05:36:28.946Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 예쁜데, 구수해...! 뒤집어지게 웃긴 언니들★김성령, 박신혜, 전종서☆ 토크 하이라이트 | JTBC 200307 방송]]></title>
         <id>https://tv.naver.com/v/32829797</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32548090"/>
         <updated>2023-01-21T17:36:21.445Z</updated>
         <content type="html"><![CDATA[01:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운동 집안(?) 조혜련＆미미 〈Dun Dun Dance〉에 맞춘 태보 댄스👊 (feat. 궁예) | JTBC 230121 방송]]></title>
-        <id>https://tv.naver.com/v/32548010</id>
-        <link href="https://tv.naver.com/v/32548010"/>
-        <updated>2023-01-21T17:36:21.445Z</updated>
-        <content type="html"><![CDATA[01:27]]></content>
     </entry>
 </feed>
