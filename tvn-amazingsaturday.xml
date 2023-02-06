@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-06T05:36:26.424Z</updated>
+    <updated>2023-02-06T17:37:37.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] '욱빈'과 'X아치', 그리고 놀토밤을 즐기러 온 '흥부자'까지! 재미보장! 순삭보장! 김옥빈X유태오X김지훈 💞]]></title>
+        <id>https://tv.naver.com/v/32926269</id>
+        <link href="https://tv.naver.com/v/32926269"/>
+        <updated>2023-02-06T17:37:30.060Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 호탕한 걸크러쉬, 끼 많은 양아치(?), 거기에 찐 놀래미까지 등장! 김옥빈 X 유태오 X 김지훈]]></title>
         <id>https://tv.naver.com/v/32881819</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32696446"/>
         <updated>2023-01-28T17:36:20.035Z</updated>
         <content type="html"><![CDATA[07:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 소담의 청춘 OO? 나래 언니, 우리 좋았잖아...]]></title>
-        <id>https://tv.naver.com/v/32671249</id>
-        <link href="https://tv.naver.com/v/32671249"/>
-        <updated>2023-01-27T17:36:07.060Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
     </entry>
 </feed>
