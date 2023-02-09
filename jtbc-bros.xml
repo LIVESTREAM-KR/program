@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-02-08T17:37:13.084Z</updated>
+    <updated>2023-02-09T05:36:47.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】조선 최고의 살수단 신현준 X 김민경 X 이문식이 형님 학교에 찾아왔습니다~💥]]></title>
+        <id>https://tv.naver.com/v/33004349</id>
+        <link href="https://tv.naver.com/v/33004349"/>
+        <updated>2023-02-09T05:36:46.671Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 반성합니다...🙏🏻  레크리에이션에 과몰입해 카메라 부심(＃°Д°) (ft. 이찬원 특별출연!) | JTBC 230204 방송]]></title>
         <id>https://tv.naver.com/v/32879218</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32695922"/>
         <updated>2023-01-28T17:36:27.136Z</updated>
         <content type="html"><![CDATA[02:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y2K의 진수! 최윤영-한보름의 '이효리 댄스 메들리'♬ | JTBC 230128 방송]]></title>
-        <id>https://tv.naver.com/v/32695860</id>
-        <link href="https://tv.naver.com/v/32695860"/>
-        <updated>2023-01-28T17:36:27.137Z</updated>
-        <content type="html"><![CDATA[02:42]]></content>
     </entry>
 </feed>
