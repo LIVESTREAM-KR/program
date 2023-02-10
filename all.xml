@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-10T05:36:47.127Z</updated>
+    <updated>2023-02-10T17:37:10.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토 최초! 먹는 사람 따로 있고, 맛 표현하는 사람 따로 있다!? (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33043666</id>
+        <link href="https://tv.naver.com/v/33043666"/>
+        <updated>2023-02-10T17:37:02.415Z</updated>
+        <content type="html"><![CDATA[03:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 지훈X태오, 키스씬 찍기 전에 같이 연습한다구요..?! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33043661</id>
+        <link href="https://tv.naver.com/v/33043661"/>
+        <updated>2023-02-10T17:37:02.432Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] '욱빈'과 'X아치', 그리고 놀토밤을 즐기러 온 '흥부자'까지! 재미보장! 순삭보장! 김옥빈X유태오X김지훈 💞 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/32926269</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/32696720"/>
         <updated>2023-01-28T17:36:20.035Z</updated>
         <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥 툭 던진 키의 한마디에 비어있던 받쓰 완성-! | tvN 230128 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32696608</id>
-        <link href="https://tv.naver.com/v/32696608"/>
-        <updated>2023-01-28T17:36:20.035Z</updated>
-        <content type="html"><![CDATA[06:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[붐C, MC, 솔라C♥〈솔라 - 꿀♪〉갑분 초성퀴즈 된 이하늬의 받쓰ㅋㅋ | tvN 230128 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/32696446</id>
-        <link href="https://tv.naver.com/v/32696446"/>
-        <updated>2023-01-28T17:36:20.035Z</updated>
-        <content type="html"><![CDATA[07:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂장훈아 자세가 안 좋다? ^^＂ 서장훈 잡는 허재x이형택x김병현 토크 하이라이트 | JTBC 200229 방송 (아는 형님)]]></title>
