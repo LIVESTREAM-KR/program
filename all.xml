@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-10T17:37:10.127Z</updated>
+    <updated>2023-02-11T05:36:39.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 놀토 최초! 먹는 사람 따로 있고, 맛 표현하는 사람 따로 있다!? (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] "취했어?? 다시 오면 死는다" 술자리에서 만나기엔 너무 무서운 강호동 ㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33054294</id>
+        <link href="https://tv.naver.com/v/33054294"/>
+        <updated>2023-02-11T05:36:38.729Z</updated>
+        <content type="html"><![CDATA[03:09]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂장훈아 자세가 안 좋다? ^^＂ 서장훈 잡는 허재x이형택x김병현 토크 하이라이트 | JTBC 200229 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33016903</id>
         <link href="https://tv.naver.com/v/33016903"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32696007"/>
         <updated>2023-01-28T17:36:27.133Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['레이 피스' 따라잡다 족발 피스 만든 강호동🐽 | JTBC 230128 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32695925</id>
-        <link href="https://tv.naver.com/v/32695925"/>
-        <updated>2023-01-28T17:36:27.135Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
     </entry>
 </feed>
