@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-02-11T17:39:58.515Z</updated>
+    <updated>2023-02-12T05:36:36.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://tv.naver.com/v/33060860"/>
         <updated>2023-02-11T17:39:57.808Z</updated>
         <content type="html"><![CDATA[17:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아는 형님 371회 예고편]]></title>
+        <id>https://tv.naver.com/v/33060858</id>
+        <link href="https://tv.naver.com/v/33060858"/>
+        <updated>2023-02-12T05:36:36.435Z</updated>
+        <content type="html"><![CDATA[01:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사극 드라마 주요 출연진 이름? 웬만하면 '최수종' 외치면 정답✨ | JTBC 230211 방송]]></title>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32878499"/>
         <updated>2023-02-04T17:36:26.214Z</updated>
         <content type="html"><![CDATA[03:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 관리 직접 하는 정동원✨ (→이상민의 포옹^^;) | JTBC 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32878498</id>
-        <link href="https://tv.naver.com/v/32878498"/>
-        <updated>2023-02-04T17:36:26.216Z</updated>
-        <content type="html"><![CDATA[02:25]]></content>
     </entry>
 </feed>
