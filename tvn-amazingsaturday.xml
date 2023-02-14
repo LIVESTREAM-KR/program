@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-13T17:40:04.656Z</updated>
+    <updated>2023-02-14T05:36:46.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 보기만 해도 사랑이라 말하고 싶은 두 배우! 김영광 X 이성경 💖]]></title>
+        <id>https://tv.naver.com/v/33097546</id>
+        <link href="https://tv.naver.com/v/33097546"/>
+        <updated>2023-02-14T05:36:38.636Z</updated>
+        <content type="html"><![CDATA[00:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 파워 I형과 파워 E형이 함께 놀토에 오면?! 김영광 X 이성경]]></title>
         <id>https://tv.naver.com/v/33063430</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/32880526"/>
         <updated>2023-02-04T17:36:19.160Z</updated>
         <content type="html"><![CDATA[07:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토TV) 훈훈한 민규의 생생 정보통!]]></title>
-        <id>https://tv.naver.com/v/32861785</id>
-        <link href="https://tv.naver.com/v/32861785"/>
-        <updated>2023-02-03T17:36:35.575Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
