@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-16T05:36:44.737Z</updated>
+    <updated>2023-02-16T17:40:08.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 보기만 해도 사랑이라 말하고 싶은 두 배우! 김영광 X 이성경 💖 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[07:43]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ＂예능 왜 안했어 그동안＂ 숨겨뒀던 개그감 폭발! 배종옥X신혜선 토크 하이라이트 | 아는형님 | JTBC 200222 방송 | JTBC 200222 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33201144</id>
+        <link href="https://tv.naver.com/v/33201144"/>
+        <updated>2023-02-16T17:40:07.783Z</updated>
+        <content type="html"><![CDATA[14:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】원 투 쨉쨉! 긍정 에너지 팡팡🥊 고창석X진선규X성유빈X장동주가 형님 학교에 찾아왔습니다~ (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33178525</id>
         <link href="https://tv.naver.com/v/33178525"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32878706"/>
         <updated>2023-02-04T17:36:26.211Z</updated>
         <content type="html"><![CDATA[06:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※너튜버 아님※ 천생 가수 '이지혜'의 본업 모먼트 ‍〈Sweety〉 ♬ | JTBC 230204 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32878500</id>
-        <link href="https://tv.naver.com/v/32878500"/>
-        <updated>2023-02-04T17:36:26.213Z</updated>
-        <content type="html"><![CDATA[03:12]]></content>
     </entry>
 </feed>
