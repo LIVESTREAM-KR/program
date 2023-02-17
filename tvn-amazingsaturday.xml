@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-17T05:36:43.202Z</updated>
+    <updated>2023-02-17T17:36:58.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＜놀보의 놀토 풀코스＞ 김영광 고객님의 놀토 적응기~!]]></title>
+        <id>https://tv.naver.com/v/33229504</id>
+        <link href="https://tv.naver.com/v/33229504"/>
+        <updated>2023-02-17T17:36:50.944Z</updated>
+        <content type="html"><![CDATA[05:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 대문자 E 놀토에 상시 대기 중~ 파워 I분들도 항상 많관부♥]]></title>
+        <id>https://tv.naver.com/v/33229264</id>
+        <link href="https://tv.naver.com/v/33229264"/>
+        <updated>2023-02-17T17:36:50.945Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 보기만 해도 사랑이라 말하고 싶은 두 배우! 김영광 X 이성경 💖]]></title>
         <id>https://tv.naver.com/v/33097546</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/32880827"/>
         <updated>2023-02-04T17:36:19.158Z</updated>
         <content type="html"><![CDATA[05:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귀가 꽤나 얇은 민규^^ 또 다른 한해 '잘.한.해'의 등장 | tvN 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32880717</id>
-        <link href="https://tv.naver.com/v/32880717"/>
-        <updated>2023-02-04T17:36:19.159Z</updated>
-        <content type="html"><![CDATA[08:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈샵 - 내 입술... 따뜻한 커피처럼♪〉 도토리 충전하고 싶은 그 곡! | tvN 230204 방송]]></title>
-        <id>https://tv.naver.com/v/32880526</id>
-        <link href="https://tv.naver.com/v/32880526"/>
-        <updated>2023-02-04T17:36:19.160Z</updated>
-        <content type="html"><![CDATA[07:43]]></content>
     </entry>
 </feed>
