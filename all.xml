@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-17T17:36:58.925Z</updated>
+    <updated>2023-02-18T05:36:49.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] ＜놀보의 놀토 풀코스＞ 김영광 고객님의 놀토 적응기~! (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[05:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] ＂쟤 녹여먹어요!＂ 경훈의 한마디에 참지 못하고 함박웃음 나온 진선규🤣ㅋㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33244724</id>
+        <link href="https://tv.naver.com/v/33244724"/>
+        <updated>2023-02-18T05:36:48.704Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂예능 왜 안했어 그동안＂ 숨겨뒀던 개그감 폭발! 배종옥X신혜선 토크 하이라이트 | 아는형님 | JTBC 200222 방송 | JTBC 200222 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33201144</id>
         <link href="https://tv.naver.com/v/33201144"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/32878625"/>
         <updated>2023-02-04T17:36:26.210Z</updated>
         <content type="html"><![CDATA[03:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비슷한 건 기분 탓^^;; 정주리의 아이 엄마 ver. ＂따라와~＂ | JTBC 230204 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/32878706</id>
-        <link href="https://tv.naver.com/v/32878706"/>
-        <updated>2023-02-04T17:36:26.211Z</updated>
-        <content type="html"><![CDATA[06:41]]></content>
     </entry>
 </feed>
