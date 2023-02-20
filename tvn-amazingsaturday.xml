@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-20T05:36:39.280Z</updated>
+    <updated>2023-02-20T17:36:29.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토를 위해 OOO까지 준비한 차태현과 놀토 공식 고집불통(?) 유연석! 꿀잼케미 보장!🤣]]></title>
+        <id>https://tv.naver.com/v/33306367</id>
+        <link href="https://tv.naver.com/v/33306367"/>
+        <updated>2023-02-20T17:36:22.066Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 멍뭉이같은 배우들 등장! 도레미들도 놀란 시원한 입담과 예능감! 차태현 X 유연석🐶]]></title>
         <id>https://tv.naver.com/v/33258240</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33062432"/>
         <updated>2023-02-12T05:36:29.789Z</updated>
         <content type="html"><![CDATA[09:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토 최초! 먹는 사람 따로 있고, 맛 표현하는 사람 따로 있다!?]]></title>
-        <id>https://tv.naver.com/v/33043666</id>
-        <link href="https://tv.naver.com/v/33043666"/>
-        <updated>2023-02-10T17:37:02.415Z</updated>
-        <content type="html"><![CDATA[03:48]]></content>
     </entry>
 </feed>
