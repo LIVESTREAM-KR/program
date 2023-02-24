@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-24T05:37:41.154Z</updated>
+    <updated>2023-02-24T17:38:01.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 대환장 파티 간식 게임~! 잠시 화면 조정 시간입니다.]]></title>
+        <id>https://tv.naver.com/v/33441562</id>
+        <link href="https://tv.naver.com/v/33441562"/>
+        <updated>2023-02-24T17:37:55.073Z</updated>
+        <content type="html"><![CDATA[04:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 찐 놀래미 차태현, 《놀토 개혁안》을 제출합니다!]]></title>
+        <id>https://tv.naver.com/v/33441413</id>
+        <link href="https://tv.naver.com/v/33441413"/>
+        <updated>2023-02-24T17:37:55.077Z</updated>
+        <content type="html"><![CDATA[03:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 위해 OOO까지 준비한 차태현과 놀토 공식 고집불통(?) 유연석! 꿀잼케미 보장!🤣]]></title>
         <id>https://tv.naver.com/v/33306367</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33062728"/>
         <updated>2023-02-12T05:36:29.788Z</updated>
         <content type="html"><![CDATA[05:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀토 최초 와이파이 뚫는 게스트ㅋㅋㅋ 결국 옐로카드 받음 ^_ㅠ | tvN 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33062657</id>
-        <link href="https://tv.naver.com/v/33062657"/>
-        <updated>2023-02-12T05:36:29.788Z</updated>
-        <content type="html"><![CDATA[08:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이스한 🐑아치 유태오 〈하모하모 - 빠삐용♪〉 노래 검색했다..? | tvN 230211 방송]]></title>
-        <id>https://tv.naver.com/v/33062432</id>
-        <link href="https://tv.naver.com/v/33062432"/>
-        <updated>2023-02-12T05:36:29.789Z</updated>
-        <content type="html"><![CDATA[09:49]]></content>
     </entry>
 </feed>
