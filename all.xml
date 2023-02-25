@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-24T17:38:01.965Z</updated>
+    <updated>2023-02-25T05:36:49.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 대환장 파티 간식 게임~! 잠시 화면 조정 시간입니다. (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[05:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 주식&코인 때문에 속 썩는 수근...💦 그런 수근에게 슈카가 내린 솔루션은?! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33455452</id>
+        <link href="https://tv.naver.com/v/33455452"/>
+        <updated>2023-02-25T05:36:49.033Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 강.피에 이은 이수근 피해자까지 등장?! 각자 할 말만 하는 강남X성규X이이경 마이웨이 토크 | JTBC 200208 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33412350</id>
         <link href="https://tv.naver.com/v/33412350"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/33060629"/>
         <updated>2023-02-11T17:39:57.810Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[촬영장에선 살수, 집에선 민서~? 딸바보 신현준의 자아 분열(?) ㅋㅋ | JTBC 230211 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/33060775</id>
-        <link href="https://tv.naver.com/v/33060775"/>
-        <updated>2023-02-11T17:39:57.811Z</updated>
-        <content type="html"><![CDATA[05:46]]></content>
     </entry>
 </feed>
