@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-26T17:37:06.167Z</updated>
+    <updated>2023-02-27T05:36:57.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[여기 주목~❗ 놀토 문제 공모 방법 변경 안내가 있겠습니다~! (놀라운 토요일)]]></title>
@@ -54,7 +54,7 @@
         <content type="html"><![CDATA[05:37]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유연석X차태연 맞춤 곡! 〈원위 - 내가 처음 만져본 강아지♪〉 | tvN 230225 방송 (놀라운 토요일)]]></title>
+        <title type="html"><![CDATA[유연석X차태현 맞춤 곡! 〈원위 - 내가 처음 만져본 강아지♪〉 | tvN 230225 방송 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/33466845</id>
         <link href="https://tv.naver.com/v/33466845"/>
         <updated>2023-02-25T17:36:29.166Z</updated>
@@ -271,13 +271,6 @@
         <content type="html"><![CDATA[07:36]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[＂진호 님 10만 원!!＂ 자본주의에 굴복한 '슈카'의 제로투 댄스🤣 | JTBC 230225 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/33464866</id>
-        <link href="https://tv.naver.com/v/33464866"/>
-        <updated>2023-02-25T17:36:36.267Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2미터 서장훈도 번쩍😲?! 심으뜸, 형님들 업고 스쾃 하기🏋️‍ | JTBC 230225 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33464850</id>
         <link href="https://tv.naver.com/v/33464850"/>
@@ -313,7 +306,7 @@
         <content type="html"><![CDATA[06:15]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[선공개] 주식&코인 때문에 속 썩는 수근...💦 그런 수근에게 슈카가 내린 솔루션은?! (아는 형님)]]></title>
+        <title type="html"><![CDATA[[선공개] 오손도손 강호'돈가스' 집 오픈?✨ 구체적인 이수근의 노후 계획😂 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33455452</id>
         <link href="https://tv.naver.com/v/33455452"/>
         <updated>2023-02-25T05:36:49.033Z</updated>
@@ -423,5 +416,12 @@
         <link href="https://tv.naver.com/v/33255628"/>
         <updated>2023-02-18T17:37:13.391Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[살벌한 비주얼༼◉_◉ ༽ 악역 전문 배우 '진선규' 현실은 선함👼 그 잡채(?) | JTBC 230218 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33255794</id>
+        <link href="https://tv.naver.com/v/33255794"/>
+        <updated>2023-02-27T05:36:57.435Z</updated>
+        <content type="html"><![CDATA[07:47]]></content>
     </entry>
 </feed>
