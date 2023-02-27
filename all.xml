@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-27T05:36:57.971Z</updated>
+    <updated>2023-02-27T17:38:06.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 가지각색 조각상들이 놀토에 모였다! 조각미모에 반전매력 장착하고 놀러온 정혁 X 황민현 X 주연🗿💖 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33513333</id>
+        <link href="https://tv.naver.com/v/33513333"/>
+        <updated>2023-02-27T17:37:58.346Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여기 주목~❗ 놀토 문제 공모 방법 변경 안내가 있겠습니다~! (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/33467411</id>
@@ -208,13 +215,6 @@
         <content type="html"><![CDATA[07:21]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[〈태양 - VIBE (feat. Jimin of BTS)♪〉 여러분~♪ 너무 보고 싶었어↗ | tvN 230218 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33256603</id>
-        <link href="https://tv.naver.com/v/33256603"/>
-        <updated>2023-02-18T17:37:07.241Z</updated>
-        <content type="html"><![CDATA[06:41]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 심으뜸 : 운동할래?? 김계란 : 우마게임 참가할래?? | JTBC 230225 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33469308</id>
         <link href="https://tv.naver.com/v/33469308"/>
@@ -226,7 +226,7 @@
         <id>https://tv.naver.com/v/33469157</id>
         <link href="https://tv.naver.com/v/33469157"/>
         <updated>2023-02-25T17:36:36.256Z</updated>
-        <content type="html"><![CDATA[20:04]]></content>
+        <content type="html"><![CDATA[19:52]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 약 1500만 너튜버들이(=슈카x김계란x심으뜸x쯔양) 형님 학교 '디스' 하러 왔다👊 | JTBC 230225 방송 (아는 형님)]]></title>

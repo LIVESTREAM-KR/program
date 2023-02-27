@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-02-27T05:36:57.966Z</updated>
+    <updated>2023-02-27T17:38:06.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 가지각색 조각상들이 놀토에 모였다! 조각미모에 반전매력 장착하고 놀러온 정혁 X 황민현 X 주연🗿💖]]></title>
+        <id>https://tv.naver.com/v/33513333</id>
+        <link href="https://tv.naver.com/v/33513333"/>
+        <updated>2023-02-27T17:37:58.346Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여기 주목~❗ 놀토 문제 공모 방법 변경 안내가 있겠습니다~!]]></title>
         <id>https://tv.naver.com/v/33467411</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33256843"/>
         <updated>2023-02-18T17:37:07.239Z</updated>
         <content type="html"><![CDATA[07:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈태양 - VIBE (feat. Jimin of BTS)♪〉 여러분~♪ 너무 보고 싶었어↗ | tvN 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33256603</id>
-        <link href="https://tv.naver.com/v/33256603"/>
-        <updated>2023-02-18T17:37:07.241Z</updated>
-        <content type="html"><![CDATA[06:41]]></content>
     </entry>
 </feed>
