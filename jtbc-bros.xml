@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-02T05:37:18.002Z</updated>
+    <updated>2023-03-02T17:38:29.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 언니 날 가져요! 쿨내 진동하는 멋쁨 그 자체😎 최수영x진서연의 토크 하이라이트 | JTBC 200201 방송]]></title>
+        <id>https://tv.naver.com/v/33603750</id>
+        <link href="https://tv.naver.com/v/33603750"/>
+        <updated>2023-03-02T17:38:29.236Z</updated>
+        <content type="html"><![CDATA[17:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 심으뜸 : 운동할래?? 김계란 : 우마게임 참가할래?? | JTBC 230225 방송]]></title>
         <id>https://tv.naver.com/v/33469308</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33255628"/>
         <updated>2023-02-18T17:37:13.391Z</updated>
         <content type="html"><![CDATA[03:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살벌한 비주얼༼◉_◉ ༽ 악역 전문 배우 '진선규' 현실은 선함👼 그 잡채(?) | JTBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255794</id>
-        <link href="https://tv.naver.com/v/33255794"/>
-        <updated>2023-02-27T05:36:57.435Z</updated>
-        <content type="html"><![CDATA[07:47]]></content>
     </entry>
 </feed>
