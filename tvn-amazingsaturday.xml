@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-03-03T05:38:41.203Z</updated>
+    <updated>2023-03-03T17:36:38.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀망진창 도㉣ㅔ□l와 ㄷr함77ㅔ 폭력ㅅlㄷH로~^^]]></title>
+        <id>https://tv.naver.com/v/33637808</id>
+        <link href="https://tv.naver.com/v/33637808"/>
+        <updated>2023-03-03T17:36:30.714Z</updated>
+        <content type="html"><![CDATA[03:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 홍보 맛집 놀토♥ 방송, 앨범...그리고 XXX까지?!]]></title>
+        <id>https://tv.naver.com/v/33637673</id>
+        <link href="https://tv.naver.com/v/33637673"/>
+        <updated>2023-03-03T17:36:30.714Z</updated>
+        <content type="html"><![CDATA[05:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 가지각색 조각상들이 놀토에 모였다! 조각미모에 반전매력 장착하고 놀러온 정혁 X 황민현 X 주연🗿💖]]></title>
         <id>https://tv.naver.com/v/33513333</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33257168"/>
         <updated>2023-02-18T17:37:07.231Z</updated>
         <content type="html"><![CDATA[04:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1+1은 ＂이야~!＂ 감각적이야 식스 센스 반전의 만능열쇠 키🔑 | tvN 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33256934</id>
-        <link href="https://tv.naver.com/v/33256934"/>
-        <updated>2023-02-18T17:37:07.237Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 아미들이 김영광에게 주목한다? 수두룩한 오답 수ㅠㅠ | tvN 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33256843</id>
-        <link href="https://tv.naver.com/v/33256843"/>
-        <updated>2023-02-18T17:37:07.239Z</updated>
-        <content type="html"><![CDATA[07:21]]></content>
     </entry>
 </feed>
