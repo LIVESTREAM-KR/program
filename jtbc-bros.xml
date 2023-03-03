@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-02T17:38:29.952Z</updated>
+    <updated>2023-03-03T05:38:41.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】🔥꼰대 vs 안꼰대🔥 불붙은 토론 대결💥 SNL 크루의 무근본 토론 현장!]]></title>
+        <id>https://tv.naver.com/v/33620001</id>
+        <link href="https://tv.naver.com/v/33620001"/>
+        <updated>2023-03-03T05:38:40.501Z</updated>
+        <content type="html"><![CDATA[06:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 언니 날 가져요! 쿨내 진동하는 멋쁨 그 자체😎 최수영x진서연의 토크 하이라이트 | JTBC 200201 방송]]></title>
         <id>https://tv.naver.com/v/33603750</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33255797"/>
         <updated>2023-02-18T17:37:13.391Z</updated>
         <content type="html"><![CDATA[06:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[학생 신분에 아내...? 아는 형님 콘셉트가 어려운 '고창석-진선규' ㅋㅋㅋ | JTBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255628</id>
-        <link href="https://tv.naver.com/v/33255628"/>
-        <updated>2023-02-18T17:37:13.391Z</updated>
-        <content type="html"><![CDATA[03:52]]></content>
     </entry>
 </feed>
