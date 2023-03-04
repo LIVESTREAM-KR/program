@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-03T17:36:38.622Z</updated>
+    <updated>2023-03-04T05:37:08.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 뮤지크 스타또-★ 한중일 합작 글로벌(?) 레전드 무대! 정상훈 & 주현영 〈썸〉♬]]></title>
+        <id>https://tv.naver.com/v/33649478</id>
+        <link href="https://tv.naver.com/v/33649478"/>
+        <updated>2023-03-04T05:37:07.210Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】🔥꼰대 vs 안꼰대🔥 불붙은 토론 대결💥 SNL 크루의 무근본 토론 현장!]]></title>
         <id>https://tv.naver.com/v/33620001</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33255898"/>
         <updated>2023-02-18T17:37:13.390Z</updated>
         <content type="html"><![CDATA[07:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무명 시절, 김혜수의 손 인사에 고개를 싹- 돌려버린(= 안 믿겨서) 고창석 | JTBC 230218 방송]]></title>
-        <id>https://tv.naver.com/v/33255797</id>
-        <link href="https://tv.naver.com/v/33255797"/>
-        <updated>2023-02-18T17:37:13.391Z</updated>
-        <content type="html"><![CDATA[06:51]]></content>
     </entry>
 </feed>
