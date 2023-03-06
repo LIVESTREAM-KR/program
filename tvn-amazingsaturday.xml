@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-03-06T05:37:43.238Z</updated>
+    <updated>2023-03-06T17:38:48.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 러블리돌 트둥이들에, 비타민 광희까지?! 이번주 3월 맞이 웃음꽃 예약🥰]]></title>
+        <id>https://tv.naver.com/v/33709691</id>
+        <link href="https://tv.naver.com/v/33709691"/>
+        <updated>2023-03-06T17:38:39.153Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 믿고 보는  천생 아이돌 트와이스 in 놀토! 열일하는 미모만큼이나 예능도 잘하는 지효 X 정연 X 다현😍]]></title>
         <id>https://tv.naver.com/v/33662526</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33466156"/>
         <updated>2023-02-25T17:36:29.167Z</updated>
         <content type="html"><![CDATA[07:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉살 대신 작두 타는 동엽신! ＂너무 또렷하게 8음절이 들렸어＂ | tvN 230225 방송]]></title>
-        <id>https://tv.naver.com/v/33466072</id>
-        <link href="https://tv.naver.com/v/33466072"/>
-        <updated>2023-02-25T17:36:29.171Z</updated>
-        <content type="html"><![CDATA[05:01]]></content>
     </entry>
 </feed>
