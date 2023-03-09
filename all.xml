@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-09T05:38:11.424Z</updated>
+    <updated>2023-03-09T17:38:23.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 러블리돌 트둥이들에, 비타민 광희까지?! 이번주 3월 맞이 웃음꽃 예약🥰 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[07:10]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 사랑보다는 먼, 우정보다는 가까운? 여사친 집에서 자고 가는 특별한 사이 배정남X최여진 토크 하이라이트 | JTBC 200118 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/33823603</id>
+        <link href="https://tv.naver.com/v/33823603"/>
+        <updated>2023-03-09T17:38:22.626Z</updated>
+        <content type="html"><![CDATA[14:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] MZ사원 맑눈광 '김아영'의 연기부터 '정상훈'의 기가후니까지 다 보여줌😎 | JTBC 230304 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/33664372</id>
         <link href="https://tv.naver.com/v/33664372"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/33464865"/>
         <updated>2023-02-25T17:36:36.269Z</updated>
         <content type="html"><![CDATA[07:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가볍게 라면 14개 먹는 쯔양, 점점 작아지는 6봉 선생(=강호동) ㅋㅋ | JTBC 230225 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/33464864</id>
-        <link href="https://tv.naver.com/v/33464864"/>
-        <updated>2023-02-25T17:36:36.270Z</updated>
-        <content type="html"><![CDATA[07:20]]></content>
     </entry>
 </feed>
