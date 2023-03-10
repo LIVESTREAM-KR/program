@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-10T05:37:31.277Z</updated>
+    <updated>2023-03-10T17:38:12.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 넉살 신곡 발표 ＜애송이＞?! 애송이들 사이에 피어난 정연~♬♪ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33858074</id>
+        <link href="https://tv.naver.com/v/33858074"/>
+        <updated>2023-03-10T17:38:05.835Z</updated>
+        <content type="html"><![CDATA[03:25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 트둥이는 사슬을 찢고 놀보는 홍보를 찢어 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33858073</id>
+        <link href="https://tv.naver.com/v/33858073"/>
+        <updated>2023-03-10T17:38:05.835Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 러블리돌 트둥이들에, 비타민 광희까지?! 이번주 3월 맞이 웃음꽃 예약🥰 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/33709691</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/33466567"/>
         <updated>2023-02-25T17:36:29.166Z</updated>
         <content type="html"><![CDATA[05:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🐶멍뭉이판 5분 전! 간겜하다가 급발진하는 차태현(≧∇≦) | tvN 230225 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33466453</id>
-        <link href="https://tv.naver.com/v/33466453"/>
-        <updated>2023-02-25T17:36:29.167Z</updated>
-        <content type="html"><![CDATA[07:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조용히 고집부리는 유연석ㅋㅋㅋ 영보이랑 있어야 하는 이유 | tvN 230225 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33466156</id>
-        <link href="https://tv.naver.com/v/33466156"/>
-        <updated>2023-02-25T17:36:29.167Z</updated>
-        <content type="html"><![CDATA[07:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 사랑보다는 먼, 우정보다는 가까운? 여사친 집에서 자고 가는 특별한 사이 배정남X최여진 토크 하이라이트 | JTBC 200118 방송 (아는 형님)]]></title>
