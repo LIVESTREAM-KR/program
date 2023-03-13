@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-13T05:36:53.219Z</updated>
+    <updated>2023-03-13T17:37:11.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 더 타임 놀토~⏳ 이번 주 시간 순삭 시켜줄 킹스미스 X 모니카쌤 X MZ래원과 함께 RUN-😘 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/33931651</id>
+        <link href="https://tv.naver.com/v/33931651"/>
+        <updated>2023-03-13T17:37:04.664Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 웃음 천재! 댄스 천재! 힙합 천재! 천재들이 놀토에 모이면?! 황제성 X 모니카 X 래원😎 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/33880300</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/33661451"/>
         <updated>2023-03-04T17:36:55.282Z</updated>
         <content type="html"><![CDATA[07:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 인생의 '주연' 내 맘을 '정혁'한 남자 '황민현' | tvN 230304 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33660888</id>
-        <link href="https://tv.naver.com/v/33660888"/>
-        <updated>2023-03-04T17:36:55.287Z</updated>
-        <content type="html"><![CDATA[08:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 기세 좋은 SNL에 아영 한 스푼🥄 게임 못해도 사랑스러운 맑.눈.광 ʕʘ̅͜ʘ̅ʔ | JTBC 230311 방송 (아는 형님)]]></title>
