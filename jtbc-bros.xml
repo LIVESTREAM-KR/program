@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-16T05:36:55.958Z</updated>
+    <updated>2023-03-16T17:37:22.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 예능 초보라면서 美친 예능감 뽐내고 간 안재홍x강소라x김성오x전여빈 토크 하이라이트｜아는 형님 | JTBC 200111 방송 | JTBC 200111 방송]]></title>
+        <id>https://tv.naver.com/v/34047780</id>
+        <link href="https://tv.naver.com/v/34047780"/>
+        <updated>2023-03-16T17:37:21.877Z</updated>
+        <content type="html"><![CDATA[15:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 기세 좋은 SNL에 아영 한 스푼🥄 게임 못해도 사랑스러운 맑.눈.광 ʕʘ̅͜ʘ̅ʔ | JTBC 230311 방송]]></title>
         <id>https://tv.naver.com/v/33881606</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33659985"/>
         <updated>2023-03-04T17:37:02.338Z</updated>
         <content type="html"><![CDATA[07:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂내 거라니까 EC🔥＂ 우산 하나에 눈물 흘린 대학로 상 돌+I 이진호?! ㅋㅋ | JTBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33659984</id>
-        <link href="https://tv.naver.com/v/33659984"/>
-        <updated>2023-03-04T17:37:02.338Z</updated>
-        <content type="html"><![CDATA[07:03]]></content>
     </entry>
 </feed>
