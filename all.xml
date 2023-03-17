@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-17T05:36:24.927Z</updated>
+    <updated>2023-03-17T17:36:57.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 모니카쌤 기절초풍하는 놀토 댄스 타임~! 코빅 X MZ 폼 미쳤다🤩 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34079395</id>
+        <link href="https://tv.naver.com/v/34079395"/>
+        <updated>2023-03-17T17:36:49.963Z</updated>
+        <content type="html"><![CDATA[04:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 부부 동반 특집이 된 놀토?! 어쩌다 연하남(?)이 되어버린 킹 스미스와 댄싱킴 남편(?)을 둔 몬익화🤣 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34079394</id>
+        <link href="https://tv.naver.com/v/34079394"/>
+        <updated>2023-03-17T17:36:49.963Z</updated>
+        <content type="html"><![CDATA[04:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 더 타임 놀토~⏳ 이번 주 시간 순삭 시켜줄 킹스미스 X 모니카쌤 X MZ래원과 함께 RUN-😘 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/33931651</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/33661752"/>
         <updated>2023-03-04T17:36:55.278Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이것이 좌주연 우민현 효과인가..? 외계어를 한국어로 번역한 수준 | tvN 230304 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33661465</id>
-        <link href="https://tv.naver.com/v/33661465"/>
-        <updated>2023-03-04T17:36:55.280Z</updated>
-        <content type="html"><![CDATA[08:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈히로키&다나카 - 멋♪〉일본에 걸어 다니는 조각상! 꽃미남의 노래란? | tvN 230304 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/33661451</id>
-        <link href="https://tv.naver.com/v/33661451"/>
-        <updated>2023-03-04T17:36:55.282Z</updated>
-        <content type="html"><![CDATA[07:15]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 예능 초보라면서 美친 예능감 뽐내고 간 안재홍x강소라x김성오x전여빈 토크 하이라이트｜아는 형님 | JTBC 200111 방송 | JTBC 200111 방송 (아는 형님)]]></title>
