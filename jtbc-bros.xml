@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-17T17:36:57.475Z</updated>
+    <updated>2023-03-18T05:36:56.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 엔딩 포즈까지 갓벽♡ 'Nobody' 추던 앙큼이(?) 강호동 흥 폭발↗ㅋㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/34090830</id>
+        <link href="https://tv.naver.com/v/34090830"/>
+        <updated>2023-03-18T05:36:55.870Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 예능 초보라면서 美친 예능감 뽐내고 간 안재홍x강소라x김성오x전여빈 토크 하이라이트｜아는 형님 | JTBC 200111 방송 | JTBC 200111 방송]]></title>
         <id>https://tv.naver.com/v/34047780</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33659988"/>
         <updated>2023-03-04T17:37:02.337Z</updated>
         <content type="html"><![CDATA[07:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강호동, 대세(=주현영)에게만 보내는 장문의 메시지💌 (서장훈 삐짐=_=*) | JTBC 230304 방송]]></title>
-        <id>https://tv.naver.com/v/33659985</id>
-        <link href="https://tv.naver.com/v/33659985"/>
-        <updated>2023-03-04T17:37:02.338Z</updated>
-        <content type="html"><![CDATA[07:01]]></content>
     </entry>
 </feed>
