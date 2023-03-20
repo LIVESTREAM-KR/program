@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-03-20T05:36:23.003Z</updated>
+    <updated>2023-03-20T17:37:00.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토 패션위크에 패셔니스타 등장★ 전투력 MAX 코드 쿤스트와 자신감 MAX 카이의 활약 많관부🔥]]></title>
+        <id>https://tv.naver.com/v/34154087</id>
+        <link href="https://tv.naver.com/v/34154087"/>
+        <updated>2023-03-20T17:36:52.771Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 은은한 광기 장착하고 놀토 방문한 대세 패셔니스타 코드 쿤스트 X 카이😏]]></title>
         <id>https://tv.naver.com/v/34102846</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33878942"/>
         <updated>2023-03-11T17:36:50.995Z</updated>
         <content type="html"><![CDATA[08:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 넉살 신곡 발표 ＜애송이＞?! 애송이들 사이에 피어난 정연~♬♪]]></title>
-        <id>https://tv.naver.com/v/33858074</id>
-        <link href="https://tv.naver.com/v/33858074"/>
-        <updated>2023-03-10T17:38:05.835Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
