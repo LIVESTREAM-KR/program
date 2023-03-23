@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-22T17:36:36.063Z</updated>
+    <updated>2023-03-23T05:36:39.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】((👥:선생님들 셔츠가 너무 시끄러워요)) 윤성빈 x 추성훈 공기놀이 현장🔥]]></title>
+        <id>https://tv.naver.com/v/34248426</id>
+        <link href="https://tv.naver.com/v/34248426"/>
+        <updated>2023-03-23T05:36:38.693Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 집착하고 싶은 새침 호동(?) 게임도 춤도 진심인 엄마들 바다x선예x소율 하이라이트༚✧˳⁺ | JTBC 230318 방송]]></title>
         <id>https://tv.naver.com/v/34105527</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33877552"/>
         <updated>2023-03-11T17:36:56.948Z</updated>
         <content type="html"><![CDATA[06:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당돌한 MZ 커플❤ 양가 부모님 보는 앞에서 껴안는 권혁수-주현영💦 | JTBC 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33877418</id>
-        <link href="https://tv.naver.com/v/33877418"/>
-        <updated>2023-03-11T17:36:56.949Z</updated>
-        <content type="html"><![CDATA[07:07]]></content>
     </entry>
 </feed>
