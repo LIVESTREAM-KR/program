@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-23T05:36:39.500Z</updated>
+    <updated>2023-03-23T17:37:38.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 극강의 귀여움과 타고난 끼로 형님들 애정 독차지하는 라이징스타들의 토크 하이라이트✨| 아는형님 | JTBC 200104 방송 | JTBC 200104 방송]]></title>
+        <id>https://tv.naver.com/v/34271177</id>
+        <link href="https://tv.naver.com/v/34271177"/>
+        <updated>2023-03-23T17:37:37.399Z</updated>
+        <content type="html"><![CDATA[15:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】((👥:선생님들 셔츠가 너무 시끄러워요)) 윤성빈 x 추성훈 공기놀이 현장🔥]]></title>
         <id>https://tv.naver.com/v/34248426</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33877483"/>
         <updated>2023-03-11T17:36:56.945Z</updated>
         <content type="html"><![CDATA[05:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진호 짝사랑💓 만취한 MZ 사원 김아영의 급발진 고백?! | JTBC 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33877552</id>
-        <link href="https://tv.naver.com/v/33877552"/>
-        <updated>2023-03-11T17:36:56.948Z</updated>
-        <content type="html"><![CDATA[06:46]]></content>
     </entry>
 </feed>
