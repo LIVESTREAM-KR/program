@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-03-24T05:36:50.047Z</updated>
+    <updated>2023-03-24T17:37:16.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 직장에선 월급 받고, 애인한텐 OO 받는다?!😂]]></title>
+        <id>https://tv.naver.com/v/34305687</id>
+        <link href="https://tv.naver.com/v/34305687"/>
+        <updated>2023-03-24T17:37:08.556Z</updated>
+        <content type="html"><![CDATA[05:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂놀토에 X수작이 있다!＂ 폭로한 코쿤! 사실 다 이걸 위한 큰 그림...?🤨]]></title>
+        <id>https://tv.naver.com/v/34305684</id>
+        <link href="https://tv.naver.com/v/34305684"/>
+        <updated>2023-03-24T17:37:08.558Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토 패션위크에 패셔니스타 등장★ 전투력 MAX 코드 쿤스트와 자신감 MAX 카이의 활약 많관부🔥]]></title>
         <id>https://tv.naver.com/v/34154087</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/33879285"/>
         <updated>2023-03-11T17:36:50.994Z</updated>
         <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨고 뜨고 '정연' 거침없이 '다현' 그리고 그저 빛 '지효' | tvN 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33879109</id>
-        <link href="https://tv.naver.com/v/33879109"/>
-        <updated>2023-03-11T17:36:50.995Z</updated>
-        <content type="html"><![CDATA[05:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈블랙핑크 - Forever Young♪〉 생목 절대 지켜! 강력한 원샷 싸움 | tvN 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33878942</id>
-        <link href="https://tv.naver.com/v/33878942"/>
-        <updated>2023-03-11T17:36:50.995Z</updated>
-        <content type="html"><![CDATA[08:54]]></content>
     </entry>
 </feed>
