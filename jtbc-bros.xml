@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-24T17:37:16.259Z</updated>
+    <updated>2023-03-25T05:36:28.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] (흥미진진♨) 야수 추성훈에게도 밀리지 않는 이수근의 니킥 공격!🔥]]></title>
+        <id>https://tv.naver.com/v/34317037</id>
+        <link href="https://tv.naver.com/v/34317037"/>
+        <updated>2023-03-25T05:36:27.389Z</updated>
+        <content type="html"><![CDATA[02:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 극강의 귀여움과 타고난 끼로 형님들 애정 독차지하는 라이징스타들의 토크 하이라이트✨| 아는형님 | JTBC 200104 방송 | JTBC 200104 방송]]></title>
         <id>https://tv.naver.com/v/34271177</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/33877420"/>
         <updated>2023-03-11T17:36:56.944Z</updated>
         <content type="html"><![CDATA[04:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈빛 모야모야(˵ ͡° ͜ʖ ͡°˵) 김희철♥정상훈의 편견 없는 장르 바꾸기ㅋㅋㅋ | JTBC 230311 방송]]></title>
-        <id>https://tv.naver.com/v/33877483</id>
-        <link href="https://tv.naver.com/v/33877483"/>
-        <updated>2023-03-11T17:36:56.945Z</updated>
-        <content type="html"><![CDATA[05:09]]></content>
     </entry>
 </feed>
