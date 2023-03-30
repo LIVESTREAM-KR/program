@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-30T05:37:03.546Z</updated>
+    <updated>2023-03-30T17:36:50.208Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 오면~프콘이도 있고~영지도 있고~뱀뱀도 있고🎵🎶 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[05:42]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 비상이다.. 칭찬해상이 뭐라고 오열파티💦 눈물 버튼 제대로 눌린 아는형님 2019 종업식 하이라이트 | JTBC 191228 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/34489362</id>
+        <link href="https://tv.naver.com/v/34489362"/>
+        <updated>2023-03-30T17:36:49.359Z</updated>
+        <content type="html"><![CDATA[09:18]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】((나만 몬스타엑스 기다린거야?!?!!?)) 몬근본토론으로 모시겠습니다🐶🐹🐢🐝🐱 + 🍪이벤트🍪 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/34474465</id>
         <link href="https://tv.naver.com/v/34474465"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/34101412"/>
         <updated>2023-03-18T17:36:51.409Z</updated>
         <content type="html"><![CDATA[06:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다 같이 뛰어! 뛰어↗ 소율의 신나는 〈빠빠빠〉♬ | JTBC 230318 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/34101411</id>
-        <link href="https://tv.naver.com/v/34101411"/>
-        <updated>2023-03-18T17:36:51.409Z</updated>
-        <content type="html"><![CDATA[06:08]]></content>
     </entry>
 </feed>
