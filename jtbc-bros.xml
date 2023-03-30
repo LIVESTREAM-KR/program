@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-29T18:06:57.638Z</updated>
+    <updated>2023-03-30T05:37:03.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】((나만 몬스타엑스 기다린거야?!?!!?)) 몬근본토론으로 모시겠습니다🐶🐹🐢🐝🐱 + 🍪이벤트🍪]]></title>
+        <id>https://tv.naver.com/v/34474465</id>
+        <link href="https://tv.naver.com/v/34474465"/>
+        <updated>2023-03-30T05:37:02.646Z</updated>
+        <content type="html"><![CDATA[11:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 운동에 美친 자 윤성빈🔥 국가대표 썰부터 피지컬까지 제대로 뽐내고 감👊 | JTBC 230325 방송]]></title>
         <id>https://tv.naver.com/v/34330394</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34101411"/>
         <updated>2023-03-18T17:36:51.409Z</updated>
         <content type="html"><![CDATA[06:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공기 반 소리 반의 정석🎤 선예의 애절한 〈열애중〉♬ | JTBC 230318 방송]]></title>
-        <id>https://tv.naver.com/v/34101578</id>
-        <link href="https://tv.naver.com/v/34101578"/>
-        <updated>2023-03-18T17:36:51.410Z</updated>
-        <content type="html"><![CDATA[05:40]]></content>
     </entry>
 </feed>
