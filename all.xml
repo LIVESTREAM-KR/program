@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-31T05:36:38.971Z</updated>
+    <updated>2023-03-31T17:36:29.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 탱구의 《Tell me》+영지 in 놀토...?=💛 원카소 덕후들 모여🌟 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34522439</id>
+        <link href="https://tv.naver.com/v/34522439"/>
+        <updated>2023-03-31T17:36:21.138Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 솔로나라 실드왕 평화 비둘기 코니♥ 오늘 키쪽이 실드는 코니가 책임진다~!🤭 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34522277</id>
+        <link href="https://tv.naver.com/v/34522277"/>
+        <updated>2023-03-31T17:36:21.140Z</updated>
+        <content type="html"><![CDATA[04:50]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 오면~프콘이도 있고~영지도 있고~뱀뱀도 있고🎵🎶 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/34380520</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/34101781"/>
         <updated>2023-03-18T17:36:44.510Z</updated>
         <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한해가 활약하는 건 딱 이 타임뿐...〈원타임 - 니가 날 알어♪〉 | tvN 230318 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/34101589</id>
-        <link href="https://tv.naver.com/v/34101589"/>
-        <updated>2023-03-18T17:36:44.510Z</updated>
-        <content type="html"><![CDATA[08:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예능 밥줄이 끊긴다?! 모니카가 지목한 약자와 강자 | tvN 230318 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/34101395</id>
-        <link href="https://tv.naver.com/v/34101395"/>
-        <updated>2023-03-18T17:36:44.510Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 비상이다.. 칭찬해상이 뭐라고 오열파티💦 눈물 버튼 제대로 눌린 아는형님 2019 종업식 하이라이트 | JTBC 191228 방송 (아는 형님)]]></title>
