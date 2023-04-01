@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-03-31T17:36:29.284Z</updated>
+    <updated>2023-04-01T05:36:25.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 흙으로 찢은 승부⚡ 흙수저 부심 민혁도 인정해버린 흙의 제왕 수근ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/34531807</id>
+        <link href="https://tv.naver.com/v/34531807"/>
+        <updated>2023-04-01T05:36:24.796Z</updated>
+        <content type="html"><![CDATA[02:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 비상이다.. 칭찬해상이 뭐라고 오열파티💦 눈물 버튼 제대로 눌린 아는형님 2019 종업식 하이라이트 | JTBC 191228 방송]]></title>
         <id>https://tv.naver.com/v/34489362</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34101580"/>
         <updated>2023-03-18T17:36:51.407Z</updated>
         <content type="html"><![CDATA[05:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JYP! 지금은 말할 수 있다🔥 선예가 박진영에게 하고 싶었던 말 | JTBC 230318 방송]]></title>
-        <id>https://tv.naver.com/v/34101412</id>
-        <link href="https://tv.naver.com/v/34101412"/>
-        <updated>2023-03-18T17:36:51.409Z</updated>
-        <content type="html"><![CDATA[06:23]]></content>
     </entry>
 </feed>
