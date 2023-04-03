@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-03T05:36:13.540Z</updated>
+    <updated>2023-04-03T17:36:50.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토 5살 생일 파티를 화려하게 빛내줄 아이브 공주들 등장!👸 비주얼X재미X퍼포먼스 삼박자 읏-쨔❤]]></title>
+        <id>https://tv.naver.com/v/34587525</id>
+        <link href="https://tv.naver.com/v/34587525"/>
+        <updated>2023-04-03T17:36:41.492Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 나, 놀토! 나이는 5살🤗 생일 파티에 아이브가 왔다구? 어머, 이건 꼭 봐야해💛]]></title>
         <id>https://tv.naver.com/v/34542789</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34328086"/>
         <updated>2023-03-25T17:36:39.486Z</updated>
         <content type="html"><![CDATA[07:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 직장에선 월급 받고, 애인한텐 OO 받는다?!😂]]></title>
-        <id>https://tv.naver.com/v/34305687</id>
-        <link href="https://tv.naver.com/v/34305687"/>
-        <updated>2023-03-24T17:37:08.556Z</updated>
-        <content type="html"><![CDATA[05:08]]></content>
     </entry>
 </feed>
