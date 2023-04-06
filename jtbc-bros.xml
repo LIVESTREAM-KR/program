@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-05T17:36:59.398Z</updated>
+    <updated>2023-04-06T05:36:34.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】🏀감독온탑🏀 장항준 감독님이 제일 웃긴 (본인) 장항준 X 안재홍 X 정진운이 찾아왔습니다🏀]]></title>
+        <id>https://tv.naver.com/v/34679293</id>
+        <link href="https://tv.naver.com/v/34679293"/>
+        <updated>2023-04-06T05:36:33.859Z</updated>
+        <content type="html"><![CDATA[08:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂믿자!＂ 형원이의 몬(스타엑스)단속🔑 어디서 좀 놀아본 몬엑, 게임 초 집중( •̀ω•́ )✧ | JTBC 230401 방송]]></title>
         <id>https://tv.naver.com/v/34543861</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34327551"/>
         <updated>2023-03-25T17:36:46.802Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼떨결에 국가대표 된 🥇아시아 최초 '스켈레톤 금메달리스트' 윤성빈 | JTBC 230325 방송]]></title>
-        <id>https://tv.naver.com/v/34327474</id>
-        <link href="https://tv.naver.com/v/34327474"/>
-        <updated>2023-03-25T17:36:46.803Z</updated>
-        <content type="html"><![CDATA[05:29]]></content>
     </entry>
 </feed>
