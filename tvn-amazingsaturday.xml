@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-07T05:36:22.153Z</updated>
+    <updated>2023-04-07T17:36:14.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토 인생 5년차 동엽신 최대 위기! ＂이서 친구 아빠＂👨 VS ＂엽이에나＂🐯]]></title>
+        <id>https://tv.naver.com/v/34737149</id>
+        <link href="https://tv.naver.com/v/34737149"/>
+        <updated>2023-04-07T17:36:06.484Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 혼란하다 혼란해!🤯 반전과 충격 뿐인 5메이징한 릴레이 받쓰 팀 선정💫]]></title>
+        <id>https://tv.naver.com/v/34737003</id>
+        <link href="https://tv.naver.com/v/34737003"/>
+        <updated>2023-04-07T17:36:06.484Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토 5살 생일 파티를 화려하게 빛내줄 아이브 공주들 등장!👸 비주얼X재미X퍼포먼스 삼박자 읏-쨔❤]]></title>
         <id>https://tv.naver.com/v/34587525</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34328314"/>
         <updated>2023-03-25T17:36:39.485Z</updated>
         <content type="html"><![CDATA[06:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈WINNER - 빼입어♪〉 2전 2승 승률 100%의 위너가 설마 또..? | tvN 230325 방송]]></title>
-        <id>https://tv.naver.com/v/34328310</id>
-        <link href="https://tv.naver.com/v/34328310"/>
-        <updated>2023-03-25T17:36:39.485Z</updated>
-        <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[신곡 공개] 코드쿤스트X카이 CIRCLE 속 Rover♥ 타고난 웃수저들 등장! | tvN 230325 방송]]></title>
-        <id>https://tv.naver.com/v/34328086</id>
-        <link href="https://tv.naver.com/v/34328086"/>
-        <updated>2023-03-25T17:36:39.486Z</updated>
-        <content type="html"><![CDATA[07:32]]></content>
     </entry>
 </feed>
