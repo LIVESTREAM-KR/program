@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-07T17:36:14.618Z</updated>
+    <updated>2023-04-08T05:36:33.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이수근의 끝없는 애드리브에 결국 백기 든 장항준😂ㅋㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/34749200</id>
+        <link href="https://tv.naver.com/v/34749200"/>
+        <updated>2023-04-08T05:36:32.882Z</updated>
+        <content type="html"><![CDATA[03:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】🏀감독온탑🏀 장항준 감독님이 제일 웃긴 (본인) 장항준 X 안재홍 X 정진운이 찾아왔습니다🏀]]></title>
         <id>https://tv.naver.com/v/34679293</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34327720"/>
         <updated>2023-03-25T17:36:46.801Z</updated>
         <content type="html"><![CDATA[07:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[윤성빈 노르딕 컬] 민경훈 번쩍(!) 들어 올리는 아이언빈 클라쓰 ㅎㄷㄷ;; | JTBC 230325 방송]]></title>
-        <id>https://tv.naver.com/v/34327551</id>
-        <link href="https://tv.naver.com/v/34327551"/>
-        <updated>2023-03-25T17:36:46.802Z</updated>
-        <content type="html"><![CDATA[02:45]]></content>
     </entry>
 </feed>
