@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-10T05:36:26.878Z</updated>
+    <updated>2023-04-10T17:36:32.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 롱~다리로 놀토 휘어잡으러 왔지롱~! 송해나 X 이국주 X 이현이🤣]]></title>
+        <id>https://tv.naver.com/v/34811858</id>
+        <link href="https://tv.naver.com/v/34811858"/>
+        <updated>2023-04-10T17:36:25.210Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 넘치는 흥과 과몰입, 거기에 고집까지?! 예능 치트키 다 들고 나온 송해나 X 이국주 X 이현이🤗]]></title>
         <id>https://tv.naver.com/v/34762295</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34541923"/>
         <updated>2023-04-01T17:36:08.055Z</updated>
         <content type="html"><![CDATA[01:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[허영지 찬스! 왜 계속 놀보랑 겹쳐 보이는 거죠..? | tvN 230401 방송]]></title>
-        <id>https://tv.naver.com/v/34541806</id>
-        <link href="https://tv.naver.com/v/34541806"/>
-        <updated>2023-04-01T17:36:08.055Z</updated>
-        <content type="html"><![CDATA[08:15]]></content>
     </entry>
 </feed>
