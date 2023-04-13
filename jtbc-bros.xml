@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-13T05:36:35.681Z</updated>
+    <updated>2023-04-13T17:36:44.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] ＂회갑연장에서 어깨춤을;＂ 입만 열면 빵빵 터지는 가족 토크 장인🤣 지석진x박정아｜아는 형님 | JTBC 191214 방송 | JTBC 191214 방송]]></title>
+        <id>https://tv.naver.com/v/34928840</id>
+        <link href="https://tv.naver.com/v/34928840"/>
+        <updated>2023-04-13T17:36:43.409Z</updated>
+        <content type="html"><![CDATA[19:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[최초 선공개] IVE 아이브 'Kitsch+I AM' 리허설 캠 (형님학교.ver)♬]]></title>
+        <id>https://tv.naver.com/v/34921308</id>
+        <link href="https://tv.naver.com/v/34921308"/>
+        <updated>2023-04-13T17:36:43.412Z</updated>
+        <content type="html"><![CDATA[02:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】완전 Kitsch하게 폴꾸하는 아이브✨ 다이브는 그냥 믿으면 돼💕+ 🍪이벤트🍪]]></title>
         <id>https://tv.naver.com/v/34904508</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34540661"/>
         <updated>2023-04-01T17:36:15.129Z</updated>
         <content type="html"><![CDATA[05:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두뇌 풀가동! 영어는 잘해도 숫자에 약한 아이엠💦 | JTBC 230401 방송]]></title>
-        <id>https://tv.naver.com/v/34540550</id>
-        <link href="https://tv.naver.com/v/34540550"/>
-        <updated>2023-04-01T17:36:15.131Z</updated>
-        <content type="html"><![CDATA[07:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최약체 민경훈의 강적⚡ 겁나(?) 못하는 형원에 기겁한 멤버들.. | JTBC 230401 방송]]></title>
-        <id>https://tv.naver.com/v/34540388</id>
-        <link href="https://tv.naver.com/v/34540388"/>
-        <updated>2023-04-01T17:36:15.131Z</updated>
-        <content type="html"><![CDATA[03:25]]></content>
     </entry>
 </feed>
