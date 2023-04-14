@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-14T05:36:12.207Z</updated>
+    <updated>2023-04-14T17:36:29.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 흥에 추ㅣ한ㄷr...☆ 이현이와의 회식 간접체험 ＜실전편＞🤣 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34961814</id>
+        <link href="https://tv.naver.com/v/34961814"/>
+        <updated>2023-04-14T17:36:21.920Z</updated>
+        <content type="html"><![CDATA[03:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 태연 앞에서 소녀시대 춤 메들리 가능? 이현이는 가능! 흥생흥사 이현이 ＜이론편＞🤭 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/34961812</id>
+        <link href="https://tv.naver.com/v/34961812"/>
+        <updated>2023-04-14T17:36:21.926Z</updated>
+        <content type="html"><![CDATA[04:51]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 롱~다리로 놀토 휘어잡으러 왔지롱~! 송해나 X 이국주 X 이현이🤣 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/34811858</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/34542228"/>
         <updated>2023-04-01T17:36:08.049Z</updated>
         <content type="html"><![CDATA[06:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈뱀뱀 - 딱 좋아♪〉 급식 먹고 이 노래 국룰이었지(할머니 그 말만 50년째예요) | tvN 230401 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/34542123</id>
-        <link href="https://tv.naver.com/v/34542123"/>
-        <updated>2023-04-01T17:36:08.049Z</updated>
-        <content type="html"><![CDATA[06:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈태연 - Tell me♪〉 원카소 추억 소환 2탄♥ | tvN 230401 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/34541923</id>
-        <link href="https://tv.naver.com/v/34541923"/>
-        <updated>2023-04-01T17:36:08.055Z</updated>
-        <content type="html"><![CDATA[01:40]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂회갑연장에서 어깨춤을;＂ 입만 열면 빵빵 터지는 가족 토크 장인🤣 지석진x박정아｜아는 형님 | JTBC 191214 방송 | JTBC 191214 방송 (아는 형님)]]></title>
