@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T05:36:40.459Z</updated>
+    <updated>2023-04-17T17:36:18.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] TJ 장혁에, 로코퀸 장나라 받고! 매력쟁이 채정안까지! 이 분들이 최강 패밀리 아니면 뭔가요?😘 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/35039092</id>
+        <link href="https://tv.naver.com/v/35039092"/>
+        <updated>2023-04-17T17:36:10.678Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(두근💖) 간만에 탱키 남매 제대로 잡았다!! (두근💖) #highlight (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/34986248</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/34761472"/>
         <updated>2023-04-08T17:36:13.480Z</updated>
         <content type="html"><![CDATA[02:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유진X이서 팀은 디너쇼^^b 우리에게는 음식이 달린 순간..! | tvN 230408 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/34761336</id>
-        <link href="https://tv.naver.com/v/34761336"/>
-        <updated>2023-04-08T17:36:13.487Z</updated>
-        <content type="html"><![CDATA[09:14]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 거기서 더덕이 왜 나와..? '예능 천재' 안유진도 나무에서 떨어질 때가 있다🤭 | JTBC 230415 방송 (아는 형님)]]></title>
