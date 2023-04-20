@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-19T17:36:49.226Z</updated>
+    <updated>2023-04-20T05:36:14.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】진호 없는 팀 ＜진호야＞의 문세윤X황제성X남호연X최성민이 형님 학교에 찾아왔습니다~👅]]></title>
+        <id>https://tv.naver.com/v/35138085</id>
+        <link href="https://tv.naver.com/v/35138085"/>
+        <updated>2023-04-20T05:36:13.972Z</updated>
+        <content type="html"><![CDATA[04:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 거기서 더덕이 왜 나와..? '예능 천재' 안유진도 나무에서 떨어질 때가 있다🤭 | JTBC 230415 방송]]></title>
         <id>https://tv.naver.com/v/34986874</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34928840"/>
         <updated>2023-04-13T17:36:43.409Z</updated>
         <content type="html"><![CDATA[19:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[최초 선공개] IVE 아이브 'Kitsch+I AM' 리허설 캠 (형님학교.ver)♬]]></title>
-        <id>https://tv.naver.com/v/34921308</id>
-        <link href="https://tv.naver.com/v/34921308"/>
-        <updated>2023-04-13T17:36:43.412Z</updated>
-        <content type="html"><![CDATA[02:40]]></content>
     </entry>
 </feed>
