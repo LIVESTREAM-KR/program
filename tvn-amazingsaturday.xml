@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-21T05:36:02.510Z</updated>
+    <updated>2023-04-21T17:36:50.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 관종 금발 언니 vs 놀토 금발 언니🤭 그리고 기세 언니 채정안까지...?!]]></title>
+        <id>https://tv.naver.com/v/35197229</id>
+        <link href="https://tv.naver.com/v/35197229"/>
+        <updated>2023-04-21T17:36:42.739Z</updated>
+        <content type="html"><![CDATA[04:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토에 TJ 본인등판! 도레미를 괴롭혔던 《혁이의 사랑 이야기》 그 진실은...?!]]></title>
+        <id>https://tv.naver.com/v/35197227</id>
+        <link href="https://tv.naver.com/v/35197227"/>
+        <updated>2023-04-21T17:36:42.740Z</updated>
+        <content type="html"><![CDATA[04:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] TJ 장혁에, 로코퀸 장나라 받고! 매력쟁이 채정안까지! 이 분들이 최강 패밀리 아니면 뭔가요?😘]]></title>
         <id>https://tv.naver.com/v/35039092</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34761674"/>
         <updated>2023-04-08T17:36:13.476Z</updated>
         <content type="html"><![CDATA[03:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈레이 - Poppy♪〉 쁘유하다..! 쁘리티하고 유니크한 콩순이 포포몬쓰♥ | tvN 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34761572</id>
-        <link href="https://tv.naver.com/v/34761572"/>
-        <updated>2023-04-08T17:36:13.478Z</updated>
-        <content type="html"><![CDATA[02:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈장원영 - DADDY♪〉 ＂내 걱정은 낭비야＂ (사랑하면 걱정하게 돼!! ㅠㅠ) | tvN 230408 방송]]></title>
-        <id>https://tv.naver.com/v/34761472</id>
-        <link href="https://tv.naver.com/v/34761472"/>
-        <updated>2023-04-08T17:36:13.480Z</updated>
-        <content type="html"><![CDATA[02:07]]></content>
     </entry>
 </feed>
