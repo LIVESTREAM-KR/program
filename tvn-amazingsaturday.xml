@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-24T05:36:39.244Z</updated>
+    <updated>2023-04-24T17:36:21.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 내가 원했던 게 이거잖아 이거!🤤 놀토의 근본 패밀리! 세븐틴과 함께 받쓰 대결~ 아주 나이스👍]]></title>
+        <id>https://tv.naver.com/v/35274762</id>
+        <link href="https://tv.naver.com/v/35274762"/>
+        <updated>2023-04-24T17:36:14.304Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토 찐찐찐 가족 세븐틴 VS 도레미?! 치열한 집안 싸움이 시작된다! 놀토~나이스!😜]]></title>
         <id>https://tv.naver.com/v/35222413</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34961814"/>
         <updated>2023-04-14T17:36:21.920Z</updated>
         <content type="html"><![CDATA[03:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 태연 앞에서 소녀시대 춤 메들리 가능? 이현이는 가능! 흥생흥사 이현이 ＜이론편＞🤭]]></title>
-        <id>https://tv.naver.com/v/34961812</id>
-        <link href="https://tv.naver.com/v/34961812"/>
-        <updated>2023-04-14T17:36:21.926Z</updated>
-        <content type="html"><![CDATA[04:51]]></content>
     </entry>
 </feed>

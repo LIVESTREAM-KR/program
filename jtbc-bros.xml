@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-24T05:36:39.240Z</updated>
+    <updated>2023-04-24T17:36:21.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아는 형님 381회 예고편]]></title>
+        <id>https://tv.naver.com/v/35272814</id>
+        <link href="https://tv.naver.com/v/35272814"/>
+        <updated>2023-04-24T17:36:21.174Z</updated>
+        <content type="html"><![CDATA[02:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ?? : 상상하지 마세요 스타 못 될 거 같아요. 남호연, 김칫국 마시다 바로 뱉음 ^^;; | JTBC 230422 방송]]></title>
         <id>https://tv.naver.com/v/35223204</id>
@@ -164,7 +171,7 @@
         <id>https://tv.naver.com/v/34986874</id>
         <link href="https://tv.naver.com/v/34986874"/>
         <updated>2023-04-15T17:36:50.567Z</updated>
-        <content type="html"><![CDATA[21:47]]></content>
+        <content type="html"><![CDATA[21:43]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 노래 내기만 하면 대박 터짐💞 세상에서 제일~ 키치한 아이브가 돌아왔다↗  | JTBC 230415 방송]]></title>
@@ -206,13 +213,6 @@
         <id>https://tv.naver.com/v/34984744</id>
         <link href="https://tv.naver.com/v/34984744"/>
         <updated>2023-04-15T17:36:50.577Z</updated>
-        <content type="html"><![CDATA[04:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파티에서 뺄 수 없는 치명적인 댄스 타임! 아이브가 추는 〈Love Shot〉♬ | JTBC 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34984826</id>
-        <link href="https://tv.naver.com/v/34984826"/>
-        <updated>2023-04-15T17:36:50.582Z</updated>
-        <content type="html"><![CDATA[04:07]]></content>
+        <content type="html"><![CDATA[04:42]]></content>
     </entry>
 </feed>
