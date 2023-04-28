@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-04-28T05:36:15.972Z</updated>
+    <updated>2023-04-28T17:36:47.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 쿡쿡 콕콕 코로록...그리고 뿌셔뿌셔...?! 키SBN을 도발하는 세봉이들의 간겜 실력은?🤭]]></title>
+        <id>https://tv.naver.com/v/35424949</id>
+        <link href="https://tv.naver.com/v/35424949"/>
+        <updated>2023-04-28T17:36:39.437Z</updated>
+        <content type="html"><![CDATA[04:29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 분명 도레미 vs 세븐틴 집안 싸움이었는데...? 야생 그 잡채인 세븐틴 vs 세븐틴🤣]]></title>
+        <id>https://tv.naver.com/v/35424948</id>
+        <link href="https://tv.naver.com/v/35424948"/>
+        <updated>2023-04-28T17:36:39.442Z</updated>
+        <content type="html"><![CDATA[04:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 내가 원했던 게 이거잖아 이거!🤤 놀토의 근본 패밀리! 세븐틴과 함께 받쓰 대결~ 아주 나이스👍]]></title>
         <id>https://tv.naver.com/v/35274762</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/34985024"/>
         <updated>2023-04-15T17:36:43.485Z</updated>
         <content type="html"><![CDATA[11:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈박지윤 - 스틸 어웨이♪〉 역대급 느낌만 있는 받쓰 | tvN 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34984926</id>
-        <link href="https://tv.naver.com/v/34984926"/>
-        <updated>2023-04-15T17:36:43.486Z</updated>
-        <content type="html"><![CDATA[09:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 흥에 추ㅣ한ㄷr...☆ 이현이와의 회식 간접체험 ＜실전편＞🤣]]></title>
-        <id>https://tv.naver.com/v/34961814</id>
-        <link href="https://tv.naver.com/v/34961814"/>
-        <updated>2023-04-14T17:36:21.920Z</updated>
-        <content type="html"><![CDATA[03:58]]></content>
     </entry>
 </feed>
