@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-04-28T17:36:47.610Z</updated>
+    <updated>2023-04-29T05:36:26.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ↖UNFORGIVEN으로 컴백↗ 완전체로 돌아온 르세라핌, 예능감 폼 미쳤다....💕]]></title>
+        <id>https://tv.naver.com/v/35438255</id>
+        <link href="https://tv.naver.com/v/35438255"/>
+        <updated>2023-04-29T05:36:25.728Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] JYP에서 제일 웃긴 예능 3인방 출격! 남친짤 일타 박진영과 JYP 차기 이사 트와이스 나연X다현 | JTBC 191130 방송]]></title>
         <id>https://tv.naver.com/v/35390704</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/34984646"/>
         <updated>2023-04-15T17:36:50.573Z</updated>
         <content type="html"><![CDATA[01:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오답이면 어때ㅎㅎ 원영이의 깜찍한 ＂사랑은 아무나 하나~＂ | JTBC 230415 방송]]></title>
-        <id>https://tv.naver.com/v/34984745</id>
-        <link href="https://tv.naver.com/v/34984745"/>
-        <updated>2023-04-15T17:36:50.574Z</updated>
-        <content type="html"><![CDATA[03:30]]></content>
     </entry>
 </feed>
