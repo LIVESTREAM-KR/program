@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-01T05:36:29.921Z</updated>
+    <updated>2023-05-01T17:36:47.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 러블리한데 살벌한 구미호즈가 돌아왔다! 이동욱 X 김소연 X 김범 모두 나온다는데, 안 보면~?🤔]]></title>
+        <id>https://tv.naver.com/v/35495370</id>
+        <link href="https://tv.naver.com/v/35495370"/>
+        <updated>2023-05-01T17:36:40.110Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(경) 🎊한해의 한 해도~ 문제도 잘 풀려라~ 한해 생일 축하 파티🎊 (축)]]></title>
         <id>https://tv.naver.com/v/35452624</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35039092"/>
         <updated>2023-04-17T17:36:10.678Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(두근💖) 간만에 탱키 남매 제대로 잡았다!! (두근💖) #highlight]]></title>
-        <id>https://tv.naver.com/v/34986248</id>
-        <link href="https://tv.naver.com/v/34986248"/>
-        <updated>2023-04-15T17:36:43.449Z</updated>
-        <content type="html"><![CDATA[20:45]]></content>
     </entry>
 </feed>
