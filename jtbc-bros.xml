@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-05-03T17:36:33.145Z</updated>
+    <updated>2023-05-04T05:36:14.104Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】🤘진과~함께에요!🤘 진과 함께하는(?) 공기놀이 오케이 가보자고✊]]></title>
+        <id>https://tv.naver.com/v/35590210</id>
+        <link href="https://tv.naver.com/v/35590210"/>
+        <updated>2023-05-04T05:36:13.416Z</updated>
+        <content type="html"><![CDATA[07:29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 예능 고수들 앞에서 뻔뻔하게 우기는 '르세라핌' 아무튼 귀여움 ㅇㅇ... (반박 불가) | JTBC 230429 방송]]></title>
         <id>https://tv.naver.com/v/35453218</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35223204"/>
         <updated>2023-04-22T17:36:28.134Z</updated>
         <content type="html"><![CDATA[24:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 여기 코빅이야 아형이야..? 콩트 하다 real '카지노 최민식' 삼켜버린 황제성♨ | JTBC 230422 방송]]></title>
-        <id>https://tv.naver.com/v/35222938</id>
-        <link href="https://tv.naver.com/v/35222938"/>
-        <updated>2023-04-22T17:36:28.134Z</updated>
-        <content type="html"><![CDATA[22:45]]></content>
     </entry>
 </feed>
