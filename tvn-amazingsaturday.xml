@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-05T05:36:34.824Z</updated>
+    <updated>2023-05-05T17:36:07.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 봄날의 햇살같은 김소연의 세상에서 제일 러블리한 인사 퍼포먼스😘]]></title>
+        <id>https://tv.naver.com/v/35635800</id>
+        <link href="https://tv.naver.com/v/35635800"/>
+        <updated>2023-05-05T17:36:00.282Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이동욱의 다정함 한 스푼에 꾀어 김범한테 도레미 자리 내어줄 뻔한 썰.mp4]]></title>
+        <id>https://tv.naver.com/v/35635798</id>
+        <link href="https://tv.naver.com/v/35635798"/>
+        <updated>2023-05-05T17:36:00.285Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 러블리한데 살벌한 구미호즈가 돌아왔다! 이동욱 X 김소연 X 김범 모두 나온다는데, 안 보면~?🤔]]></title>
         <id>https://tv.naver.com/v/35495370</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35197229"/>
         <updated>2023-04-21T17:36:42.739Z</updated>
         <content type="html"><![CDATA[04:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토에 TJ 본인등판! 도레미를 괴롭혔던 《혁이의 사랑 이야기》 그 진실은...?!]]></title>
-        <id>https://tv.naver.com/v/35197227</id>
-        <link href="https://tv.naver.com/v/35197227"/>
-        <updated>2023-04-21T17:36:42.740Z</updated>
-        <content type="html"><![CDATA[04:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] TJ 장혁에, 로코퀸 장나라 받고! 매력쟁이 채정안까지! 이 분들이 최강 패밀리 아니면 뭔가요?😘]]></title>
-        <id>https://tv.naver.com/v/35039092</id>
-        <link href="https://tv.naver.com/v/35039092"/>
-        <updated>2023-04-17T17:36:10.678Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
