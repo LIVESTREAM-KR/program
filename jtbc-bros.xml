@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-05-10T17:39:44.918Z</updated>
+    <updated>2023-05-11T05:36:13.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】이 영상 학교에서 보기 가능한? 형님 학교에 등장한 찐 선생님! 정승제X김민정X주혜연📖]]></title>
+        <id>https://tv.naver.com/v/35811281</id>
+        <link href="https://tv.naver.com/v/35811281"/>
+        <updated>2023-05-11T05:36:12.368Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 열정 가득 FC개벤져스에게 내동댕이 쳐진 강호동ㅋㅋ 몸싸움으로 한 판 제대로 붙었다❗ | JTBC 230506 방송]]></title>
         <id>https://tv.naver.com/v/35664924</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35450142"/>
         <updated>2023-04-29T17:36:04.804Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맑은 음색으로 마음을 움직이는 허윤진의 〈Think Of Me〉♬ | JTBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35450139</id>
-        <link href="https://tv.naver.com/v/35450139"/>
-        <updated>2023-04-29T17:36:04.805Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
     </entry>
 </feed>
