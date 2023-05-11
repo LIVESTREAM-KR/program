@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-05-11T05:36:13.089Z</updated>
+    <updated>2023-05-11T17:36:29.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 우리 해치지 않아요🤗 강렬한 외모와 상반된 수줍음 많은 귀여운(?) 아재들의 토크| 아는형님 | JTBC 191102 방송 | JTBC 191102 방송]]></title>
+        <id>https://tv.naver.com/v/35833865</id>
+        <link href="https://tv.naver.com/v/35833865"/>
+        <updated>2023-05-11T17:36:28.634Z</updated>
+        <content type="html"><![CDATA[13:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】이 영상 학교에서 보기 가능한? 형님 학교에 등장한 찐 선생님! 정승제X김민정X주혜연📖]]></title>
         <id>https://tv.naver.com/v/35811281</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35450341"/>
         <updated>2023-04-29T17:36:04.804Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항상 동생들을 놀리던 김채원, 혜리한테 당하고 동생들 마음 이해 완료😂 | JTBC 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35450142</id>
-        <link href="https://tv.naver.com/v/35450142"/>
-        <updated>2023-04-29T17:36:04.804Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-11T05:36:13.085Z</updated>
+    <updated>2023-05-11T17:36:29.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 감동, 로맨스, 재미까지 다 잡았다! 눈과 귀 모두 즐겁게 해줄 페스티벌 여신들 조현아 X 이미주 X 권진아🎆 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[00:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 우리 해치지 않아요🤗 강렬한 외모와 상반된 수줍음 많은 귀여운(?) 아재들의 토크| 아는형님 | JTBC 191102 방송 | JTBC 191102 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/35833865</id>
+        <link href="https://tv.naver.com/v/35833865"/>
+        <updated>2023-05-11T17:36:28.634Z</updated>
+        <content type="html"><![CDATA[13:37]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】이 영상 학교에서 보기 가능한? 형님 학교에 등장한 찐 선생님! 정승제X김민정X주혜연📖 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/35811281</id>
         <link href="https://tv.naver.com/v/35811281"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/35450341"/>
         <updated>2023-04-29T17:36:04.804Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항상 동생들을 놀리던 김채원, 혜리한테 당하고 동생들 마음 이해 완료😂 | JTBC 230429 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/35450142</id>
-        <link href="https://tv.naver.com/v/35450142"/>
-        <updated>2023-04-29T17:36:04.804Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
