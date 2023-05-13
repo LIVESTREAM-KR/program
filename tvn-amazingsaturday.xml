@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-13T05:35:59.447Z</updated>
+    <updated>2023-05-13T17:36:21.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데뷔곡을 맞혀라! 잊지 말자, 그들의 본업은 가수다 #highlight]]></title>
+        <id>https://tv.naver.com/v/35896305</id>
+        <link href="https://tv.naver.com/v/35896305"/>
+        <updated>2023-05-13T17:36:13.498Z</updated>
+        <content type="html"><![CDATA[18:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 치열한 놀토 회사에 대적하는 더 치열한 《레이스》의 직장인들이 왔다! 이연희 X 홍종현 X 정윤호👨‍💼👩‍💼]]></title>
+        <id>https://tv.naver.com/v/35896286</id>
+        <link href="https://tv.naver.com/v/35896286"/>
+        <updated>2023-05-13T17:36:13.498Z</updated>
+        <content type="html"><![CDATA[01:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💖썸수저🥄 이미주를 위한 곡 #highlight]]></title>
+        <id>https://tv.naver.com/v/35896283</id>
+        <link href="https://tv.naver.com/v/35896283"/>
+        <updated>2023-05-13T17:36:13.498Z</updated>
+        <content type="html"><![CDATA[14:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[태연X조현아] 동갑즈의 두 글자 #highlight]]></title>
+        <id>https://tv.naver.com/v/35896079</id>
+        <link href="https://tv.naver.com/v/35896079"/>
+        <updated>2023-05-13T17:36:13.499Z</updated>
+        <content type="html"><![CDATA[19:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스쿱스 파트면 그럴 수 있어 | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35896078</id>
+        <link href="https://tv.naver.com/v/35896078"/>
+        <updated>2023-05-13T17:36:13.500Z</updated>
+        <content type="html"><![CDATA[06:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈세븐틴,에일리 - Q&A♪〉 진짜 답을 모르겠단 말이야ㅠㅠ | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35895965</id>
+        <link href="https://tv.naver.com/v/35895965"/>
+        <updated>2023-05-13T17:36:13.503Z</updated>
+        <content type="html"><![CDATA[08:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈Key - 붐바야♪〉 a.k.a 오빠 소환식 블랙핑크 삼킨 키범이 | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35895588</id>
+        <link href="https://tv.naver.com/v/35895588"/>
+        <updated>2023-05-13T17:36:13.510Z</updated>
+        <content type="html"><![CDATA[08:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈태진아 - INVU♪〉 태연X권진아 고막 사르르 조합♥ | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35895412</id>
+        <link href="https://tv.naver.com/v/35895412"/>
+        <updated>2023-05-13T17:36:13.511Z</updated>
+        <content type="html"><![CDATA[10:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞부분 'ㄴ'을 들은 태연, 주도권 잡은 뚱유니 | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35895111</id>
+        <link href="https://tv.naver.com/v/35895111"/>
+        <updated>2023-05-13T17:36:13.532Z</updated>
+        <content type="html"><![CDATA[11:39]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈케이윌 - 환상 속의 그대♪〉 줄이면 큰일 나는 조현아 받쓰 | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35894744</id>
+        <link href="https://tv.naver.com/v/35894744"/>
+        <updated>2023-05-13T17:36:13.534Z</updated>
+        <content type="html"><![CDATA[08:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 이미주 - Movie Star #놀카운트다운 | tvN 230513 방송]]></title>
+        <id>https://tv.naver.com/v/35894543</id>
+        <link href="https://tv.naver.com/v/35894543"/>
+        <updated>2023-05-13T17:36:13.534Z</updated>
+        <content type="html"><![CDATA[06:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 음색이라는 게 폭.발.한다...☆ 고막 녹여버리는 라이브 맛집 놀토🎶]]></title>
         <id>https://tv.naver.com/v/35871093</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/35452256"/>
         <updated>2023-04-29T17:35:57.919Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[근두운☁ 타고 더 날아보자고~! 세븐틴 포포모음 #highlight]]></title>
-        <id>https://tv.naver.com/v/35452628</id>
-        <link href="https://tv.naver.com/v/35452628"/>
-        <updated>2023-04-29T17:35:57.923Z</updated>
-        <content type="html"><![CDATA[21:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 빌어먹을 세상의 한 줄기 빛🌟 #highlight]]></title>
-        <id>https://tv.naver.com/v/35452393</id>
-        <link href="https://tv.naver.com/v/35452393"/>
-        <updated>2023-04-29T17:35:57.925Z</updated>
-        <content type="html"><![CDATA[14:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일단 나오면 리즈 찍는 분량 치트키 세븐틴💎 #highlight]]></title>
-        <id>https://tv.naver.com/v/35452258</id>
-        <link href="https://tv.naver.com/v/35452258"/>
-        <updated>2023-04-29T17:35:57.927Z</updated>
-        <content type="html"><![CDATA[19:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈부석순 - 파이팅 해야지♪〉 일단 한 번 들어봐~ 본인 등판 포포몬쓰! | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35452009</id>
-        <link href="https://tv.naver.com/v/35452009"/>
-        <updated>2023-04-29T17:35:57.933Z</updated>
-        <content type="html"><![CDATA[13:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈민규 - 이 여름 서머♪〉 김민규가 정답이다.. 여름이었다..♥ | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451836</id>
-        <link href="https://tv.naver.com/v/35451836"/>
-        <updated>2023-04-29T17:35:57.944Z</updated>
-        <content type="html"><![CDATA[08:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈버논 - Poppy♪〉 캐럿 랜드 폼 아직 안 죽었다~! | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451742</id>
-        <link href="https://tv.naver.com/v/35451742"/>
-        <updated>2023-04-29T17:35:57.944Z</updated>
-        <content type="html"><![CDATA[05:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여기서 멤버 교체요..? 잘가 손오굠... 어서와 엽르신 | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451646</id>
-        <link href="https://tv.naver.com/v/35451646"/>
-        <updated>2023-04-29T17:35:57.950Z</updated>
-        <content type="html"><![CDATA[08:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[민규 vs 탱구] 힌트 선택을 두고 벌어지는 미니 게임 | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451645</id>
-        <link href="https://tv.naver.com/v/35451645"/>
-        <updated>2023-04-29T17:35:57.952Z</updated>
-        <content type="html"><![CDATA[05:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈터보 - 온리 세븐틴♪〉 니킥 뿌셔! 벽도 뿌셔! 힌트 싸움 남 | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451545</id>
-        <link href="https://tv.naver.com/v/35451545"/>
-        <updated>2023-04-29T17:35:57.963Z</updated>
-        <content type="html"><![CDATA[10:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마치 된 것 같아 〈세븐틴 - 손오공♪〉 컴백과 함께 찾아온 보석들♥ | tvN 230429 방송]]></title>
-        <id>https://tv.naver.com/v/35451544</id>
-        <link href="https://tv.naver.com/v/35451544"/>
-        <updated>2023-04-29T17:35:57.964Z</updated>
-        <content type="html"><![CDATA[09:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 쿡쿡 콕콕 코로록...그리고 뿌셔뿌셔...?! 키SBN을 도발하는 세봉이들의 간겜 실력은?🤭]]></title>
-        <id>https://tv.naver.com/v/35424949</id>
-        <link href="https://tv.naver.com/v/35424949"/>
-        <updated>2023-04-28T17:36:39.437Z</updated>
-        <content type="html"><![CDATA[04:29]]></content>
     </entry>
 </feed>
