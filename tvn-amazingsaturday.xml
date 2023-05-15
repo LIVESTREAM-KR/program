@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-15T05:36:34.425Z</updated>
+    <updated>2023-05-15T17:36:35.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 열정도 가득! 의지도 가득! 받쓰도 레이스처럼 달리는 이연희 X 홍종현 X 정윤호🏎]]></title>
+        <id>https://tv.naver.com/v/35953736</id>
+        <link href="https://tv.naver.com/v/35953736"/>
+        <updated>2023-05-15T17:36:27.127Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데뷔곡을 맞혀라! 잊지 말자, 그들의 본업은 가수다 #highlight]]></title>
         <id>https://tv.naver.com/v/35896305</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35452624"/>
         <updated>2023-04-29T17:35:57.918Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 도레미와 놀래미 모두를 홀리러 온 구미호들이 있다구?! 이동욱 X 김소연 X 김범🦊]]></title>
-        <id>https://tv.naver.com/v/35452256</id>
-        <link href="https://tv.naver.com/v/35452256"/>
-        <updated>2023-04-29T17:35:57.919Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
     </entry>
 </feed>
