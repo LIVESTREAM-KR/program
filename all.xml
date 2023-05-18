@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-17T17:37:06.421Z</updated>
+    <updated>2023-05-18T05:36:37.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 열정도 가득! 의지도 가득! 받쓰도 레이스처럼 달리는 이연희 X 홍종현 X 정윤호🏎 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:11]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】우리 이 게임 사랑하네..❤️ 보고만 있어도 행복한 행배즈의 콜 마이 네임 게임 현장! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/36044572</id>
+        <link href="https://tv.naver.com/v/36044572"/>
+        <updated>2023-05-18T05:36:37.126Z</updated>
+        <content type="html"><![CDATA[06:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 지금까지 이런 학생은 없었다,, 주혜연-김민정을 당황시키는 형님들의 마이웨이 수업 태도ㅋㅋㅋ | JTBC 230513 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/35897816</id>
         <link href="https://tv.naver.com/v/35897816"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/35452383"/>
         <updated>2023-04-29T17:36:04.786Z</updated>
         <content type="html"><![CDATA[10:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] (본격 르세라핌 혜자 방송) 너네가 뭘 좋아할지 몰라서 발레리나부터 사춘기 K학생(?)까지 준비했어ღ | JTBC 230429 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/35452981</id>
-        <link href="https://tv.naver.com/v/35452981"/>
-        <updated>2023-04-29T17:36:04.786Z</updated>
-        <content type="html"><![CDATA[25:47]]></content>
     </entry>
 </feed>
