@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T05:36:39.289Z</updated>
+    <updated>2023-05-19T17:36:36.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 사리가~좋아하는~신상~!게임! 근데 이제 억울함과 오답들을 곁들인...🤧 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36108102</id>
+        <link href="https://tv.naver.com/v/36108102"/>
+        <updated>2023-05-19T17:36:27.813Z</updated>
+        <content type="html"><![CDATA[03:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 여기..페스티벌이에요...? 음악과 알코올을 즐겨하는 도레미 멤버 맞추기(난이도 하)🤪 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36108100</id>
+        <link href="https://tv.naver.com/v/36108100"/>
+        <updated>2023-05-19T17:36:27.825Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 열정도 가득! 의지도 가득! 받쓰도 레이스처럼 달리는 이연희 X 홍종현 X 정윤호🏎 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/35953736</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/35635798"/>
         <updated>2023-05-05T17:36:00.285Z</updated>
         <content type="html"><![CDATA[04:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 러블리한데 살벌한 구미호즈가 돌아왔다! 이동욱 X 김소연 X 김범 모두 나온다는데, 안 보면~?🤔 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/35495370</id>
-        <link href="https://tv.naver.com/v/35495370"/>
-        <updated>2023-05-01T17:36:40.110Z</updated>
-        <content type="html"><![CDATA[00:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(경) 🎊한해의 한 해도~ 문제도 잘 풀려라~ 한해 생일 축하 파티🎊 (축) (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/35452624</id>
-        <link href="https://tv.naver.com/v/35452624"/>
-        <updated>2023-04-29T17:35:57.918Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】우리 이 게임 사랑하네..❤️ 보고만 있어도 행복한 행배즈의 콜 마이 네임 게임 현장! (아는 형님)]]></title>
