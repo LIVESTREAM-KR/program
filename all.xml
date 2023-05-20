@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T17:36:36.159Z</updated>
+    <updated>2023-05-20T05:36:15.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 사리가~좋아하는~신상~!게임! 근데 이제 억울함과 오답들을 곁들인...🤧 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:14]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 차예련과 진서연을 꼬신 남편들의 플러팅 (+🖥️TV는 필수ㅋㅋ) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/36121432</id>
+        <link href="https://tv.naver.com/v/36121432"/>
+        <updated>2023-05-20T05:36:14.386Z</updated>
+        <content type="html"><![CDATA[04:42]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】우리 이 게임 사랑하네..❤️ 보고만 있어도 행복한 행배즈의 콜 마이 네임 게임 현장! (아는 형님)]]></title>
         <id>https://tv.naver.com/v/36044572</id>
         <link href="https://tv.naver.com/v/36044572"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/35453218"/>
         <updated>2023-04-29T17:36:04.786Z</updated>
         <content type="html"><![CDATA[25:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 김채원 피셜 : 이번에 대박 날 거 같아... UNFORGIVEN으로 돌아온 '석양의 무법자' 르세라핌👿 | JTBC 230429 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/35452383</id>
-        <link href="https://tv.naver.com/v/35452383"/>
-        <updated>2023-04-29T17:36:04.786Z</updated>
-        <content type="html"><![CDATA[10:12]]></content>
     </entry>
 </feed>
