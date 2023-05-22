@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-22T05:36:28.830Z</updated>
+    <updated>2023-05-22T17:36:12.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토를 찾아온 핫한 퀸카들 등장! 근데 받쓰 실력은..? (여자)아이들 미연 X 민니 X 우기💖]]></title>
+        <id>https://tv.naver.com/v/36190557</id>
+        <link href="https://tv.naver.com/v/36190557"/>
+        <updated>2023-05-22T17:36:04.413Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] Y2K 놀토에 퀸카들의 등장이라...이거 재밌어지겠는걸?🤭 (여자)아이들 미연 X 민니 X 우기👸]]></title>
         <id>https://tv.naver.com/v/36134695</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35662429"/>
         <updated>2023-05-06T17:36:29.515Z</updated>
         <content type="html"><![CDATA[01:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 넉살 놀토 마지막 녹화인가 봐요~^^ #highlight]]></title>
-        <id>https://tv.naver.com/v/35662428</id>
-        <link href="https://tv.naver.com/v/35662428"/>
-        <updated>2023-05-06T17:36:29.521Z</updated>
-        <content type="html"><![CDATA[18:07]]></content>
     </entry>
 </feed>
