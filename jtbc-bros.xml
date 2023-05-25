@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-05-24T17:36:18.714Z</updated>
+    <updated>2023-05-25T05:36:19.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】말도 잘하고 호흡도 척척 DJ즈..💚 김태균X박소현X이민혁이 형님 학교에 찾아왔습니다~🍀]]></title>
+        <id>https://tv.naver.com/v/36292334</id>
+        <link href="https://tv.naver.com/v/36292334"/>
+        <updated>2023-05-25T05:36:18.974Z</updated>
+        <content type="html"><![CDATA[06:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 차예련, 주상욱과 신혼여행에서 다투고 나 홀로 귀국?! ~진실일까 아닐까~ | JTBC 230520 방송]]></title>
         <id>https://tv.naver.com/v/36138824</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35660805"/>
         <updated>2023-05-06T17:36:36.944Z</updated>
         <content type="html"><![CDATA[02:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸싸움 폼 미쳤다⚡ 강호동을 가볍게 내동댕이치는 개벤져스ㅋㅋ  | JTBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35660613</id>
-        <link href="https://tv.naver.com/v/35660613"/>
-        <updated>2023-05-06T17:36:36.944Z</updated>
-        <content type="html"><![CDATA[03:36]]></content>
     </entry>
 </feed>
