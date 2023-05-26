@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-26T05:37:08.712Z</updated>
+    <updated>2023-05-26T17:36:39.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토에서 치열한 경매가 벌어졌다는데~? 근데 저기..이거 맞아..?😲💦]]></title>
+        <id>https://tv.naver.com/v/36355008</id>
+        <link href="https://tv.naver.com/v/36355008"/>
+        <updated>2023-05-26T17:36:30.666Z</updated>
+        <content type="html"><![CDATA[04:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 천생연분 환장 콤비 탄생!! 광키와 똑우기⭐ 그 사연이 궁금하다면~?🙋‍♂️]]></title>
+        <id>https://tv.naver.com/v/36354875</id>
+        <link href="https://tv.naver.com/v/36354875"/>
+        <updated>2023-05-26T17:36:30.666Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토를 찾아온 핫한 퀸카들 등장! 근데 받쓰 실력은..? (여자)아이들 미연 X 민니 X 우기💖]]></title>
         <id>https://tv.naver.com/v/36190557</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/35871091"/>
         <updated>2023-05-12T17:36:16.083Z</updated>
         <content type="html"><![CDATA[04:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 감동, 로맨스, 재미까지 다 잡았다! 눈과 귀 모두 즐겁게 해줄 페스티벌 여신들 조현아 X 이미주 X 권진아🎆]]></title>
-        <id>https://tv.naver.com/v/35713801</id>
-        <link href="https://tv.naver.com/v/35713801"/>
-        <updated>2023-05-08T17:36:23.857Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 이곳이 곧 축제다!🎉 축제도 예능도 모두 휘어 잡는 3명이 왔다! 조현아 X 이미주 X 권진아💃]]></title>
-        <id>https://tv.naver.com/v/35662429</id>
-        <link href="https://tv.naver.com/v/35662429"/>
-        <updated>2023-05-06T17:36:29.515Z</updated>
-        <content type="html"><![CDATA[01:07]]></content>
     </entry>
 </feed>
