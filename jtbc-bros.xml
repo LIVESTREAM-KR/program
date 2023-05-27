@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-05-26T17:36:39.397Z</updated>
+    <updated>2023-05-27T05:36:21.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이게 그린라이트💚?! ❌삐-빅❌ 연참 짬바 나오는 '서장훈' 코멘트💢]]></title>
+        <id>https://tv.naver.com/v/36365077</id>
+        <link href="https://tv.naver.com/v/36365077"/>
+        <updated>2023-05-27T05:36:20.113Z</updated>
+        <content type="html"><![CDATA[03:23]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】말도 잘하고 호흡도 척척 DJ즈..💚 김태균X박소현X이민혁이 형님 학교에 찾아왔습니다~🍀]]></title>
         <id>https://tv.naver.com/v/36292334</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35661321"/>
         <updated>2023-05-06T17:36:36.942Z</updated>
         <content type="html"><![CDATA[02:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 전진은 전진👍 가려진 시야에도 깔끔한 선방⚽ | JTBC 230506 방송]]></title>
-        <id>https://tv.naver.com/v/35660805</id>
-        <link href="https://tv.naver.com/v/35660805"/>
-        <updated>2023-05-06T17:36:36.944Z</updated>
-        <content type="html"><![CDATA[02:21]]></content>
     </entry>
 </feed>
