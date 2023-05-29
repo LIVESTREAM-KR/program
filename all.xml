@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-29T05:36:36.733Z</updated>
+    <updated>2023-05-29T17:36:19.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 볼수록 빠져든다..💘 빌런 맛집 《범죄도시3》의 주역들! 이준혁 X 김민재 X 고규필😍👾 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36427969</id>
+        <link href="https://tv.naver.com/v/36427969"/>
+        <updated>2023-05-29T17:36:12.323Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획클립] (경)놀토에 없어서는 안될 세윤이와 붐의 생일을 축하해🥰(축) (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/36381548</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/35953736"/>
         <updated>2023-05-15T17:36:27.127Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔곡을 맞혀라! 잊지 말자, 그들의 본업은 가수다 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/35896305</id>
-        <link href="https://tv.naver.com/v/35896305"/>
-        <updated>2023-05-13T17:36:13.498Z</updated>
-        <content type="html"><![CDATA[18:51]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 역대급 피꺼솟🤬 양다리도 모자라 다섯 다리나 걸친 💩차 컬렉터 사연ヾ(*`Д´*)ﾉ | JTBC 230527 방송 (아는 형님)]]></title>

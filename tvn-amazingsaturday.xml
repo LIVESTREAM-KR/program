@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-05-29T05:36:36.729Z</updated>
+    <updated>2023-05-29T17:36:19.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 볼수록 빠져든다..💘 빌런 맛집 《범죄도시3》의 주역들! 이준혁 X 김민재 X 고규필😍👾]]></title>
+        <id>https://tv.naver.com/v/36427969</id>
+        <link href="https://tv.naver.com/v/36427969"/>
+        <updated>2023-05-29T17:36:12.323Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[기획클립] (경)놀토에 없어서는 안될 세윤이와 붐의 생일을 축하해🥰(축)]]></title>
         <id>https://tv.naver.com/v/36381548</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/35953736"/>
         <updated>2023-05-15T17:36:27.127Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데뷔곡을 맞혀라! 잊지 말자, 그들의 본업은 가수다 #highlight]]></title>
-        <id>https://tv.naver.com/v/35896305</id>
-        <link href="https://tv.naver.com/v/35896305"/>
-        <updated>2023-05-13T17:36:13.498Z</updated>
-        <content type="html"><![CDATA[18:51]]></content>
     </entry>
 </feed>
