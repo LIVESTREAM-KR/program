@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-02T05:36:47.546Z</updated>
+    <updated>2023-06-02T17:36:23.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 미남의 축복이 끝이 없네...🤭 아니 빌런이 이렇게 매력 넘쳐도 돼요??🙋]]></title>
+        <id>https://tv.naver.com/v/36589626</id>
+        <link href="https://tv.naver.com/v/36589626"/>
+        <updated>2023-06-02T17:36:15.478Z</updated>
+        <content type="html"><![CDATA[05:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이거 꿈인가..? 저세상 빌런들 다~모였다! 빌런 연합 함 가보자고😎🔥]]></title>
+        <id>https://tv.naver.com/v/36589462</id>
+        <link href="https://tv.naver.com/v/36589462"/>
+        <updated>2023-06-02T17:36:15.479Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 볼수록 빠져든다..💘 빌런 맛집 《범죄도시3》의 주역들! 이준혁 X 김민재 X 고규필😍👾]]></title>
         <id>https://tv.naver.com/v/36427969</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36108102"/>
         <updated>2023-05-19T17:36:27.813Z</updated>
         <content type="html"><![CDATA[03:51]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 여기..페스티벌이에요...? 음악과 알코올을 즐겨하는 도레미 멤버 맞추기(난이도 하)🤪]]></title>
-        <id>https://tv.naver.com/v/36108100</id>
-        <link href="https://tv.naver.com/v/36108100"/>
-        <updated>2023-05-19T17:36:27.825Z</updated>
-        <content type="html"><![CDATA[04:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 열정도 가득! 의지도 가득! 받쓰도 레이스처럼 달리는 이연희 X 홍종현 X 정윤호🏎]]></title>
-        <id>https://tv.naver.com/v/35953736</id>
-        <link href="https://tv.naver.com/v/35953736"/>
-        <updated>2023-05-15T17:36:27.127Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
