@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-02T17:36:23.238Z</updated>
+    <updated>2023-06-03T05:37:08.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 미남의 축복이 끝이 없네...🤭 아니 빌런이 이렇게 매력 넘쳐도 돼요??🙋 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[03:51]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] SWAG~🤘 R&B 대디 '김조한' 따라 비트 위를 걷는 나그네들(?) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/36600949</id>
+        <link href="https://tv.naver.com/v/36600949"/>
+        <updated>2023-06-03T05:37:07.068Z</updated>
+        <content type="html"><![CDATA[02:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】Hey you~뭘 보니? 이 조합의 축복이 쉬지를 않네~💜 김조한X조현아X뮤지X미연이 찾아왔습니다~🎉 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/36534390</id>
         <link href="https://tv.naver.com/v/36534390"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/35894913"/>
         <updated>2023-05-13T17:36:20.724Z</updated>
         <content type="html"><![CDATA[04:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주혜연의 영어 특강] 장르를 넘나드는 이진호의 '혼합 가정법'에 교무실로 호출한 일타 강사😂 | JTBC 230513 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/35894917</id>
-        <link href="https://tv.naver.com/v/35894917"/>
-        <updated>2023-05-13T17:36:20.726Z</updated>
-        <content type="html"><![CDATA[07:07]]></content>
     </entry>
 </feed>
