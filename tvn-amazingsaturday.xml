@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-05T05:36:35.302Z</updated>
+    <updated>2023-06-05T17:36:49.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 대환장 파티! 한해의 찐친들을 소개해~😚🙋‍♂️ 박준면 X 라이머 X 그리]]></title>
+        <id>https://tv.naver.com/v/36672881</id>
+        <link href="https://tv.naver.com/v/36672881"/>
+        <updated>2023-06-05T17:36:41.288Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 너, 내 동료가 돼라! 한해 찐친들의 놀토 출격~!😝 박준면 X 라이머 X 그리✨]]></title>
         <id>https://tv.naver.com/v/36617065</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36190557"/>
         <updated>2023-05-22T17:36:04.413Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] Y2K 놀토에 퀸카들의 등장이라...이거 재밌어지겠는걸?🤭 (여자)아이들 미연 X 민니 X 우기👸]]></title>
-        <id>https://tv.naver.com/v/36134695</id>
-        <link href="https://tv.naver.com/v/36134695"/>
-        <updated>2023-05-20T17:36:38.702Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
     </entry>
 </feed>

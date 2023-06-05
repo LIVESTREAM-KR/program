@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-05T05:36:35.298Z</updated>
+    <updated>2023-06-05T17:36:49.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 대환장 파티! 한해의 찐친들을 소개해~😚🙋‍♂️ 박준면 X 라이머 X 그리 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36672881</id>
+        <link href="https://tv.naver.com/v/36672881"/>
+        <updated>2023-06-05T17:36:41.288Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 너, 내 동료가 돼라! 한해 찐친들의 놀토 출격~!😝 박준면 X 라이머 X 그리✨ (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/36617065</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/36190557"/>
         <updated>2023-05-22T17:36:04.413Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] Y2K 놀토에 퀸카들의 등장이라...이거 재밌어지겠는걸?🤭 (여자)아이들 미연 X 민니 X 우기👸 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/36134695</id>
-        <link href="https://tv.naver.com/v/36134695"/>
-        <updated>2023-05-20T17:36:38.702Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ??? : 조현아 하입보이요♪ 노래는 물론이요, 춤까지 섭렵한 만능 뮤지션 '조현아', 예능도 접수❗ | JTBC 230603 방송 (아는 형님)]]></title>
