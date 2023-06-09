@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-06-09T05:36:10.144Z</updated>
+    <updated>2023-06-09T17:36:27.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] aespa 에스파 '도깨비불+Girls+Spicy' 리허설 캠 (형님학교.ver)♬]]></title>
+        <id>https://tv.naver.com/v/36824191</id>
+        <link href="https://tv.naver.com/v/36824191"/>
+        <updated>2023-06-09T17:36:27.248Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】귀하다..기세가 다른 Move로 ＜춤으로 말해요＞ 하는 에스파..아니 짱스파..💝+ 🍪이벤트🍪]]></title>
         <id>https://tv.naver.com/v/36761956</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36133814"/>
         <updated>2023-05-20T17:36:46.362Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 모습 처음이야😎 완벽한 춤선 진서연의 〈Next Level〉♬ | JTBC 230520 방송]]></title>
-        <id>https://tv.naver.com/v/36133812</id>
-        <link href="https://tv.naver.com/v/36133812"/>
-        <updated>2023-05-20T17:36:46.362Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>

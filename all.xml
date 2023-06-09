@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-09T05:36:10.146Z</updated>
+    <updated>2023-06-09T17:36:27.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 오~예! 붐마 완전 신났다!😝 묘하게 킹받는다는 뉴아이템의 정체는...?🙄💢 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36826475</id>
+        <link href="https://tv.naver.com/v/36826475"/>
+        <updated>2023-06-09T17:36:19.706Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 겉돌거나 노단점 센스쟁이라고...? 진실은 하나! 놀토에 하나뿐인 사랑둥이🥰💕 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/36826337</id>
+        <link href="https://tv.naver.com/v/36826337"/>
+        <updated>2023-06-09T17:36:19.706Z</updated>
+        <content type="html"><![CDATA[04:12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 대환장 파티! 한해의 찐친들을 소개해~😚🙋‍♂️ 박준면 X 라이머 X 그리 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/36672881</id>
@@ -201,18 +215,11 @@
         <content type="html"><![CDATA[04:33]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[선공개] 천생연분 환장 콤비 탄생!! 광키와 똑우기⭐ 그 사연이 궁금하다면~?🙋‍♂️ (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/36354875</id>
-        <link href="https://tv.naver.com/v/36354875"/>
-        <updated>2023-05-26T17:36:30.666Z</updated>
-        <content type="html"><![CDATA[04:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 놀토를 찾아온 핫한 퀸카들 등장! 근데 받쓰 실력은..? (여자)아이들 미연 X 민니 X 우기💖 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/36190557</id>
-        <link href="https://tv.naver.com/v/36190557"/>
-        <updated>2023-05-22T17:36:04.413Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
+        <title type="html"><![CDATA[[선공개] aespa 에스파 '도깨비불+Girls+Spicy' 리허설 캠 (형님학교.ver)♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/36824191</id>
+        <link href="https://tv.naver.com/v/36824191"/>
+        <updated>2023-06-09T17:36:27.248Z</updated>
+        <content type="html"><![CDATA[02:04]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】귀하다..기세가 다른 Move로 ＜춤으로 말해요＞ 하는 에스파..아니 짱스파..💝+ 🍪이벤트🍪 (아는 형님)]]></title>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/36133814"/>
         <updated>2023-05-20T17:36:46.362Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이런 모습 처음이야😎 완벽한 춤선 진서연의 〈Next Level〉♬ | JTBC 230520 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/36133812</id>
-        <link href="https://tv.naver.com/v/36133812"/>
-        <updated>2023-05-20T17:36:46.362Z</updated>
-        <content type="html"><![CDATA[03:11]]></content>
     </entry>
 </feed>
