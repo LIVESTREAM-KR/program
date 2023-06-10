@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-06-09T17:36:27.966Z</updated>
+    <updated>2023-06-10T05:36:32.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂그래도 기본은 돼야지?＂ 에스파가 고르는 외모 vs 성격 🤔]]></title>
+        <id>https://tv.naver.com/v/36836603</id>
+        <link href="https://tv.naver.com/v/36836603"/>
+        <updated>2023-06-10T05:36:31.866Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] aespa 에스파 '도깨비불+Girls+Spicy' 리허설 캠 (형님학교.ver)♬]]></title>
         <id>https://tv.naver.com/v/36824191</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36137012"/>
         <updated>2023-05-20T17:36:46.353Z</updated>
         <content type="html"><![CDATA[23:39]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 385회 예고편]]></title>
-        <id>https://tv.naver.com/v/36133814</id>
-        <link href="https://tv.naver.com/v/36133814"/>
-        <updated>2023-05-20T17:36:46.362Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
