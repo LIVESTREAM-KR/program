@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-12T05:36:14.965Z</updated>
+    <updated>2023-06-12T17:37:37.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
+        <title type="html"><![CDATA[[예고] 의욕 가득 하선과 팔랑 남희의 첫 놀토 많관부~🔥👂 박하선 X 김남희 X 다현]]></title>
+        <id>https://tv.naver.com/v/36909786</id>
+        <link href="https://tv.naver.com/v/36909786"/>
+        <updated>2023-06-12T17:37:29.953Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[예고] 어디론가 떠나고 싶은 토요일~✈ 두 배우와 특별 도레미의 깜짝 방문! 박하선 X 김남희 X 다현🥰💛]]></title>
-        <id>https://tv.naver.com/v/36854362</id>
-        <link href="https://tv.naver.com/v/36854362"/>
-        <updated>2023-06-10T17:36:09.835Z</updated>
+        <id>https://tv.naver.com/v/36909634</id>
+        <link href="https://tv.naver.com/v/36909634"/>
+        <updated>2023-06-12T17:37:29.953Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
     </entry>
     <entry>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36381548"/>
         <updated>2023-05-27T17:36:10.471Z</updated>
         <content type="html"><![CDATA[01:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 빌런 가득한 놀토에 더 무자비한 빌런들이 떴다?! 《범죄도시3》 이준혁 X 김민재 X]]></title>
-        <id>https://tv.naver.com/v/36381427</id>
-        <link href="https://tv.naver.com/v/36381427"/>
-        <updated>2023-05-27T17:36:10.471Z</updated>
-        <content type="html"><![CDATA[01:06]]></content>
     </entry>
 </feed>
