@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T17:36:24.186Z</updated>
+    <updated>2023-06-17T05:36:11.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 난무하는 상황극에 어질~ 놀토가 말아주는 끝장나는 매운맛🔥🤫 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:53]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] ＂낚시 룰? 없어!＂ 이경규도 인정한 '악마' 이덕화ㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/37085226</id>
+        <link href="https://tv.naver.com/v/37085226"/>
+        <updated>2023-06-17T05:36:10.833Z</updated>
+        <content type="html"><![CDATA[04:28]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 짱스파는 거짓말 모태... 게임 시작하기도 전에 귀가 팔랑팔랑 거리는 에스파 귀여워(◕ᴗ̵◕)♡ | JTBC 230610 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/36858979</id>
         <link href="https://tv.naver.com/v/36858979"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/36615741"/>
         <updated>2023-06-03T17:36:44.026Z</updated>
         <content type="html"><![CDATA[02:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[입에 착 붙는 후렴💯 즉석에서 만드는 〈아형 썸머송〉♬ | JTBC 230603 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/36615492</id>
-        <link href="https://tv.naver.com/v/36615492"/>
-        <updated>2023-06-03T17:36:44.027Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
     </entry>
 </feed>
