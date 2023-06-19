@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-19T05:36:50.294Z</updated>
+    <updated>2023-06-19T17:36:24.191Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 사기캐 배우들의 놀토 노하우 대방출?!😎 천우희 X 김동욱 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/37151185</id>
+        <link href="https://tv.naver.com/v/37151185"/>
+        <updated>2023-06-19T17:36:16.464Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 반전 매력 가득한 놀토에 초특급 배우들이 떴다❣ 특별 도레미 다현까지😘 천우희 X 김동욱 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/37099374</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/36617065"/>
         <updated>2023-06-03T17:36:35.780Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시3 배우들 앞에서 연기 실력 뽐내는 문세윤 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/36617063</id>
-        <link href="https://tv.naver.com/v/36617063"/>
-        <updated>2023-06-03T17:36:35.780Z</updated>
-        <content type="html"><![CDATA[18:00]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 배만 타면 돌변?! 낚시 앞에서 위아래도 없는 도시 어부들의 낚시 토크 모음 | JTBC 230617 방송 (아는 형님)]]></title>

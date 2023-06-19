@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-19T05:36:50.290Z</updated>
+    <updated>2023-06-19T17:36:24.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 사기캐 배우들의 놀토 노하우 대방출?!😎 천우희 X 김동욱]]></title>
+        <id>https://tv.naver.com/v/37151185</id>
+        <link href="https://tv.naver.com/v/37151185"/>
+        <updated>2023-06-19T17:36:16.464Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 반전 매력 가득한 놀토에 초특급 배우들이 떴다❣ 특별 도레미 다현까지😘 천우희 X 김동욱]]></title>
         <id>https://tv.naver.com/v/37099374</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36617065"/>
         <updated>2023-06-03T17:36:35.780Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시3 배우들 앞에서 연기 실력 뽐내는 문세윤 #highlight]]></title>
-        <id>https://tv.naver.com/v/36617063</id>
-        <link href="https://tv.naver.com/v/36617063"/>
-        <updated>2023-06-03T17:36:35.780Z</updated>
-        <content type="html"><![CDATA[18:00]]></content>
     </entry>
 </feed>
