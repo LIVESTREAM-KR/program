@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-23T05:37:56.248Z</updated>
+    <updated>2023-06-23T17:37:48.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토버스에서 찾은 또 다른 적성! 이건 사기캐가 맞다🤭]]></title>
+        <id>https://tv.naver.com/v/37310309</id>
+        <link href="https://tv.naver.com/v/37310309"/>
+        <updated>2023-06-23T17:37:40.717Z</updated>
+        <content type="html"><![CDATA[03:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토 찐팬 동래미와 세윤 찐팬 토마토🍅 이로운 귀인들이 떴다✨]]></title>
+        <id>https://tv.naver.com/v/37310308</id>
+        <link href="https://tv.naver.com/v/37310308"/>
+        <updated>2023-06-23T17:37:40.718Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 사기캐 배우들의 놀토 노하우 대방출?!😎 천우희 X 김동욱]]></title>
         <id>https://tv.naver.com/v/37151185</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/36826337"/>
         <updated>2023-06-09T17:36:19.706Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 대환장 파티! 한해의 찐친들을 소개해~😚🙋‍♂️ 박준면 X 라이머 X 그리]]></title>
-        <id>https://tv.naver.com/v/36672881</id>
-        <link href="https://tv.naver.com/v/36672881"/>
-        <updated>2023-06-05T17:36:41.288Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 너, 내 동료가 돼라! 한해 찐친들의 놀토 출격~!😝 박준면 X 라이머 X 그리✨]]></title>
-        <id>https://tv.naver.com/v/36617065</id>
-        <link href="https://tv.naver.com/v/36617065"/>
-        <updated>2023-06-03T17:36:35.780Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
     </entry>
 </feed>
