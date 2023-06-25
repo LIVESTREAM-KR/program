@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-25T05:38:08.930Z</updated>
+    <updated>2023-06-25T17:36:32.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안가을_0613_놀라운토요일_안무위key]]></title>
+        <id>https://tv.naver.com/v/37352639</id>
+        <link href="https://tv.naver.com/v/37352639"/>
+        <updated>2023-06-25T17:36:25.095Z</updated>
+        <content type="html"><![CDATA[20:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 더 HARD하게 돌아온 샤이니🥰 키 X 민호 X 태민]]></title>
         <id>https://tv.naver.com/v/37336409</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36909634"/>
         <updated>2023-06-12T17:37:29.953Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이머, 너를 다시 보게 됐어 #highlight]]></title>
-        <id>https://tv.naver.com/v/36854245</id>
-        <link href="https://tv.naver.com/v/36854245"/>
-        <updated>2023-06-10T17:36:09.836Z</updated>
-        <content type="html"><![CDATA[16:58]]></content>
     </entry>
 </feed>
