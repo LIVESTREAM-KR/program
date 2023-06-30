@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-06-30T05:36:52.083Z</updated>
+    <updated>2023-06-30T17:36:30.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 뭐야 왜 잘해?🤫 찰떡 호흡! 뜻밖의 콤비 결성✨]]></title>
+        <id>https://tv.naver.com/v/37546807</id>
+        <link href="https://tv.naver.com/v/37546807"/>
+        <updated>2023-06-30T17:36:22.973Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 난이도 상! HARD 모드 샤이니 등장~🔥 우리 푹신하게 가자고요😂]]></title>
+        <id>https://tv.naver.com/v/37546806</id>
+        <link href="https://tv.naver.com/v/37546806"/>
+        <updated>2023-06-30T17:36:22.973Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 완벽하게 스며든 SHINee is back❣ ✨ 키 X 민호 X 태민]]></title>
         <id>https://tv.naver.com/v/37389135</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37072173"/>
         <updated>2023-06-16T17:36:16.502Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 이중생활 포착😏 하선과 남희와 의외의 인연을 가진 도레미는 누구~?!🙋‍♂]]></title>
-        <id>https://tv.naver.com/v/37072068</id>
-        <link href="https://tv.naver.com/v/37072068"/>
-        <updated>2023-06-16T17:36:16.511Z</updated>
-        <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 의욕 가득 하선과 팔랑 남희의 첫 놀토 많관부~🔥👂 박하선 X 김남희 X 다현]]></title>
-        <id>https://tv.naver.com/v/36909786</id>
-        <link href="https://tv.naver.com/v/36909786"/>
-        <updated>2023-06-12T17:37:29.953Z</updated>
-        <content type="html"><![CDATA[00:33]]></content>
     </entry>
 </feed>
