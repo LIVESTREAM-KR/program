@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-06-30T17:36:30.982Z</updated>
+    <updated>2023-07-01T05:36:48.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 큰 형님 강호동의 속마음.. 함께여서 행복한 9년 만의 첫 해외 수학여행❣️]]></title>
+        <id>https://tv.naver.com/v/37560012</id>
+        <link href="https://tv.naver.com/v/37560012"/>
+        <updated>2023-07-01T05:36:47.379Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 내가 BTS 멤버랑 같이 낚시하러 갈게, 낚시 좋아한다는 그 멤버 누가 찾을래? ‍🤷‍ | JTBC 230624 방송]]></title>
         <id>https://tv.naver.com/v/37341046</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/36853873"/>
         <updated>2023-06-10T17:36:16.612Z</updated>
         <content type="html"><![CDATA[03:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈터가 사투리로 번역한 노래 가사 ㅋㅋㅋ 과연 정답은? | JTBC 230610 방송]]></title>
-        <id>https://tv.naver.com/v/36853872</id>
-        <link href="https://tv.naver.com/v/36853872"/>
-        <updated>2023-06-10T17:36:16.619Z</updated>
-        <content type="html"><![CDATA[02:17]]></content>
     </entry>
 </feed>
