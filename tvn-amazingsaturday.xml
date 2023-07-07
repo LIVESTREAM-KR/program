@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-07-07T05:38:06.158Z</updated>
+    <updated>2023-07-07T17:37:12.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 갑자기 벌어진 댄스 파티~ 앙큼한 댄스 보러 가보자GO💘😎]]></title>
+        <id>https://tv.naver.com/v/37792950</id>
+        <link href="https://tv.naver.com/v/37792950"/>
+        <updated>2023-07-07T17:37:05.914Z</updated>
+        <content type="html"><![CDATA[04:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토가 사랑하는 고집왕😘 이번엔 믿을만한 고집을 보여준다는데~?]]></title>
+        <id>https://tv.naver.com/v/37792948</id>
+        <link href="https://tv.naver.com/v/37792948"/>
+        <updated>2023-07-07T17:37:05.922Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 브레이크 고장 난 직계 가족 연석과 비관규🤣 유연석 X 규현]]></title>
         <id>https://tv.naver.com/v/37626325</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/37310309"/>
         <updated>2023-06-23T17:37:40.717Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토 찐팬 동래미와 세윤 찐팬 토마토🍅 이로운 귀인들이 떴다✨]]></title>
-        <id>https://tv.naver.com/v/37310308</id>
-        <link href="https://tv.naver.com/v/37310308"/>
-        <updated>2023-06-23T17:37:40.718Z</updated>
-        <content type="html"><![CDATA[05:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 사기캐 배우들의 놀토 노하우 대방출?!😎 천우희 X 김동욱]]></title>
-        <id>https://tv.naver.com/v/37151185</id>
-        <link href="https://tv.naver.com/v/37151185"/>
-        <updated>2023-06-19T17:36:16.464Z</updated>
-        <content type="html"><![CDATA[00:33]]></content>
     </entry>
 </feed>
