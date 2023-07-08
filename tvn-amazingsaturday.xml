@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-07-08T05:36:56.828Z</updated>
+    <updated>2023-07-08T17:36:21.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 빛나는 제로베이스원이 떴다✨ 완전체 간겜까지🤭 성한빈 X 김지웅 X 석매튜]]></title>
+        <id>https://tv.naver.com/v/37821770</id>
+        <link href="https://tv.naver.com/v/37821770"/>
+        <updated>2023-07-08T17:36:14.956Z</updated>
+        <content type="html"><![CDATA[01:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쓰러져 문세윤 VS 사라져 규현 | 소신 발언?하는 유연석 #highlight]]></title>
+        <id>https://tv.naver.com/v/37821769</id>
+        <link href="https://tv.naver.com/v/37821769"/>
+        <updated>2023-07-08T17:36:14.956Z</updated>
+        <content type="html"><![CDATA[19:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[규현과 이박사의 만남 | 트로트에 MZ챌린지를 더하다! #highlight]]></title>
+        <id>https://tv.naver.com/v/37821768</id>
+        <link href="https://tv.naver.com/v/37821768"/>
+        <updated>2023-07-08T17:36:14.969Z</updated>
+        <content type="html"><![CDATA[19:22]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 로그인했는데 데이터가 없다. #highlight]]></title>
+        <id>https://tv.naver.com/v/37821763</id>
+        <link href="https://tv.naver.com/v/37821763"/>
+        <updated>2023-07-08T17:36:14.969Z</updated>
+        <content type="html"><![CDATA[17:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유연석 : 나 또 우겨야 해? | 고집과 경청 그 사이 | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37821761</id>
+        <link href="https://tv.naver.com/v/37821761"/>
+        <updated>2023-07-08T17:36:14.970Z</updated>
+        <content type="html"><![CDATA[09:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈슈퍼주니어 T- 나 같은건 없는건가요♪〉 규현 원샷 떠먹여 주는 곡(?) | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37821416</id>
+        <link href="https://tv.naver.com/v/37821416"/>
+        <updated>2023-07-08T17:36:14.970Z</updated>
+        <content type="html"><![CDATA[09:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[없는 미래도 눈부시게 만들어 주는 〈유연석 - 슈퍼스타♪〉 | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37821150</id>
+        <link href="https://tv.naver.com/v/37821150"/>
+        <updated>2023-07-08T17:36:14.971Z</updated>
+        <content type="html"><![CDATA[11:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[탱키가 말아주는 〈소녀시대 - Run Devil Run♪〉 왜 원곡자보다 더 잘 기억해? | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37820800</id>
+        <link href="https://tv.naver.com/v/37820800"/>
+        <updated>2023-07-08T17:36:14.972Z</updated>
+        <content type="html"><![CDATA[08:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도레미 사실 프로파일러들 아닌가요? | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37820467</id>
+        <link href="https://tv.naver.com/v/37820467"/>
+        <updated>2023-07-08T17:36:14.972Z</updated>
+        <content type="html"><![CDATA[08:36]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈온앤오프 - 누워서 세계 속으로♪〉 여기서 놀토가 왜 나와..? | tvN 230708 방송]]></title>
+        <id>https://tv.naver.com/v/37820218</id>
+        <link href="https://tv.naver.com/v/37820218"/>
+        <updated>2023-07-08T17:36:14.977Z</updated>
+        <content type="html"><![CDATA[08:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 갑자기 벌어진 댄스 파티~ 앙큼한 댄스 보러 가보자GO💘😎]]></title>
         <id>https://tv.naver.com/v/37792950</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/37336295"/>
         <updated>2023-06-24T17:36:43.038Z</updated>
         <content type="html"><![CDATA[15:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간식 게임] 움.. 움... 우움...~ 牛희의 워낭소리 #highlight]]></title>
-        <id>https://tv.naver.com/v/37336293</id>
-        <link href="https://tv.naver.com/v/37336293"/>
-        <updated>2023-06-24T17:36:43.038Z</updated>
-        <content type="html"><![CDATA[17:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀잘욱 김동욱: 아묻따 키 말이 맞는 거 같아요 #highlight]]></title>
-        <id>https://tv.naver.com/v/37336292</id>
-        <link href="https://tv.naver.com/v/37336292"/>
-        <updated>2023-06-24T17:36:43.039Z</updated>
-        <content type="html"><![CDATA[27:59]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천우희 박수에 자신감 회복! 뚱유니의 캐치★ | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37336289</id>
-        <link href="https://tv.naver.com/v/37336289"/>
-        <updated>2023-06-24T17:36:43.041Z</updated>
-        <content type="html"><![CDATA[08:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김동욱X김동현 원근감 무시 〈B1A4 - 이게 무슨 일이야♪〉 | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37336061</id>
-        <link href="https://tv.naver.com/v/37336061"/>
-        <updated>2023-06-24T17:36:43.043Z</updated>
-        <content type="html"><![CDATA[07:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말할 수 없는 정답 | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37335958</id>
-        <link href="https://tv.naver.com/v/37335958"/>
-        <updated>2023-06-24T17:36:43.044Z</updated>
-        <content type="html"><![CDATA[08:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 우리 다현이 춤 못 추게 했나요? | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37335794</id>
-        <link href="https://tv.naver.com/v/37335794"/>
-        <updated>2023-06-24T17:36:43.061Z</updated>
-        <content type="html"><![CDATA[09:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동엽신에게 느껴지는 한해 호흡...ㅁ7ㅁ8 | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37335592</id>
-        <link href="https://tv.naver.com/v/37335592"/>
-        <updated>2023-06-24T17:36:43.062Z</updated>
-        <content type="html"><![CDATA[06:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설마 했던 붐채도사의 밀당 클라스 | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37335410</id>
-        <link href="https://tv.naver.com/v/37335410"/>
-        <updated>2023-06-24T17:36:43.065Z</updated>
-        <content type="html"><![CDATA[11:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혜리가 보고 있다👀 〈걸스데이 - 어쩜 좋아♪〉 | tvN 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37335149</id>
-        <link href="https://tv.naver.com/v/37335149"/>
-        <updated>2023-06-24T17:36:43.065Z</updated>
-        <content type="html"><![CDATA[10:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토버스에서 찾은 또 다른 적성! 이건 사기캐가 맞다🤭]]></title>
-        <id>https://tv.naver.com/v/37310309</id>
-        <link href="https://tv.naver.com/v/37310309"/>
-        <updated>2023-06-23T17:37:40.717Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
