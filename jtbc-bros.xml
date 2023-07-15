@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-07-14T17:36:25.119Z</updated>
+    <updated>2023-07-15T05:37:29.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 다낭 꽃이 피었습니다~🌺 걸리면 입수! 형님들의 물(?) 튀기는 대결🌊]]></title>
+        <id>https://tv.naver.com/v/38062247</id>
+        <link href="https://tv.naver.com/v/38062247"/>
+        <updated>2023-07-15T05:37:28.920Z</updated>
+        <content type="html"><![CDATA[04:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 수영장에서 '힘호동 vs 힘장훈' 제대로 붙었다!! 그런데 뽀뽀를 곁들인..😘 (ft. 물 만난 이수근ㅋㅋ) | JTBC 230708 방송]]></title>
         <id>https://tv.naver.com/v/37824413</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37334924"/>
         <updated>2023-06-24T17:36:49.711Z</updated>
         <content type="html"><![CDATA[04:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[멤버를 찾습니다] BTS 멤버가 덕화에게 다가와 귓속말로 전한 말ㅋㅋ👂  | JTBC 230624 방송]]></title>
-        <id>https://tv.naver.com/v/37334847</id>
-        <link href="https://tv.naver.com/v/37334847"/>
-        <updated>2023-06-24T17:36:49.712Z</updated>
-        <content type="html"><![CDATA[05:47]]></content>
     </entry>
 </feed>
