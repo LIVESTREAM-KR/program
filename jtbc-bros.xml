@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-07-19T17:36:39.684Z</updated>
+    <updated>2023-07-20T05:36:23.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】핫!한 의사들 다 모였다~❗❗ 홍성우X김영삼X한상보가 형님 학교에 찾아왔습니다~👨‍⚕]]></title>
+        <id>https://tv.naver.com/v/38231344</id>
+        <link href="https://tv.naver.com/v/38231344"/>
+        <updated>2023-07-20T05:36:22.489Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 모르쇠 안 통함ㅇㅇ 강호동의 노래방 18번 곡🎙까지 등장한 ＜아는 가요＞ 여행 ver. | JTBC 230715 방송]]></title>
         <id>https://tv.naver.com/v/38081850</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37819832"/>
         <updated>2023-07-08T17:36:21.147Z</updated>
         <content type="html"><![CDATA[08:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 🔥강호동 VS 서장훈🔥 피지컬 대결 가보자고↗ 다낭에서 제대로 맞붙은 힘과 힘!]]></title>
-        <id>https://tv.naver.com/v/37805602</id>
-        <link href="https://tv.naver.com/v/37805602"/>
-        <updated>2023-07-08T05:36:55.771Z</updated>
-        <content type="html"><![CDATA[03:43]]></content>
     </entry>
 </feed>
