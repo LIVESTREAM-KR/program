@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-07-21T17:36:13.575Z</updated>
+    <updated>2023-07-22T05:36:12.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 꽈추형 : 침이 더러워서 치대를 안 갔어🤷‍♂️ 비뇨기과 의사의 발언에 발끈한 김영삼 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/38299093</id>
+        <link href="https://tv.naver.com/v/38299093"/>
+        <updated>2023-07-22T05:36:11.335Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】핫!한 의사들 다 모였다~❗❗ 홍성우X김영삼X한상보가 형님 학교에 찾아왔습니다~👨‍⚕]]></title>
         <id>https://tv.naver.com/v/38231344</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37819839"/>
         <updated>2023-07-08T17:36:21.146Z</updated>
         <content type="html"><![CDATA[05:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민경훈, 본인 노래 까묵(?) 〈나에게로 떠나는 여행〉 새로 작곡해버리는 중ㅋㅋ | JTBC 230708 방송]]></title>
-        <id>https://tv.naver.com/v/37819832</id>
-        <link href="https://tv.naver.com/v/37819832"/>
-        <updated>2023-07-08T17:36:21.147Z</updated>
-        <content type="html"><![CDATA[08:43]]></content>
     </entry>
 </feed>
