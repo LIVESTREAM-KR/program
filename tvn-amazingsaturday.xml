@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-07-24T05:36:33.825Z</updated>
+    <updated>2023-07-24T17:36:52.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 좀비들 피해 놀토로 도망왔다!💦 딘딘 X 덱스 X 츠키🧟‍♂️]]></title>
+        <id>https://tv.naver.com/v/38363323</id>
+        <link href="https://tv.naver.com/v/38363323"/>
+        <updated>2023-07-24T17:36:43.885Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 폼 잔뜩 오른 좀비버스 주인공들 등장!😎 많관부~💜 딘딘 X 덱스 X 츠키]]></title>
         <id>https://tv.naver.com/v/38315781</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/37821768"/>
         <updated>2023-07-08T17:36:14.969Z</updated>
         <content type="html"><![CDATA[19:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 로그인했는데 데이터가 없다. #highlight]]></title>
-        <id>https://tv.naver.com/v/37821763</id>
-        <link href="https://tv.naver.com/v/37821763"/>
-        <updated>2023-07-08T17:36:14.969Z</updated>
-        <content type="html"><![CDATA[17:15]]></content>
     </entry>
 </feed>
