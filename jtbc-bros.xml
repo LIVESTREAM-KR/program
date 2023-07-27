@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-07-27T05:36:35.226Z</updated>
+    <updated>2023-07-27T17:37:09.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 청량돌이 돌아왔다~🌊 오마이걸 '여름이 들려 (Summer Comes)' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/38476827</id>
+        <link href="https://tv.naver.com/v/38476827"/>
+        <updated>2023-07-27T17:37:08.495Z</updated>
+        <content type="html"><![CDATA[03:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】((💙옴망진창 주의💙)) 띵곡부자 오마이걸은 본인 그룹의 수록곡을 다 안다 모른다?!🌊]]></title>
         <id>https://tv.naver.com/v/38457853</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38080157"/>
         <updated>2023-07-15T17:36:24.003Z</updated>
         <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[형님들+제작진을 위한 이상민의 깜짝 요리🍖 감동 심해😢 | JTBC 230715 방송]]></title>
-        <id>https://tv.naver.com/v/38079744</id>
-        <link href="https://tv.naver.com/v/38079744"/>
-        <updated>2023-07-15T17:36:24.003Z</updated>
-        <content type="html"><![CDATA[06:27]]></content>
     </entry>
 </feed>
