@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-28T05:36:28.421Z</updated>
+    <updated>2023-07-28T17:36:11.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 오답 파티 속에서 새로운 에이스 급부상! 부럽다 부러워~🤭 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/38512291</id>
+        <link href="https://tv.naver.com/v/38512291"/>
+        <updated>2023-07-28T17:36:03.319Z</updated>
+        <content type="html"><![CDATA[02:53]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이 가족 시스템에 이의 있소!🙋‍♂️ 숨겨왔던 수줍은 마음 공개🤣 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/38512290</id>
+        <link href="https://tv.naver.com/v/38512290"/>
+        <updated>2023-07-28T17:36:03.321Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 좀비들 피해 놀토로 도망왔다!💦 딘딘 X 덱스 X 츠키🧟‍♂️ (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/38363323</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/37821770"/>
         <updated>2023-07-08T17:36:14.956Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰러져 문세윤 VS 사라져 규현 | 소신 발언?하는 유연석 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/37821769</id>
-        <link href="https://tv.naver.com/v/37821769"/>
-        <updated>2023-07-08T17:36:14.956Z</updated>
-        <content type="html"><![CDATA[19:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규현과 이박사의 만남 | 트로트에 MZ챌린지를 더하다! #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/37821768</id>
-        <link href="https://tv.naver.com/v/37821768"/>
-        <updated>2023-07-08T17:36:14.969Z</updated>
-        <content type="html"><![CDATA[19:22]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 청량돌이 돌아왔다~🌊 오마이걸 '여름이 들려 (Summer Comes)' 리허설 캠♬ (아는 형님)]]></title>
