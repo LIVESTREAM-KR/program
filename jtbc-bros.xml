@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-07-28T17:36:11.416Z</updated>
+    <updated>2023-07-29T05:36:44.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 미미 예능감 美 폼쳤다~! 완벽한 맹구 흉내에 강호동x이수근x서장훈 찐웃음 터짐 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/38523229</id>
+        <link href="https://tv.naver.com/v/38523229"/>
+        <updated>2023-07-29T05:36:43.319Z</updated>
+        <content type="html"><![CDATA[02:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 청량돌이 돌아왔다~🌊 오마이걸 '여름이 들려 (Summer Comes)' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/38476827</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38080159"/>
         <updated>2023-07-15T17:36:24.000Z</updated>
         <content type="html"><![CDATA[04:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이수근 추리력 인정👍️ 원샷원킬로 민경훈 추리 성공해버림✨ | JTBC 230715 방송]]></title>
-        <id>https://tv.naver.com/v/38080157</id>
-        <link href="https://tv.naver.com/v/38080157"/>
-        <updated>2023-07-15T17:36:24.003Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
     </entry>
 </feed>
