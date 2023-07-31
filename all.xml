@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-31T05:36:30.028Z</updated>
+    <updated>2023-07-31T17:36:42.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 올여름 물보라를 일으킬 요정들💙 오마이걸 미미 X 승희 X 아린 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/38582734</id>
+        <link href="https://tv.naver.com/v/38582734"/>
+        <updated>2023-07-31T17:36:33.726Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 한여름 무더위를 날려줄🏄‍♀️ 오마이걸💕 미미 X 승희 X 아린 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/38535602</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/38079962"/>
         <updated>2023-07-15T17:36:16.126Z</updated>
         <content type="html"><![CDATA[24:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈리키 - 우리집♪〉빨간 집.. 파란 집... 그리고 리키 집🏡 | tvN 230715 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/38079961</id>
-        <link href="https://tv.naver.com/v/38079961"/>
-        <updated>2023-07-15T17:36:16.127Z</updated>
-        <content type="html"><![CDATA[08:58]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 효정, 9년 만에 도전한 금발 칭찬받고 살짝~😉 설레버린 '사랑의 총알 게임' 💘 | JTBC 230729 방송 (아는 형님)]]></title>
