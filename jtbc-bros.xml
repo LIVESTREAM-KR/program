@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-03T05:36:52.759Z</updated>
+    <updated>2023-08-03T17:36:46.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 왕! 하고 먹어버려 다💕 ITZY(있지)의 'CAKE' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/38699262</id>
+        <link href="https://tv.naver.com/v/38699262"/>
+        <updated>2023-08-03T17:36:45.166Z</updated>
+        <content type="html"><![CDATA[01:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】ITZY~like that~🤘 있지한테 춤으로 말해요? 어때 껌이라고 난 생각해~🎂🍰]]></title>
         <id>https://tv.naver.com/v/38675620</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38314347"/>
         <updated>2023-07-22T17:36:24.732Z</updated>
         <content type="html"><![CDATA[05:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂치약 안 헹궈도 돼요?＂ 해맑은 민경훈 질문에 단체로 머리 짚는 중🤦‍♂️ | JTBC 230722 방송]]></title>
-        <id>https://tv.naver.com/v/38314173</id>
-        <link href="https://tv.naver.com/v/38314173"/>
-        <updated>2023-07-22T17:36:24.738Z</updated>
-        <content type="html"><![CDATA[06:10]]></content>
     </entry>
 </feed>
