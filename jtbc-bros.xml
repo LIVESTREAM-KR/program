@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-02T17:36:24.862Z</updated>
+    <updated>2023-08-03T05:36:52.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】ITZY~like that~🤘 있지한테 춤으로 말해요? 어때 껌이라고 난 생각해~🎂🍰]]></title>
+        <id>https://tv.naver.com/v/38675620</id>
+        <link href="https://tv.naver.com/v/38675620"/>
+        <updated>2023-08-03T05:36:51.300Z</updated>
+        <content type="html"><![CDATA[05:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 효정, 9년 만에 도전한 금발 칭찬받고 살짝~😉 설레버린 '사랑의 총알 게임' 💘 | JTBC 230729 방송]]></title>
         <id>https://tv.naver.com/v/38537463</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38314173"/>
         <updated>2023-07-22T17:36:24.738Z</updated>
         <content type="html"><![CDATA[06:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이진호, 이미 탈모 진행 중?😨 한상보도 놀란 두피 상태💦 | JTBC 230722 방송]]></title>
-        <id>https://tv.naver.com/v/38314147</id>
-        <link href="https://tv.naver.com/v/38314147"/>
-        <updated>2023-07-22T17:36:24.741Z</updated>
-        <content type="html"><![CDATA[06:23]]></content>
     </entry>
 </feed>
