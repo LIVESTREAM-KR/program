@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-08-04T05:35:59.877Z</updated>
+    <updated>2023-08-04T17:36:49.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무언가 열심히 공부하고 있는 동현..?📚 입방정(?)이 불러온 대참사 커밍순!]]></title>
+        <id>https://tv.naver.com/v/38733348</id>
+        <link href="https://tv.naver.com/v/38733348"/>
+        <updated>2023-08-04T17:36:41.630Z</updated>
+        <content type="html"><![CDATA[00:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 깜짝 놀랐어 나~🎶모두의 입을 쩍! 벌어지게 한 능력자는 누구?!🤣]]></title>
+        <id>https://tv.naver.com/v/38733346</id>
+        <link href="https://tv.naver.com/v/38733346"/>
+        <updated>2023-08-04T17:36:41.632Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 본격 꼴찌 탈출 프로젝트! 원샷 받길 바래~😭]]></title>
+        <id>https://tv.naver.com/v/38733343</id>
+        <link href="https://tv.naver.com/v/38733343"/>
+        <updated>2023-08-04T17:36:41.635Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 올여름 물보라를 일으킬 요정들💙 오마이걸 미미 X 승희 X 아린]]></title>
         <id>https://tv.naver.com/v/38582734</id>
@@ -193,26 +214,5 @@
         <link href="https://tv.naver.com/v/38131083"/>
         <updated>2023-07-17T17:36:56.353Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 70년대 감성 가득한 놀토에 영화 《밀수》의 주인공들이 떴다❣️염정아 X 박정민 X 고민시🥰]]></title>
-        <id>https://tv.naver.com/v/38080050</id>
-        <link href="https://tv.naver.com/v/38080050"/>
-        <updated>2023-07-15T17:36:16.101Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제베원과 간식 게임] 엔딩곡 스포^^ 〈ZB1 - Say My Name♪〉 #highlight]]></title>
-        <id>https://tv.naver.com/v/38079963</id>
-        <link href="https://tv.naver.com/v/38079963"/>
-        <updated>2023-07-15T17:36:16.126Z</updated>
-        <content type="html"><![CDATA[19:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성한빈X석매튜X김지웅과 함께하는 받쓰📝 #highlight]]></title>
-        <id>https://tv.naver.com/v/38079962</id>
-        <link href="https://tv.naver.com/v/38079962"/>
-        <updated>2023-07-15T17:36:16.126Z</updated>
-        <content type="html"><![CDATA[24:23]]></content>
     </entry>
 </feed>
