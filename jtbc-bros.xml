@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-04T17:36:49.931Z</updated>
+    <updated>2023-08-05T05:36:24.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ＂이야...↘＂ ITZY 류진의 남다른 방귀 소리(?)에 빵 터진 민경훈 ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/38746373</id>
+        <link href="https://tv.naver.com/v/38746373"/>
+        <updated>2023-08-05T05:36:23.806Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 왕! 하고 먹어버려 다💕 ITZY(있지)의 'CAKE' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/38699262</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38314348"/>
         <updated>2023-07-22T17:36:24.732Z</updated>
         <content type="html"><![CDATA[05:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김영삼의 꿀팁(?) 인싸 의사 되는 법→대왕 치석 자랑하기🤣 | JTBC 230722 방송]]></title>
-        <id>https://tv.naver.com/v/38314347</id>
-        <link href="https://tv.naver.com/v/38314347"/>
-        <updated>2023-07-22T17:36:24.732Z</updated>
-        <content type="html"><![CDATA[05:18]]></content>
     </entry>
 </feed>
