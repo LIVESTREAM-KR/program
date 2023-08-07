@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-08-07T05:36:32.694Z</updated>
+    <updated>2023-08-07T17:36:48.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 우당탕탕! 최장수 혼성그룹 코요태의 놀토 방문기😜 종민 X 빽가 X 신지💞]]></title>
+        <id>https://tv.naver.com/v/38811754</id>
+        <link href="https://tv.naver.com/v/38811754"/>
+        <updated>2023-08-07T17:36:39.638Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 그들이 왔다! 장수의 바람을 몰고 온 코요태😆 김종민 X 빽가 X 신지🤸‍♂️]]></title>
         <id>https://tv.naver.com/v/38759600</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38315781"/>
         <updated>2023-07-22T17:36:17.720Z</updated>
         <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⌚'고민(할)시'간이 없다! 붐청이의 봉산 탈춤 가보자고~! #highlight]]></title>
-        <id>https://tv.naver.com/v/38315635</id>
-        <link href="https://tv.naver.com/v/38315635"/>
-        <updated>2023-07-22T17:36:17.738Z</updated>
-        <content type="html"><![CDATA[20:43]]></content>
     </entry>
 </feed>
