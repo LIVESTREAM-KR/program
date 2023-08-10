@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-10T05:36:38.229Z</updated>
+    <updated>2023-08-10T17:36:26.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 우당탕탕! 최장수 혼성그룹 코요태의 놀토 방문기😜 종민 X 빽가 X 신지💞 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:05]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 시간이 지나도 칼군무의 정석💘 다시 돌아온 인피니트의 'New Emotions' 리허설 캠♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/38928803</id>
+        <link href="https://tv.naver.com/v/38928803"/>
+        <updated>2023-08-10T17:36:25.557Z</updated>
+        <content type="html"><![CDATA[01:27]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】 수록곡 맞히다 오만 곡 다 부르겠어요🎤 오디오도 텐션도 폭발한 인피니트! (아는 형님)]]></title>
         <id>https://tv.naver.com/v/38916862</id>
         <link href="https://tv.naver.com/v/38916862"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/38534238"/>
         <updated>2023-07-29T17:36:33.563Z</updated>
         <content type="html"><![CDATA[08:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영철이 딱 대~ 폰 번호 달라는 말에 바주카포 꺼내는(!) 유빈 ㅋㅋㅋ | JTBC 230729 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/38534235</id>
-        <link href="https://tv.naver.com/v/38534235"/>
-        <updated>2023-07-29T17:36:33.568Z</updated>
-        <content type="html"><![CDATA[08:55]]></content>
     </entry>
 </feed>
