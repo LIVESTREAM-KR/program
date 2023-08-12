@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-11T17:36:48.767Z</updated>
+    <updated>2023-08-12T05:36:08.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '인피니트 컴퍼니' 대표직을 두고 성규 설움 폭발🔥 ＂13년 동안 리더로서 생고생을 해서...＂]]></title>
+        <id>https://tv.naver.com/v/38988864</id>
+        <link href="https://tv.naver.com/v/38988864"/>
+        <updated>2023-08-12T05:36:07.467Z</updated>
+        <content type="html"><![CDATA[04:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 시간이 지나도 칼군무의 정석💘 다시 돌아온 인피니트의 'New Emotions' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/38928803</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38534039"/>
         <updated>2023-07-29T17:36:33.563Z</updated>
         <content type="html"><![CDATA[01:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 대세 예능돌 ㅋㅋ 미미, 게임하다가 냅다 눕방 시전🤣 | JTBC 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38534238</id>
-        <link href="https://tv.naver.com/v/38534238"/>
-        <updated>2023-07-29T17:36:33.563Z</updated>
-        <content type="html"><![CDATA[08:31]]></content>
     </entry>
 </feed>
