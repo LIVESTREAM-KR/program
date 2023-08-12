@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-08-12T05:36:08.280Z</updated>
+    <updated>2023-08-12T17:36:39.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 기 싸움 넘치는 놀토에 더 기 쎈 삼인방이 떴다!😎 솔라 X 랄랄 X 은비⚡️]]></title>
+        <id>https://tv.naver.com/v/39003517</id>
+        <link href="https://tv.naver.com/v/39003517"/>
+        <updated>2023-08-12T17:36:30.159Z</updated>
+        <content type="html"><![CDATA[01:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이건 3차 시도까지 가도 킹정해줘야함😫 팬도 맞히기 힘든 곡 #highlight]]></title>
+        <id>https://tv.naver.com/v/39003419</id>
+        <link href="https://tv.naver.com/v/39003419"/>
+        <updated>2023-08-12T17:36:30.159Z</updated>
+        <content type="html"><![CDATA[18:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[간식 게임] 오늘의 1위 후보는 누구~? #highlight]]></title>
+        <id>https://tv.naver.com/v/39003418</id>
+        <link href="https://tv.naver.com/v/39003418"/>
+        <updated>2023-08-12T17:36:30.159Z</updated>
+        <content type="html"><![CDATA[18:08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키가 이 순간을 위해서 13년 전부터 준비한 것 #highlight]]></title>
+        <id>https://tv.naver.com/v/39003417</id>
+        <link href="https://tv.naver.com/v/39003417"/>
+        <updated>2023-08-12T17:36:30.159Z</updated>
+        <content type="html"><![CDATA[24:51]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[＂난 중심을 잡고 싶어＂ 잘 들었는데 애매하게 잘 들은 케이스 | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39003412</id>
+        <link href="https://tv.naver.com/v/39003412"/>
+        <updated>2023-08-12T17:36:30.165Z</updated>
+        <content type="html"><![CDATA[10:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[놀토가 김원준 덕후였던 신지에게 던진 도전장 〈김원준 -  매일 매일♪〉 | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39003164</id>
+        <link href="https://tv.naver.com/v/39003164"/>
+        <updated>2023-08-12T17:36:30.165Z</updated>
+        <content type="html"><![CDATA[07:58]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 삼킨 키 포포몬쓰 | 뮤뱅 1위 후보만 보고 바로 정답 맞히는 키 | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39002687</id>
+        <link href="https://tv.naver.com/v/39002687"/>
+        <updated>2023-08-12T17:36:30.165Z</updated>
+        <content type="html"><![CDATA[09:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[씨스타와 블락비가 1위 후보였던 곡은? (+청량 태연 포포몬쓰까지!) | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39002372</id>
+        <link href="https://tv.naver.com/v/39002372"/>
+        <updated>2023-08-12T17:36:30.168Z</updated>
+        <content type="html"><![CDATA[08:20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코요태는 아리랑 목동, 붐청이는 아리랑붐붐 | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39002102</id>
+        <link href="https://tv.naver.com/v/39002102"/>
+        <updated>2023-08-12T17:36:30.168Z</updated>
+        <content type="html"><![CDATA[09:27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈남녀공학 - 삐리뽐 빼리뽐♪〉 김종민이 김종민했다! | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39001737</id>
+        <link href="https://tv.naver.com/v/39001737"/>
+        <updated>2023-08-12T17:36:30.168Z</updated>
+        <content type="html"><![CDATA[10:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['COMEBACK' 코요태 - 바람♪ #놀카운트다운 | tvN 230812 방송]]></title>
+        <id>https://tv.naver.com/v/39001339</id>
+        <link href="https://tv.naver.com/v/39001339"/>
+        <updated>2023-08-12T17:36:30.168Z</updated>
+        <content type="html"><![CDATA[05:22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 주워 먹기 전문가들 다~모였다!🤭 분노의 야자타임까지~?🔥]]></title>
         <id>https://tv.naver.com/v/38974457</id>
@@ -137,82 +214,5 @@
         <link href="https://tv.naver.com/v/38535602"/>
         <updated>2023-07-29T17:36:27.154Z</updated>
         <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑분 부동산 이슈🤣 좀비도 버스 타고 도망갈 촉^^ #highlight]]></title>
-        <id>https://tv.naver.com/v/38535472</id>
-        <link href="https://tv.naver.com/v/38535472"/>
-        <updated>2023-07-29T17:36:27.156Z</updated>
-        <content type="html"><![CDATA[20:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간식 게임]🐰'깡'과 '총'이 있기 때문이지 💖츠키 인가 직캠 재현💖 #highlight]]></title>
-        <id>https://tv.naver.com/v/38535470</id>
-        <link href="https://tv.naver.com/v/38535470"/>
-        <updated>2023-07-29T17:36:27.157Z</updated>
-        <content type="html"><![CDATA[17:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[심장이 '위아래'로 아찔한 진자 운동을 하는 도레미🎵 #highlight]]></title>
-        <id>https://tv.naver.com/v/38535380</id>
-        <link href="https://tv.naver.com/v/38535380"/>
-        <updated>2023-07-29T17:36:27.159Z</updated>
-        <content type="html"><![CDATA[23:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무도 안 믿어주는 한해ㅠㅠ 왜 그 생각을 못 했지? | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38535377</id>
-        <link href="https://tv.naver.com/v/38535377"/>
-        <updated>2023-07-29T17:36:27.161Z</updated>
-        <content type="html"><![CDATA[10:32]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈제이미 - 넘버스♪〉 츠키가 인정한 천재 넉살 | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38535105</id>
-        <link href="https://tv.naver.com/v/38535105"/>
-        <updated>2023-07-29T17:36:27.163Z</updated>
-        <content type="html"><![CDATA[09:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂No! Enough!＂ 내 맘 또 훔친 덱스 짤 | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38534899</id>
-        <link href="https://tv.naver.com/v/38534899"/>
-        <updated>2023-07-29T17:36:27.165Z</updated>
-        <content type="html"><![CDATA[09:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김래원 오열짤의 출처는? | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38534703</id>
-        <link href="https://tv.naver.com/v/38534703"/>
-        <updated>2023-07-29T17:36:27.167Z</updated>
-        <content type="html"><![CDATA[08:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한석붐 힌트를 위해 화선지가 된 키&딘딘 | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38534352</id>
-        <link href="https://tv.naver.com/v/38534352"/>
-        <updated>2023-07-29T17:36:27.171Z</updated>
-        <content type="html"><![CDATA[13:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역주행 레전드 〈EXID - 위아래♪〉 엘리 찐친 딘딘의 제보 | tvN 230729 방송]]></title>
-        <id>https://tv.naver.com/v/38534047</id>
-        <link href="https://tv.naver.com/v/38534047"/>
-        <updated>2023-07-29T17:36:27.173Z</updated>
-        <content type="html"><![CDATA[10:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 오답 파티 속에서 새로운 에이스 급부상! 부럽다 부러워~🤭]]></title>
-        <id>https://tv.naver.com/v/38512291</id>
-        <link href="https://tv.naver.com/v/38512291"/>
-        <updated>2023-07-28T17:36:03.319Z</updated>
-        <content type="html"><![CDATA[02:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 이 가족 시스템에 이의 있소!🙋‍♂️ 숨겨왔던 수줍은 마음 공개🤣]]></title>
-        <id>https://tv.naver.com/v/38512290</id>
-        <link href="https://tv.naver.com/v/38512290"/>
-        <updated>2023-07-28T17:36:03.321Z</updated>
-        <content type="html"><![CDATA[04:55]]></content>
     </entry>
 </feed>
