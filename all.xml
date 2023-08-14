@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-14T05:36:13.464Z</updated>
+    <updated>2023-08-14T17:36:58.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 기세로 밀어붙여💥 기 싸움 가득한 퍼포먼스부터 받쓰까지! 솔라 X 랄랄 X 은비🌠 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/39056763</id>
+        <link href="https://tv.naver.com/v/39056763"/>
+        <updated>2023-08-14T17:36:49.392Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 기 싸움 넘치는 놀토에 더 기 쎈 삼인방이 떴다!😎 솔라 X 랄랄 X 은비⚡️ (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/39003517</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/38582734"/>
         <updated>2023-07-31T17:36:33.726Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 한여름 무더위를 날려줄🏄‍♀️ 오마이걸💕 미미 X 승희 X 아린 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/38535602</id>
-        <link href="https://tv.naver.com/v/38535602"/>
-        <updated>2023-07-29T17:36:27.154Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 얘들아.. 진심 아니지..? 원조 예능돌 인피니트의 하이에나 모먼트에 상처받는 형님들 ㅋㅋ | JTBC 230812 방송 (아는 형님)]]></title>
