@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-16T17:36:34.390Z</updated>
+    <updated>2023-08-17T05:36:15.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】((💥충격 대 반전💥)) 여기에..분명 라이어가 있다?! 권은비 X 전소미 X STAYC 라이어는 과연..?!]]></title>
+        <id>https://tv.naver.com/v/39144630</id>
+        <link href="https://tv.naver.com/v/39144630"/>
+        <updated>2023-08-17T05:36:14.686Z</updated>
+        <content type="html"><![CDATA[07:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 얘들아.. 진심 아니지..? 원조 예능돌 인피니트의 하이에나 모먼트에 상처받는 형님들 ㅋㅋ | JTBC 230812 방송]]></title>
         <id>https://tv.naver.com/v/39006624</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/38758206"/>
         <updated>2023-08-05T17:36:26.165Z</updated>
         <content type="html"><![CDATA[04:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번엔 엔딩 요정 내 거🖐 채령이 말아주는 걸그룹 메들리♬ | JTBC 230805 방송]]></title>
-        <id>https://tv.naver.com/v/38758034</id>
-        <link href="https://tv.naver.com/v/38758034"/>
-        <updated>2023-08-05T17:36:26.167Z</updated>
-        <content type="html"><![CDATA[01:41]]></content>
     </entry>
 </feed>
