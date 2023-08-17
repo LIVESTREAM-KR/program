@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-17T05:36:15.460Z</updated>
+    <updated>2023-08-17T17:36:15.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 기세로 밀어붙여💥 기 싸움 가득한 퍼포먼스부터 받쓰까지! 솔라 X 랄랄 X 은비🌠 (놀라운 토요일)]]></title>
@@ -215,6 +215,27 @@
         <content type="html"><![CDATA[00:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 동화 속 같은 설레임 자극🎡💖 STAYC(스테이씨)의 'Bubble' 리허설 캠♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39163715</id>
+        <link href="https://tv.naver.com/v/39163715"/>
+        <updated>2023-08-17T17:36:13.961Z</updated>
+        <content type="html"><![CDATA[01:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 아형에도 '테크토닉' 상륙 중…💃 전소미의 'Fast Forward' 리허설 캠♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39163558</id>
+        <link href="https://tv.naver.com/v/39163558"/>
+        <updated>2023-08-17T17:36:13.962Z</updated>
+        <content type="html"><![CDATA[01:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 핫! 한 여름에 등장한 썸머퀸🌊 권은비의 'The Flash' 리허설 캠♬ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39163281</id>
+        <link href="https://tv.naver.com/v/39163281"/>
+        <updated>2023-08-17T17:36:13.964Z</updated>
+        <content type="html"><![CDATA[01:36]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】((💥충격 대 반전💥)) 여기에..분명 라이어가 있다?! 권은비 X 전소미 X STAYC 라이어는 과연..?! (아는 형님)]]></title>
         <id>https://tv.naver.com/v/39144630</id>
         <link href="https://tv.naver.com/v/39144630"/>
@@ -402,26 +423,5 @@
         <link href="https://tv.naver.com/v/38758700"/>
         <updated>2023-08-05T17:36:26.159Z</updated>
         <content type="html"><![CDATA[01:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결이 조금 다른(?) 류진-유나의 귀여운 표정에 녹아버림＞_＜ | JTBC 230805 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/38758537</id>
-        <link href="https://tv.naver.com/v/38758537"/>
-        <updated>2023-08-05T17:36:26.161Z</updated>
-        <content type="html"><![CDATA[06:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[냅다 오동잎 댄스 추는 류진 ㅋㅋ 네가 마피아지? | JTBC 230805 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/38758436</id>
-        <link href="https://tv.naver.com/v/38758436"/>
-        <updated>2023-08-05T17:36:26.163Z</updated>
-        <content type="html"><![CDATA[07:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이기지 않았어...?💦 뿅망치부터 들고 보는 채령💥💥 | JTBC 230805 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/38758206</id>
-        <link href="https://tv.naver.com/v/38758206"/>
-        <updated>2023-08-05T17:36:26.165Z</updated>
-        <content type="html"><![CDATA[04:40]]></content>
     </entry>
 </feed>
