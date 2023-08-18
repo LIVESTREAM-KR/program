@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-08-18T05:36:06.232Z</updated>
+    <updated>2023-08-18T17:36:15.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 비명이 난무하는 아찔한 댄스파티~🤸‍♀️ 여운 가득 어질해요🥰]]></title>
+        <id>https://tv.naver.com/v/39210908</id>
+        <link href="https://tv.naver.com/v/39210908"/>
+        <updated>2023-08-18T17:36:06.861Z</updated>
+        <content type="html"><![CDATA[05:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 기 쎈 언니들 집합~ 분장, 기세, 미모로 기선제압 완료!!😎🌹]]></title>
+        <id>https://tv.naver.com/v/39210907</id>
+        <link href="https://tv.naver.com/v/39210907"/>
+        <updated>2023-08-18T17:36:06.862Z</updated>
+        <content type="html"><![CDATA[04:18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 기세로 밀어붙여💥 기 싸움 가득한 퍼포먼스부터 받쓰까지! 솔라 X 랄랄 X 은비🌠]]></title>
         <id>https://tv.naver.com/v/39056763</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/38733346"/>
         <updated>2023-08-04T17:36:41.632Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 본격 꼴찌 탈출 프로젝트! 원샷 받길 바래~😭]]></title>
-        <id>https://tv.naver.com/v/38733343</id>
-        <link href="https://tv.naver.com/v/38733343"/>
-        <updated>2023-08-04T17:36:41.635Z</updated>
-        <content type="html"><![CDATA[04:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 올여름 물보라를 일으킬 요정들💙 오마이걸 미미 X 승희 X 아린]]></title>
-        <id>https://tv.naver.com/v/38582734</id>
-        <link href="https://tv.naver.com/v/38582734"/>
-        <updated>2023-07-31T17:36:33.726Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
