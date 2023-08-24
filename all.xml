@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-23T17:36:32.258Z</updated>
+    <updated>2023-08-24T05:36:39.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 다양한 듀오들이 함께하는 놀토💕 힙합계 최고의 듀오까지~?🤭 최자 X 개코 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】명탐정 동아리도 이건 어려워...🤣권일용 X 표창원 X 박지윤 X 장동민의 콜 마이 네임 게임 현장🧐! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39399381</id>
+        <link href="https://tv.naver.com/v/39399381"/>
+        <updated>2023-08-24T05:36:38.656Z</updated>
+        <content type="html"><![CDATA[05:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] ＂뭐야? 나 이런 캐릭터 처음 봐...＂ 형님들을 당황 시킨 예능 초전도캐🤟 리액션 맛집 '윤' 등장!! | JTBC 230819 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/39245990</id>
         <link href="https://tv.naver.com/v/39245990"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/39163281"/>
         <updated>2023-08-17T17:36:13.964Z</updated>
         <content type="html"><![CDATA[01:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【형친소】((💥충격 대 반전💥)) 여기에..분명 라이어가 있다?! 권은비 X 전소미 X STAYC 라이어는 과연..?! (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/39144630</id>
-        <link href="https://tv.naver.com/v/39144630"/>
-        <updated>2023-08-17T05:36:14.686Z</updated>
-        <content type="html"><![CDATA[07:13]]></content>
     </entry>
 </feed>
