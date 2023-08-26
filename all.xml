@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-25T17:36:23.073Z</updated>
+    <updated>2023-08-26T05:36:23.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 취향 저격 간겜💘 줬다가 뺏기 없으니까 진정해 듀오~😅 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[04:13]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] '국내 1호 프로파일러' 권일용이 말하는 💥묻지마 범죄💥의 핵심적인 원인! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39485281</id>
+        <link href="https://tv.naver.com/v/39485281"/>
+        <updated>2023-08-26T05:36:22.747Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】명탐정 동아리도 이건 어려워...🤣권일용 X 표창원 X 박지윤 X 장동민의 콜 마이 네임 게임 현장🧐! (아는 형님)]]></title>
         <id>https://tv.naver.com/v/39399381</id>
         <link href="https://tv.naver.com/v/39399381"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/39163558"/>
         <updated>2023-08-17T17:36:13.962Z</updated>
         <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 핫! 한 여름에 등장한 썸머퀸🌊 권은비의 'The Flash' 리허설 캠♬ (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/39163281</id>
-        <link href="https://tv.naver.com/v/39163281"/>
-        <updated>2023-08-17T17:36:13.964Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
     </entry>
 </feed>

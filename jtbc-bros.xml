@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-08-25T17:36:23.076Z</updated>
+    <updated>2023-08-26T05:36:23.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '국내 1호 프로파일러' 권일용이 말하는 💥묻지마 범죄💥의 핵심적인 원인!]]></title>
+        <id>https://tv.naver.com/v/39485281</id>
+        <link href="https://tv.naver.com/v/39485281"/>
+        <updated>2023-08-26T05:36:22.747Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】명탐정 동아리도 이건 어려워...🤣권일용 X 표창원 X 박지윤 X 장동민의 콜 마이 네임 게임 현장🧐!]]></title>
         <id>https://tv.naver.com/v/39399381</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39163558"/>
         <updated>2023-08-17T17:36:13.962Z</updated>
         <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 핫! 한 여름에 등장한 썸머퀸🌊 권은비의 'The Flash' 리허설 캠♬]]></title>
-        <id>https://tv.naver.com/v/39163281</id>
-        <link href="https://tv.naver.com/v/39163281"/>
-        <updated>2023-08-17T17:36:13.964Z</updated>
-        <content type="html"><![CDATA[01:36]]></content>
     </entry>
 </feed>
