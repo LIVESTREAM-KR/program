@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-08-28T05:36:08.136Z</updated>
+    <updated>2023-08-28T17:36:14.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 통통 튀는 입담과 매력으로 대통단결!🧡 신기루 X 이국주 X 풍자😋]]></title>
+        <id>https://tv.naver.com/v/39558875</id>
+        <link href="https://tv.naver.com/v/39558875"/>
+        <updated>2023-08-28T17:36:06.023Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[간식 게임] 한국인의 소울 푸드 '치킨🍗'의 초성을 맞혀라! #highlight]]></title>
         <id>https://tv.naver.com/v/39503123</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39003517"/>
         <updated>2023-08-12T17:36:30.159Z</updated>
         <content type="html"><![CDATA[01:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건 3차 시도까지 가도 킹정해줘야함😫 팬도 맞히기 힘든 곡 #highlight]]></title>
-        <id>https://tv.naver.com/v/39003419</id>
-        <link href="https://tv.naver.com/v/39003419"/>
-        <updated>2023-08-12T17:36:30.159Z</updated>
-        <content type="html"><![CDATA[18:11]]></content>
     </entry>
 </feed>
