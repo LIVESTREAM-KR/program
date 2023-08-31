@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-30T17:36:19.295Z</updated>
+    <updated>2023-08-31T05:36:22.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 통통 튀는 입담과 매력으로 대통단결!🧡 신기루 X 이국주 X 풍자😋 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:09]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】🔥대기실 인터뷰에서 부터 기선제압 완료🔥 딘딘 X 뱀뱀 X 랄랄 X 나나가 찾아왔습니다~ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/39669815</id>
+        <link href="https://tv.naver.com/v/39669815"/>
+        <updated>2023-08-31T05:36:21.209Z</updated>
+        <content type="html"><![CDATA[05:51]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 진실은 언제나 하나☝️ 명탐정으로 스카우트되기 위한 권일용X표창원X박지윤X장동민의 탐정 테스트🔍 | JTBC 230826 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/39502817</id>
         <link href="https://tv.naver.com/v/39502817"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/39239654"/>
         <updated>2023-08-19T17:36:28.796Z</updated>
         <content type="html"><![CDATA[09:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(충격) 왜 몰라? 장윤정 '어머나'와 동갑인 재이😲 ((윤은 알고 있음)) | JTBC 230819 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/39239455</id>
-        <link href="https://tv.naver.com/v/39239455"/>
-        <updated>2023-08-19T17:36:28.797Z</updated>
-        <content type="html"><![CDATA[05:11]]></content>
     </entry>
 </feed>
