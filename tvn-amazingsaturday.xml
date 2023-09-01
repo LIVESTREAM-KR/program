@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-01T05:36:05.844Z</updated>
+    <updated>2023-09-01T17:36:16.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 쩝쩝 박사지만 포기가 빠른 편🤤 하지만 기미상붐 픽이라면..?💘]]></title>
+        <id>https://tv.naver.com/v/39739479</id>
+        <link href="https://tv.naver.com/v/39739479"/>
+        <updated>2023-09-01T17:36:09.075Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 치열한 캐릭터 싸움과 엄격한 기준까지?😲 통통계 쉽지 않네💦]]></title>
+        <id>https://tv.naver.com/v/39739476</id>
+        <link href="https://tv.naver.com/v/39739476"/>
+        <updated>2023-09-01T17:36:09.077Z</updated>
+        <content type="html"><![CDATA[05:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 통통 튀는 입담과 매력으로 대통단결!🧡 신기루 X 이국주 X 풍자😋]]></title>
         <id>https://tv.naver.com/v/39558875</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39210907"/>
         <updated>2023-08-18T17:36:06.862Z</updated>
         <content type="html"><![CDATA[04:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 기세로 밀어붙여💥 기 싸움 가득한 퍼포먼스부터 받쓰까지! 솔라 X 랄랄 X 은비🌠]]></title>
-        <id>https://tv.naver.com/v/39056763</id>
-        <link href="https://tv.naver.com/v/39056763"/>
-        <updated>2023-08-14T17:36:49.392Z</updated>
-        <content type="html"><![CDATA[00:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 기 싸움 넘치는 놀토에 더 기 쎈 삼인방이 떴다!😎 솔라 X 랄랄 X 은비⚡️]]></title>
-        <id>https://tv.naver.com/v/39003517</id>
-        <link href="https://tv.naver.com/v/39003517"/>
-        <updated>2023-08-12T17:36:30.159Z</updated>
-        <content type="html"><![CDATA[01:09]]></content>
     </entry>
 </feed>
