@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-04T05:36:15.063Z</updated>
+    <updated>2023-09-04T17:36:31.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 도레미의 동갑내기 친구들이 떴다💕 빽가 X 전소미 X 정동원🤭]]></title>
+        <id>https://tv.naver.com/v/39836820</id>
+        <link href="https://tv.naver.com/v/39836820"/>
+        <updated>2023-09-04T17:36:22.537Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 사라진 도레미들..?🤔 동갑내기 친구들과 함께 등장❣ 빽가 X 전소미 X 정동원]]></title>
         <id>https://tv.naver.com/v/39771288</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39240109"/>
         <updated>2023-08-19T17:36:21.136Z</updated>
         <content type="html"><![CDATA[18:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간식 게임] 포포몬쓰 장인들과 함께하는 가사 네모(나게 떠?) 퀴즈 #highlight]]></title>
-        <id>https://tv.naver.com/v/39240107</id>
-        <link href="https://tv.naver.com/v/39240107"/>
-        <updated>2023-08-19T17:36:21.145Z</updated>
-        <content type="html"><![CDATA[20:25]]></content>
     </entry>
 </feed>
