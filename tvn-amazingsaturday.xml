@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-08T05:36:27.706Z</updated>
+    <updated>2023-09-08T17:36:14.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이런 게 엠지..? 진짜 엠지들의 매운맛🔥 딱 기다려~]]></title>
+        <id>https://tv.naver.com/v/40031891</id>
+        <link href="https://tv.naver.com/v/40031891"/>
+        <updated>2023-09-08T17:36:06.713Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 티격태격하지만 서로 좋아하는 클리셰💞 동갑내기들 케미 맛집!🤭]]></title>
+        <id>https://tv.naver.com/v/40031888</id>
+        <link href="https://tv.naver.com/v/40031888"/>
+        <updated>2023-09-08T17:36:06.716Z</updated>
+        <content type="html"><![CDATA[04:52]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 도레미의 동갑내기 친구들이 떴다💕 빽가 X 전소미 X 정동원🤭]]></title>
         <id>https://tv.naver.com/v/39836820</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39297698"/>
         <updated>2023-08-21T17:36:12.919Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고]  베테랑 힙합 듀오가 떴다❣️ 놀러와 듀오 ~ 😘 최자 X 개코]]></title>
-        <id>https://tv.naver.com/v/39240202</id>
-        <link href="https://tv.naver.com/v/39240202"/>
-        <updated>2023-08-19T17:36:21.135Z</updated>
-        <content type="html"><![CDATA[01:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[커플 싸울 때 국룰 멘트 ＂또 왜 그러는데＂에 대하여 #highlight]]></title>
-        <id>https://tv.naver.com/v/39240109</id>
-        <link href="https://tv.naver.com/v/39240109"/>
-        <updated>2023-08-19T17:36:21.136Z</updated>
-        <content type="html"><![CDATA[18:22]]></content>
     </entry>
 </feed>
