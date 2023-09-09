@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-09-08T17:36:14.479Z</updated>
+    <updated>2023-09-09T05:36:16.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 정답 초코파이! 오리온스 때문에ㅋㅋ 오답과 뿅망치 소리가 가득한 서장훈 퀴~즈❗]]></title>
+        <id>https://tv.naver.com/v/40045938</id>
+        <link href="https://tv.naver.com/v/40045938"/>
+        <updated>2023-09-09T05:36:15.758Z</updated>
+        <content type="html"><![CDATA[04:27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 여름 끝자락에 하드캐리💙 시원하게 물에 젖고 물만 맞는 뱀뱀-딘딘의 흠뻑쇼💦 | JTBC 230902 방송]]></title>
         <id>https://tv.naver.com/v/39773034</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39497289"/>
         <updated>2023-08-26T17:36:03.272Z</updated>
         <content type="html"><![CDATA[07:28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] '국내 1호 프로파일러' 권일용이 말하는 💥묻지마 범죄💥의 핵심적인 원인!]]></title>
-        <id>https://tv.naver.com/v/39485281</id>
-        <link href="https://tv.naver.com/v/39485281"/>
-        <updated>2023-08-26T05:36:22.747Z</updated>
-        <content type="html"><![CDATA[03:53]]></content>
     </entry>
 </feed>
