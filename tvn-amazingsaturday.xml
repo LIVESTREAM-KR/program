@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-11T05:36:04.478Z</updated>
+    <updated>2023-09-11T17:36:25.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 세대 대통합 게스트가 찾아왔어요~☺ 이동휘 X 김종수 X 박소이💓]]></title>
+        <id>https://tv.naver.com/v/40126737</id>
+        <link href="https://tv.naver.com/v/40126737"/>
+        <updated>2023-09-11T17:36:17.039Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 요상한(?) 박사들로 가득 찬 놀토에 등장한 깜짝 손님들!🤩 이동휘 X 김종수 X 박소이💫]]></title>
         <id>https://tv.naver.com/v/40062238</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39499167"/>
         <updated>2023-08-26T17:35:55.828Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키어로 짱잘'핵' | 말장난과 함께하는 2라운드 받쓰임 #highlight]]></title>
-        <id>https://tv.naver.com/v/39499047</id>
-        <link href="https://tv.naver.com/v/39499047"/>
-        <updated>2023-08-26T17:35:55.829Z</updated>
-        <content type="html"><![CDATA[18:11]]></content>
     </entry>
 </feed>
