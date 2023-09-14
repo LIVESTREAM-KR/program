@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-09-13T17:36:48.255Z</updated>
+    <updated>2023-09-14T05:36:20.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】추석엔 모다?! 모다?! 김수미X정준하X윤현민X유라의 👑가문의 영광👑이다~!]]></title>
+        <id>https://tv.naver.com/v/40244346</id>
+        <link href="https://tv.naver.com/v/40244346"/>
+        <updated>2023-09-14T05:36:19.974Z</updated>
+        <content type="html"><![CDATA[05:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 리베란테 중 다른 멤버가 숨어있다? 관상으로 추리하는 형님들 때문에 본의 아니게 매운맛 경험 중🔥 ㅋㅋ | JTBC 230909 방송]]></title>
         <id>https://tv.naver.com/v/40063531</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39769679"/>
         <updated>2023-09-02T17:36:57.432Z</updated>
         <content type="html"><![CDATA[01:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[뱀뱀X서장훈] 결을 알아본 기간 1시간... T끼리도 통하는 게 있어...❤️ | JTBC 230902 방송]]></title>
-        <id>https://tv.naver.com/v/39769590</id>
-        <link href="https://tv.naver.com/v/39769590"/>
-        <updated>2023-09-02T17:36:57.433Z</updated>
-        <content type="html"><![CDATA[08:02]]></content>
     </entry>
 </feed>
