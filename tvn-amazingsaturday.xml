@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-15T05:36:07.547Z</updated>
+    <updated>2023-09-15T17:36:22.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 의견이 분분한 감겜! 끝나버렸다 난 시작도 안 해봤는데🤸‍♀️🎶]]></title>
+        <id>https://tv.naver.com/v/40314872</id>
+        <link href="https://tv.naver.com/v/40314872"/>
+        <updated>2023-09-15T17:36:14.124Z</updated>
+        <content type="html"><![CDATA[04:17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 《천박사》의 명품 배우들!💕 촬영 복지(?) 썰과 진로 상담까지~?🤣]]></title>
+        <id>https://tv.naver.com/v/40314865</id>
+        <link href="https://tv.naver.com/v/40314865"/>
+        <updated>2023-09-15T17:36:14.124Z</updated>
+        <content type="html"><![CDATA[05:39]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 세대 대통합 게스트가 찾아왔어요~☺ 이동휘 X 김종수 X 박소이💓]]></title>
         <id>https://tv.naver.com/v/40126737</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/39503123"/>
         <updated>2023-08-26T17:35:55.828Z</updated>
         <content type="html"><![CDATA[18:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미방분] 싱가포르맨 다음엔 홍콩맨~✨ 세상 요란하게 받쓰판에 등판한 한해🤣]]></title>
-        <id>https://tv.naver.com/v/39499298</id>
-        <link href="https://tv.naver.com/v/39499298"/>
-        <updated>2023-08-26T17:35:55.828Z</updated>
-        <content type="html"><![CDATA[01:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 특별 도레미 효연과 함께하는 놀토에 통통 튀는 그녀들이 떴다🤩 신기루 X 이국주 X 풍자❣]]></title>
-        <id>https://tv.naver.com/v/39499167</id>
-        <link href="https://tv.naver.com/v/39499167"/>
-        <updated>2023-08-26T17:35:55.828Z</updated>
-        <content type="html"><![CDATA[01:04]]></content>
     </entry>
 </feed>
