@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-15T17:36:22.342Z</updated>
+    <updated>2023-09-16T05:36:32.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 의견이 분분한 감겜! 끝나버렸다 난 시작도 안 해봤는데🤸‍♀️🎶 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[18:21]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 파주 모텔의 기적ㅋㅋ 김수미한테 혼날까 봐 전날 밤, 모텔에서 잔 탁재훈😂 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/40331677</id>
+        <link href="https://tv.naver.com/v/40331677"/>
+        <updated>2023-09-16T05:36:31.589Z</updated>
+        <content type="html"><![CDATA[03:35]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】추석엔 모다?! 모다?! 김수미X정준하X윤현민X유라의 👑가문의 영광👑이다~! (아는 형님)]]></title>
         <id>https://tv.naver.com/v/40244346</id>
         <link href="https://tv.naver.com/v/40244346"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/39770097"/>
         <updated>2023-09-02T17:36:57.430Z</updated>
         <content type="html"><![CDATA[08:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[승리 요정❣️ 나나의 보이그룹 댄스 커버 〈손오공〉 & 〈Seven〉♬ | JTBC 230902 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/39769679</id>
-        <link href="https://tv.naver.com/v/39769679"/>
-        <updated>2023-09-02T17:36:57.432Z</updated>
-        <content type="html"><![CDATA[01:15]]></content>
     </entry>
 </feed>
