@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-18T05:36:54.212Z</updated>
+    <updated>2023-09-18T17:36:05.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2세대 아이돌 대표 첫째들의 방문💕 산다라박 X 정용화 X 이홍기🤭]]></title>
+        <id>https://tv.naver.com/v/40413118</id>
+        <link href="https://tv.naver.com/v/40413118"/>
+        <updated>2023-09-18T17:35:57.244Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] K-장남장녀들 집합! 2세대 아이돌 장남장녀까지 다~모였다!🤭 산다라박 X 정용화 X 이홍기🔥]]></title>
         <id>https://tv.naver.com/v/40349155</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/39771287"/>
         <updated>2023-09-02T17:36:50.594Z</updated>
         <content type="html"><![CDATA[16:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[간식 게임] 음성 지원 게임 - 예능 편 | 통통 튀는 언니들의 간식 먹방 #highlight]]></title>
-        <id>https://tv.naver.com/v/39771286</id>
-        <link href="https://tv.naver.com/v/39771286"/>
-        <updated>2023-09-02T17:36:50.609Z</updated>
-        <content type="html"><![CDATA[21:03]]></content>
     </entry>
 </feed>
