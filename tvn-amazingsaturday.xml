@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-19T17:36:42.108Z</updated>
+    <updated>2023-09-20T05:36:09.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[16:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[#간식 게임] 너의 제목이 보여! 어른들이 미안해😅 #highlight]]></title>
+        <title type="html"><![CDATA[[#간식게임] 너의 제목이 보여! 어른들이 미안해😅 #highlight]]></title>
         <id>https://tv.naver.com/v/40349016</id>
         <link href="https://tv.naver.com/v/40349016"/>
         <updated>2023-09-16T17:36:25.689Z</updated>
@@ -83,7 +83,7 @@
         <content type="html"><![CDATA[12:50]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COMEBACK' KEY - Good & Great♪  #놀카운트다운 | tvN 230916 방송]]></title>
+        <title type="html"><![CDATA['COMEBACK' KEY - Good & Great♪  #놀카운트다운 | tvN 230916 방송]]></title>
         <id>https://tv.naver.com/v/40346566</id>
         <link href="https://tv.naver.com/v/40346566"/>
         <updated>2023-09-16T17:36:25.729Z</updated>
