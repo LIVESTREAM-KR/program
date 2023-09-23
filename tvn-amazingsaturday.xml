@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-23T05:36:02.829Z</updated>
+    <updated>2023-09-23T17:36:27.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 놀토에도 찾아온 풍요로운 한가위~ 영화 《30일》의 그녀들이 떴다❣️ 정소민 X 송해나 X 엄지윤🥰]]></title>
+        <id>https://tv.naver.com/v/40641707</id>
+        <link href="https://tv.naver.com/v/40641707"/>
+        <updated>2023-09-23T17:36:20.180Z</updated>
+        <content type="html"><![CDATA[01:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연륜은 속일 수 없다! 어른 말씀 틀린 것 하나 없는 받쓰 #highlight]]></title>
+        <id>https://tv.naver.com/v/40641426</id>
+        <link href="https://tv.naver.com/v/40641426"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[17:12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#간식게임] 2세대 아이돌들과 함께하는 간겜💓 도플갱어 퀴즈 - 가수 편- #highlight]]></title>
+        <id>https://tv.naver.com/v/40641425</id>
+        <link href="https://tv.naver.com/v/40641425"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[18:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽑은 사람도 답답, 아는 사람도 답답해지는 악뮤와의 1라운드 ㅋㅋ #highlight]]></title>
+        <id>https://tv.naver.com/v/40641334</id>
+        <link href="https://tv.naver.com/v/40641334"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[25:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[엽린 시절 로그인] 가사에서 추억의 향기가 난다...★ 환갑이었다... | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40641333</id>
+        <link href="https://tv.naver.com/v/40641333"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[07:26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니요. 압구정에 계세요. 눈가 촉촉해질 뻔한 〈와이비 - 박하사탕 2♪〉 받쓰 | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40641195</id>
+        <link href="https://tv.naver.com/v/40641195"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[09:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2세대 손가락 아이돌 3용화, 야자수 머리 3다라박, 아련 3홍기 | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40640811</id>
+        <link href="https://tv.naver.com/v/40640811"/>
+        <updated>2023-09-23T17:36:20.183Z</updated>
+        <content type="html"><![CDATA[10:43]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테크토닉 통아저씨 | 금쪽이 키의 〈전소미 - 금금금♪〉 포포몬쓰💰 | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40640610</id>
+        <link href="https://tv.naver.com/v/40640610"/>
+        <updated>2023-09-23T17:36:20.191Z</updated>
+        <content type="html"><![CDATA[08:04]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뽑은 글자 좀 써요!! 도레미의 밥은 용화&홍기에게 달렸다..! | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40640289</id>
+        <link href="https://tv.naver.com/v/40640289"/>
+        <updated>2023-09-23T17:36:20.193Z</updated>
+        <content type="html"><![CDATA[12:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[〈악뮤 - 러브 리♪〉 영웅볼 박스 속 이걸 발설하면 게스트 자격 박탈?! | tvN 230923 방송]]></title>
+        <id>https://tv.naver.com/v/40639877</id>
+        <link href="https://tv.naver.com/v/40639877"/>
+        <updated>2023-09-23T17:36:20.193Z</updated>
+        <content type="html"><![CDATA[12:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 그 시절 아이돌들의 기세 가득한 퍼포!🤸‍♂️ 추억여행 가보자고~✈]]></title>
         <id>https://tv.naver.com/v/40610255</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/40062234"/>
         <updated>2023-09-09T17:36:19.879Z</updated>
         <content type="html"><![CDATA[21:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[다vs대] tvN 회식(?)을 걸고 벌어지는 받쓰 내기 #highlight]]></title>
-        <id>https://tv.naver.com/v/40062130</id>
-        <link href="https://tv.naver.com/v/40062130"/>
-        <updated>2023-09-09T17:36:19.884Z</updated>
-        <content type="html"><![CDATA[23:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탱슨배님 ＂라떼는 그렇게 인사 안 했어＂ (사실 정강이 차이면 포상) | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40062127</id>
-        <link href="https://tv.naver.com/v/40062127"/>
-        <updated>2023-09-09T17:36:19.885Z</updated>
-        <content type="html"><![CDATA[06:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀토에 국힙 등장! 〈아이유 - 팔레트♪〉 2라운드 당장 진행시켜-! | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40062126</id>
-        <link href="https://tv.naver.com/v/40062126"/>
-        <updated>2023-09-09T17:36:19.887Z</updated>
-        <content type="html"><![CDATA[08:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🌸동원이가 왜 거기서 나와?🌸 이렇게 몰라도 될까 싶은 빽가X놀보 | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40061739</id>
-        <link href="https://tv.naver.com/v/40061739"/>
-        <updated>2023-09-09T17:36:19.891Z</updated>
-        <content type="html"><![CDATA[11:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈전소미 - (놀라운) 토요일 밤에♪〉 본업하는 한해의 고백 공격 | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40061444</id>
-        <link href="https://tv.naver.com/v/40061444"/>
-        <updated>2023-09-09T17:36:19.892Z</updated>
-        <content type="html"><![CDATA[10:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-pop에 테크토닉 바람을 일으킨 전소미, 놀토에는 테크노붐이 있다 | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40061020</id>
-        <link href="https://tv.naver.com/v/40061020"/>
-        <updated>2023-09-09T17:36:19.893Z</updated>
-        <content type="html"><![CDATA[11:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빽가, 전소미에게 지침을 설명하다 〈터보 - 나의 일기♪〉 | tvN 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40060595</id>
-        <link href="https://tv.naver.com/v/40060595"/>
-        <updated>2023-09-09T17:36:19.894Z</updated>
-        <content type="html"><![CDATA[11:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 이런 게 엠지..? 진짜 엠지들의 매운맛🔥 딱 기다려~]]></title>
-        <id>https://tv.naver.com/v/40031891</id>
-        <link href="https://tv.naver.com/v/40031891"/>
-        <updated>2023-09-08T17:36:06.713Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 티격태격하지만 서로 좋아하는 클리셰💞 동갑내기들 케미 맛집!🤭]]></title>
-        <id>https://tv.naver.com/v/40031888</id>
-        <link href="https://tv.naver.com/v/40031888"/>
-        <updated>2023-09-08T17:36:06.716Z</updated>
-        <content type="html"><![CDATA[04:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 도레미의 동갑내기 친구들이 떴다💕 빽가 X 전소미 X 정동원🤭]]></title>
-        <id>https://tv.naver.com/v/39836820</id>
-        <link href="https://tv.naver.com/v/39836820"/>
-        <updated>2023-09-04T17:36:22.537Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
