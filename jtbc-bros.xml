@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-09-22T17:36:17.337Z</updated>
+    <updated>2023-09-23T05:36:02.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '꺄아아아항🐬' 박미선 텐션 업! 시켜줄 「예린·케플러·제로베이스원」 탑승 완↗]]></title>
+        <id>https://tv.naver.com/v/40625307</id>
+        <link href="https://tv.naver.com/v/40625307"/>
+        <updated>2023-09-23T05:36:02.028Z</updated>
+        <content type="html"><![CDATA[04:55]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] (케미 폭발) 나오자마자 욕부터 박는 '캡틴 김수미' 뒤로 예능감 大폭발한 꼬붕들(?) 정준하-윤현민-유라 | JTBC 230916 방송]]></title>
         <id>https://tv.naver.com/v/40349614</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40061171"/>
         <updated>2023-09-09T17:36:27.257Z</updated>
         <content type="html"><![CDATA[08:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[400회를 축하해 주러 온 리베란테의 감동적인 무대 〈Shine〉♬ | JTBC 230909 방송]]></title>
-        <id>https://tv.naver.com/v/40060681</id>
-        <link href="https://tv.naver.com/v/40060681"/>
-        <updated>2023-09-09T17:36:27.265Z</updated>
-        <content type="html"><![CDATA[02:49]]></content>
     </entry>
 </feed>
