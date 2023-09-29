@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-09-29T05:36:08.017Z</updated>
+    <updated>2023-09-29T17:36:35.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이 분위기 뭐야~ 서로 알아가는 사이?🤭 추석 맞이 폭로 대잔치💞]]></title>
+        <id>https://tv.naver.com/v/40833392</id>
+        <link href="https://tv.naver.com/v/40833392"/>
+        <updated>2023-09-29T17:36:26.904Z</updated>
+        <content type="html"><![CDATA[04:06]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 신박한 신상 게임 어서 오고~✨ 그리고 때아닌 방귀(?)의혹..?😅]]></title>
+        <id>https://tv.naver.com/v/40833296</id>
+        <link href="https://tv.naver.com/v/40833296"/>
+        <updated>2023-09-29T17:36:26.905Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 추석 맞이 30일 내내 보고픈 배우들 등장!🥳 정소민 X 송해나 X 엄지윤✨]]></title>
         <id>https://tv.naver.com/v/40702139</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40126737"/>
         <updated>2023-09-11T17:36:17.039Z</updated>
         <content type="html"><![CDATA[00:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 요상한(?) 박사들로 가득 찬 놀토에 등장한 깜짝 손님들!🤩 이동휘 X 김종수 X 박소이💫]]></title>
-        <id>https://tv.naver.com/v/40062238</id>
-        <link href="https://tv.naver.com/v/40062238"/>
-        <updated>2023-09-09T17:36:19.874Z</updated>
-        <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[빽가vs놀보] 누가 더 똑똑한가? | 남탕, 여탕 논란?ㅋㅋㅋ #highlight]]></title>
-        <id>https://tv.naver.com/v/40062236</id>
-        <link href="https://tv.naver.com/v/40062236"/>
-        <updated>2023-09-09T17:36:19.877Z</updated>
-        <content type="html"><![CDATA[14:26]]></content>
     </entry>
 </feed>
