@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-29T17:36:35.026Z</updated>
+    <updated>2023-09-30T05:36:51.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 이 분위기 뭐야~ 서로 알아가는 사이?🤭 추석 맞이 폭로 대잔치💞 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[00:35]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 오디션 프로그램보다 더 치열하게 맞붙는 박건욱vs김지웅의 씨름 대결🔥 과연 승자는?! (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/40840580</id>
+        <link href="https://tv.naver.com/v/40840580"/>
+        <updated>2023-09-30T05:36:50.721Z</updated>
+        <content type="html"><![CDATA[03:52]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[💎아형리미티드💎 [풀캠] 이 무대 무료로 봐도 괜찮나요..? 김지웅x박건욱의 〈Rover+GAMBLER+Seven〉♬ | JTBC 230923 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/40801370</id>
         <link href="https://tv.naver.com/v/40801370"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/40347908"/>
         <updated>2023-09-16T17:36:32.930Z</updated>
         <content type="html"><![CDATA[08:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대본 리딩에도 항상 100%로 임하는 김수미🔥 (ft. 그냥 읽는 탁재훈) | JTBC 230916 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/40347485</id>
-        <link href="https://tv.naver.com/v/40347485"/>
-        <updated>2023-09-16T17:36:32.931Z</updated>
-        <content type="html"><![CDATA[05:51]]></content>
     </entry>
 </feed>
