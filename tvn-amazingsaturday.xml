@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-10-02T05:36:10.925Z</updated>
+    <updated>2023-10-02T17:36:54.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[[예고] 가을이 찾아온 놀토에 찾아온 감성 발라더 3인🥹 이석훈 X 카더가든 X 김민석🍁]]></title>
+        <title type="html"><![CDATA[[예고] 놀토의 가을을 책임질 감성 발라더 3인!💕 이석훈 X 카더가든 X 김민석]]></title>
+        <id>https://tv.naver.com/v/40898990</id>
+        <link href="https://tv.naver.com/v/40898990"/>
+        <updated>2023-10-02T17:36:43.957Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[예고] 가을이 찾아온 놀토에 찾아온 감성 발라더 3인😍 이석훈 X 카더가든 X 김민석🍁]]></title>
         <id>https://tv.naver.com/v/40855415</id>
         <link href="https://tv.naver.com/v/40855415"/>
         <updated>2023-09-30T17:36:26.236Z</updated>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40349016"/>
         <updated>2023-09-16T17:36:25.689Z</updated>
         <content type="html"><![CDATA[21:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넉사리가 키어로 뮤즈 된 썰 #highlight]]></title>
-        <id>https://tv.naver.com/v/40348902</id>
-        <link href="https://tv.naver.com/v/40348902"/>
-        <updated>2023-09-16T17:36:25.692Z</updated>
-        <content type="html"><![CDATA[22:39]]></content>
     </entry>
 </feed>
