@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-10-06T05:36:24.599Z</updated>
+    <updated>2023-10-06T17:36:15.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 보자 보자 하니까 내가 보자기로 보여~!💥 🙎‍♂️: ??그게 왜 거기서 나와?]]></title>
+        <id>https://tv.naver.com/v/41061661</id>
+        <link href="https://tv.naver.com/v/41061661"/>
+        <updated>2023-10-06T17:36:07.218Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 진심은 안 통할 수도(?) 있다😂 자유롭게 두도록 해요~💫]]></title>
+        <id>https://tv.naver.com/v/41061660</id>
+        <link href="https://tv.naver.com/v/41061660"/>
+        <updated>2023-10-06T17:36:07.221Z</updated>
+        <content type="html"><![CDATA[03:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토의 가을을 책임질 감성 발라더 3인!💕 이석훈 X 카더가든 X 김민석]]></title>
         <id>https://tv.naver.com/v/40898990</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/40349155"/>
         <updated>2023-09-16T17:36:25.684Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점잖은 깡패짓(?)으로 얻은 힌트! 여자친구는 어느 반? #highlight]]></title>
-        <id>https://tv.naver.com/v/40349017</id>
-        <link href="https://tv.naver.com/v/40349017"/>
-        <updated>2023-09-16T17:36:25.686Z</updated>
-        <content type="html"><![CDATA[16:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#간식게임] 너의 제목이 보여! 어른들이 미안해😅 #highlight]]></title>
-        <id>https://tv.naver.com/v/40349016</id>
-        <link href="https://tv.naver.com/v/40349016"/>
-        <updated>2023-09-16T17:36:25.689Z</updated>
-        <content type="html"><![CDATA[21:33]]></content>
     </entry>
 </feed>

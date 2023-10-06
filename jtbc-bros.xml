@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-10-06T05:36:24.614Z</updated>
+    <updated>2023-10-06T17:36:15.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아는 형님 404회 예고편 | 10월 14일(토) 저녁 8시 50분 방송!]]></title>
+        <id>https://tv.naver.com/v/41071830</id>
+        <link href="https://tv.naver.com/v/41071830"/>
+        <updated>2023-10-06T17:36:14.616Z</updated>
+        <content type="html"><![CDATA[02:28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 추석에 집안싸움이 빠질 수 없지(?) 강호동도 인정한 '김지웅-박건욱' 박빙의 씨름 대결🔥 | JTBC 230930 방송]]></title>
         <id>https://tv.naver.com/v/40859604</id>
@@ -25,13 +32,6 @@
         <link href="https://tv.naver.com/v/40859601"/>
         <updated>2023-09-30T17:36:32.498Z</updated>
         <content type="html"><![CDATA[25:38]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 404회 예고편 | 10월 14일(토) 저녁 8시 50분 방송!]]></title>
-        <id>https://tv.naver.com/v/40854517</id>
-        <link href="https://tv.naver.com/v/40854517"/>
-        <updated>2023-09-30T17:36:32.498Z</updated>
-        <content type="html"><![CDATA[02:28]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[남자부 결승] 모든 것을 결정지을 '모태범 vs 김지웅'의 승부⚡ | JTBC 230930 방송]]></title>
