@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-09T05:36:51.362Z</updated>
+    <updated>2023-10-09T17:36:39.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 국민 히어로! 진짜 영웅이 놀토 등판😎 임영웅과 함께하는 스페셜 토크쇼부터 팀전 대결까지🤭💙 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/41149591</id>
+        <link href="https://tv.naver.com/v/41149591"/>
+        <updated>2023-10-09T17:36:32.108Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[#간식게임] 가사 낭독 퀴즈 | 아! 놀토 간겜 명절 밥상보다 푸짐하다! #highlight (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/41094536</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/40641425"/>
         <updated>2023-09-23T17:36:20.183Z</updated>
         <content type="html"><![CDATA[18:47]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽑은 사람도 답답, 아는 사람도 답답해지는 악뮤와의 1라운드 ㅋㅋ #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/40641334</id>
-        <link href="https://tv.naver.com/v/40641334"/>
-        <updated>2023-09-23T17:36:20.183Z</updated>
-        <content type="html"><![CDATA[25:01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아는 형님 404회 예고편 | 10월 14일(토) 저녁 8시 50분 방송! (아는 형님)]]></title>
