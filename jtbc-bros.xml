@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-10-11T17:36:28.891Z</updated>
+    <updated>2023-10-12T05:36:27.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】🔥고려대 vs 연세대🔥  세기의 대결을...대기실 안에서..?! 이게 되는거임?!💥]]></title>
+        <id>https://tv.naver.com/v/41269583</id>
+        <link href="https://tv.naver.com/v/41269583"/>
+        <updated>2023-10-12T05:36:25.627Z</updated>
+        <content type="html"><![CDATA[05:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아는 형님 404회 예고편 | 10월 14일(토) 저녁 8시 50분 방송!]]></title>
         <id>https://tv.naver.com/v/41071830</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40640287"/>
         <updated>2023-09-23T17:36:26.561Z</updated>
         <content type="html"><![CDATA[01:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두가 함께하는 '너나댄스' 챌린지💛 예린의 신곡 〈밤밤밤〉♬ | JTBC 230923 방송]]></title>
-        <id>https://tv.naver.com/v/40640282</id>
-        <link href="https://tv.naver.com/v/40640282"/>
-        <updated>2023-09-23T17:36:26.567Z</updated>
-        <content type="html"><![CDATA[02:01]]></content>
     </entry>
 </feed>
