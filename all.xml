@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T17:37:12.555Z</updated>
+    <updated>2023-10-14T05:36:28.920Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 이 분위기 어쩌지..? 웅과 함께 텐션 올려보자고!❤️‍🔥😘 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:00]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] ＂연대에 갈 생각이 없었어＂ (뭐? ...💢) 고려대 VS 연세대 제대로 불붙었다🔥 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/41364503</id>
+        <link href="https://tv.naver.com/v/41364503"/>
+        <updated>2023-10-14T05:36:27.645Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】🔥고려대 vs 연세대🔥  세기의 대결을...대기실 안에서..?! 이게 되는거임?!💥 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/41269583</id>
         <link href="https://tv.naver.com/v/41269583"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/40640451"/>
         <updated>2023-09-23T17:36:26.559Z</updated>
         <content type="html"><![CDATA[01:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넋 놓고 보게 되는 케플러 샤오팅의 댄스 스포츠 무대♬ | JTBC 230923 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/40640287</id>
-        <link href="https://tv.naver.com/v/40640287"/>
-        <updated>2023-09-23T17:36:26.561Z</updated>
-        <content type="html"><![CDATA[01:11]]></content>
     </entry>
 </feed>
