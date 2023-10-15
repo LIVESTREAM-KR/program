@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-10-14T17:36:28.452Z</updated>
+    <updated>2023-10-15T05:36:24.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 정근우와 달리 연대인 상(?) 고대 출신 한석준.. 그가 대학원은 연대로 환승한 이유는?!  | JTBC 231014 방송]]></title>
-        <id>https://tv.naver.com/v/41387799</id>
-        <link href="https://tv.naver.com/v/41387799"/>
-        <updated>2023-10-14T17:36:27.471Z</updated>
-        <content type="html"><![CDATA[29:23]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 연세대VS고려대 결판내러 왔다💥 우리나라 상위 1%의 싸움에 가슴이 웅장해진다... | JTBC 231014 방송]]></title>
         <id>https://tv.naver.com/v/41387563</id>
         <link href="https://tv.naver.com/v/41387563"/>
         <updated>2023-10-14T17:36:27.473Z</updated>
         <content type="html"><![CDATA[29:49]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[아형✪하이라이트] 정근우와 달리 연대인 상(?) 고대 출신 한석준.. 그가 대학원은 연대로]]></title>
+        <id>https://tv.naver.com/v/41387799</id>
+        <link href="https://tv.naver.com/v/41387799"/>
+        <updated>2023-10-14T17:36:27.471Z</updated>
+        <content type="html"><![CDATA[29:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 김소현 눈 감아.. 이대 다니는 첫사랑과 신촌 라이프를 즐기기 위해 3수까지 한 연대생 손준호 | JTBC 231014 방송]]></title>
