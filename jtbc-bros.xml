@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-10-18T17:36:44.901Z</updated>
+    <updated>2023-10-19T05:36:07.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】절대음감 게임 입니다. 근데 이제 외국인을 곁들인...근데 이제 매우 정신도 없는..🤣]]></title>
+        <id>https://tv.naver.com/v/41578983</id>
+        <link href="https://tv.naver.com/v/41578983"/>
+        <updated>2023-10-19T05:36:06.250Z</updated>
+        <content type="html"><![CDATA[07:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 연세대VS고려대 결판내러 왔다💥 우리나라 상위 1%의 싸움에 가슴이 웅장해진다... | JTBC 231014 방송]]></title>
         <id>https://tv.naver.com/v/41387563</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/40853059"/>
         <updated>2023-09-30T17:36:32.521Z</updated>
         <content type="html"><![CDATA[06:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세븐 xxx이 왜 거기서 나와...? 센스 넘치는 김지웅의 순발력👏 | JTBC 230930 방송]]></title>
-        <id>https://tv.naver.com/v/40853058</id>
-        <link href="https://tv.naver.com/v/40853058"/>
-        <updated>2023-09-30T17:36:32.525Z</updated>
-        <content type="html"><![CDATA[06:54]]></content>
     </entry>
 </feed>
