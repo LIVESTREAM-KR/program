@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-20T05:36:39.584Z</updated>
+    <updated>2023-10-20T17:36:53.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 상습적 포기선언에 놀랐츄💓 인생은 실전이라고요!😏 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/41658846</id>
+        <link href="https://tv.naver.com/v/41658846"/>
+        <updated>2023-10-20T17:36:44.851Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 핫한 언니 등장에 긴장하는 도레미🤭 보여줄게 완전히 달라진 나~🎶 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/41658844</id>
+        <link href="https://tv.naver.com/v/41658844"/>
+        <updated>2023-10-20T17:36:44.869Z</updated>
+        <content type="html"><![CDATA[02:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 극과 극의 광인들이 떴다?!😘 쎈 광기vs맑은 광기💥 제시 X 츄 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/41449464</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/40898990"/>
         <updated>2023-10-02T17:36:43.957Z</updated>
         <content type="html"><![CDATA[00:34]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 가을이 찾아온 놀토에 찾아온 감성 발라더 3인😍 이석훈 X 카더가든 X 김민석🍁 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/40855415</id>
-        <link href="https://tv.naver.com/v/40855415"/>
-        <updated>2023-09-30T17:36:26.236Z</updated>
-        <content type="html"><![CDATA[01:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀토에서 윷놀이 한 판! 키어로가 주는 추석 최고의 선물🎁 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/40855414</id>
-        <link href="https://tv.naver.com/v/40855414"/>
-        <updated>2023-09-30T17:36:26.237Z</updated>
-        <content type="html"><![CDATA[22:08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】절대음감 게임 입니다. 근데 이제 외국인을 곁들인...근데 이제 매우 정신도 없는..🤣 (아는 형님)]]></title>
