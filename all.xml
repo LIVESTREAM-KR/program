@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-25T17:36:11.718Z</updated>
+    <updated>2023-10-26T05:36:38.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토의 찐가족 세븐틴이 떴다!🤩 민규 X 승관 X 디노✨ (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】Q. 교환학생들은 한국 게임을 잘..할까...? A.ㅇㅇ 잘함 관념적 한국인들임 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/41903124</id>
+        <link href="https://tv.naver.com/v/41903124"/>
+        <updated>2023-10-26T05:36:37.580Z</updated>
+        <content type="html"><![CDATA[05:31]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 바이올린 켜는 왕자님 실존✨ 제베원 장하오x석매튜부터 글로벌 아이돌 총집합💓 | JTBC 231021 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/41698368</id>
         <link href="https://tv.naver.com/v/41698368"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/41379588"/>
         <updated>2023-10-23T17:36:24.311Z</updated>
         <content type="html"><![CDATA[01:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송도까지 날아갈까 무서웠던 정근우🙀 강호동한테 필살 애교 윙크 날리는 중❤️ | JTBC 231014 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/41379872</id>
-        <link href="https://tv.naver.com/v/41379872"/>
-        <updated>2023-10-23T17:36:24.313Z</updated>
-        <content type="html"><![CDATA[08:34]]></content>
     </entry>
 </feed>
