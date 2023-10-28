@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-10-27T17:36:29.436Z</updated>
+    <updated>2023-10-28T05:36:19.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 알베르토의 음식학개론에 탈탈 털리는 미국인 크리스💦]]></title>
+        <id>https://tv.naver.com/v/41994435</id>
+        <link href="https://tv.naver.com/v/41994435"/>
+        <updated>2023-10-28T05:36:18.777Z</updated>
+        <content type="html"><![CDATA[04:21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】Q. 교환학생들은 한국 게임을 잘..할까...? A.ㅇㅇ 잘함 관념적 한국인들임]]></title>
         <id>https://tv.naver.com/v/41903124</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41386693"/>
         <updated>2023-10-14T17:36:27.478Z</updated>
         <content type="html"><![CDATA[29:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아는 형님 405회 예고편]]></title>
-        <id>https://tv.naver.com/v/41379588</id>
-        <link href="https://tv.naver.com/v/41379588"/>
-        <updated>2023-10-14T17:36:27.478Z</updated>
-        <content type="html"><![CDATA[01:55]]></content>
     </entry>
 </feed>
