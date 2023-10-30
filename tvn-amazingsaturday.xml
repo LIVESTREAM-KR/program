@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-10-30T05:36:28.827Z</updated>
+    <updated>2023-10-30T17:36:59.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 무인도의 단비 같은 존재들🌅💙 박은빈 X 채종협 X 차학연]]></title>
+        <id>https://tv.naver.com/v/42086993</id>
+        <link href="https://tv.naver.com/v/42086993"/>
+        <updated>2023-10-30T17:36:50.839Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 무인도에 표류 중인 놀토에 《무인도의 디바》 특급 배우들 등장?!🏝️박은빈 X 채종협 X 차학연]]></title>
         <id>https://tv.naver.com/v/42017355</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41381159"/>
         <updated>2023-10-23T17:36:17.147Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키어로VS히어로] 흥빼시 : 흥 빼면 시체👻 영웅 포포몬쓰 #highlight]]></title>
-        <id>https://tv.naver.com/v/41381156</id>
-        <link href="https://tv.naver.com/v/41381156"/>
-        <updated>2023-10-23T17:36:17.152Z</updated>
-        <content type="html"><![CDATA[25:23]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-30T05:36:28.831Z</updated>
+    <updated>2023-10-30T17:36:59.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 무인도의 단비 같은 존재들🌅💙 박은빈 X 채종협 X 차학연 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/42086993</id>
+        <link href="https://tv.naver.com/v/42086993"/>
+        <updated>2023-10-30T17:36:50.839Z</updated>
+        <content type="html"><![CDATA[00:36]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 무인도에 표류 중인 놀토에 《무인도의 디바》 특급 배우들 등장?!🏝️박은빈 X 채종협 X 차학연 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/42017355</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/41381159"/>
         <updated>2023-10-23T17:36:17.147Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[키어로VS히어로] 흥빼시 : 흥 빼면 시체👻 영웅 포포몬쓰 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/41381156</id>
-        <link href="https://tv.naver.com/v/41381156"/>
-        <updated>2023-10-23T17:36:17.152Z</updated>
-        <content type="html"><![CDATA[25:23]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 13년 차 대한외국인 크리스🐢 불리할 때만 미국인인 척하다가 올리버쌤으로 교체 당할 위기(?) ㅋㅋㅋ | JTBC 231028 방송 (아는 형님)]]></title>
