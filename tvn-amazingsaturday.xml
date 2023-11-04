@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-11-04T05:36:21.946Z</updated>
+    <updated>2023-11-04T17:36:08.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 돌아온 캐치보이💕 피오가 보고 싶어한 경영자들 등장!🥸 황제성 X 권혁수 X 곽범]]></title>
+        <id>https://tv.naver.com/v/42340984</id>
+        <link href="https://tv.naver.com/v/42340984"/>
+        <updated>2023-11-04T17:36:02.670Z</updated>
+        <content type="html"><![CDATA[01:10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[채종협X차학연 동기화되는 것도 프리덤🎵 #highlight]]></title>
+        <id>https://tv.naver.com/v/42340887</id>
+        <link href="https://tv.naver.com/v/42340887"/>
+        <updated>2023-11-04T17:36:02.678Z</updated>
+        <content type="html"><![CDATA[24:15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[#간식게임] 정장+차학연+사슬 = 덕후 쥬금... 무인도에서도 볼 포포몬쓰 #highlight]]></title>
+        <id>https://tv.naver.com/v/42340886</id>
+        <link href="https://tv.naver.com/v/42340886"/>
+        <updated>2023-11-04T17:36:02.679Z</updated>
+        <content type="html"><![CDATA[19:56]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[박은빈 씨 너무 예리한데요? 혹시 레드벨벳인가? 포항항ꉂ(ᵔᗜᵔ*)⚓️ #highlight]]></title>
+        <id>https://tv.naver.com/v/42340882</id>
+        <link href="https://tv.naver.com/v/42340882"/>
+        <updated>2023-11-04T17:36:02.681Z</updated>
+        <content type="html"><![CDATA[16:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[놀보 VS 차학연] 힌트라고 쓰고 사심이라고 부른다♥ | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42340681</id>
+        <link href="https://tv.naver.com/v/42340681"/>
+        <updated>2023-11-04T17:36:02.682Z</updated>
+        <content type="html"><![CDATA[12:44]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[룰을 어긴 박은빈, 키어로 한 마디에 정색한 이유는? 〈악뮤 - 프리덤♪〉 | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42340203</id>
+        <link href="https://tv.naver.com/v/42340203"/>
+        <updated>2023-11-04T17:36:02.685Z</updated>
+        <content type="html"><![CDATA[11:30]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키어로... 진짜 하고 싶은 말을 할게... 〈엔시티 유 - 배기 진스♪〉 | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42339763</id>
+        <link href="https://tv.naver.com/v/42339763"/>
+        <updated>2023-11-04T17:36:02.685Z</updated>
+        <content type="html"><![CDATA[11:09]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 조인성 다른 작품을 맞힌 박은빈에게 숨 참고 〈아이브 - 러브 다이브♪〉 | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42339525</id>
+        <link href="https://tv.naver.com/v/42339525"/>
+        <updated>2023-11-04T17:36:02.686Z</updated>
+        <content type="html"><![CDATA[08:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제시가 가장 매울 때? 음식 캐치 전문 뚱유니의 활약 | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42339262</id>
+        <link href="https://tv.naver.com/v/42339262"/>
+        <updated>2023-11-04T17:36:02.686Z</updated>
+        <content type="html"><![CDATA[06:23]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가수 출신으로 오해받은 28년 차 배우 박은빈 〈제시 - 콜드 블러디드♪〉 | tvN 231104 방송]]></title>
+        <id>https://tv.naver.com/v/42338994</id>
+        <link href="https://tv.naver.com/v/42338994"/>
+        <updated>2023-11-04T17:36:02.687Z</updated>
+        <content type="html"><![CDATA[10:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 난이도 상🙄 혼돈의 카오스 간겜! 아니 그래서 정답이 대체 뭐냐고요🔥]]></title>
         <id>https://tv.naver.com/v/42303816</id>
@@ -144,75 +214,5 @@
         <link href="https://tv.naver.com/v/41693168"/>
         <updated>2023-10-23T17:36:17.125Z</updated>
         <content type="html"><![CDATA[16:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고추붐자리의 비행을✈ 보고 어이털린 제시 #highlight]]></title>
-        <id>https://tv.naver.com/v/41693057</id>
-        <link href="https://tv.naver.com/v/41693057"/>
-        <updated>2023-10-23T17:36:17.127Z</updated>
-        <content type="html"><![CDATA[24:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마지막 영어 1개가 안 잡힌다ㅠㅠ 강냉이 먹방이냐, 바비큐 먹방이냐 | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41693054</id>
-        <link href="https://tv.naver.com/v/41693054"/>
-        <updated>2023-10-23T17:36:17.129Z</updated>
-        <content type="html"><![CDATA[10:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영어가 9개?! 프랑스어 1개?! 〈위너 - 아이 러브 유♪〉 | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41692772</id>
-        <link href="https://tv.naver.com/v/41692772"/>
-        <updated>2023-10-23T17:36:17.130Z</updated>
-        <content type="html"><![CDATA[10:29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국인 넉살 VS 외국인 제시] 초성 틀리는 초성 게임ㅋㅋㅋ | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41692294</id>
-        <link href="https://tv.naver.com/v/41692294"/>
-        <updated>2023-10-23T17:36:17.132Z</updated>
-        <content type="html"><![CDATA[07:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[욕은 안 돼요!!! 초성 'ㅅㅂㄱ' 보고 그걸 말해버린 제시 ^_ㅠ | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41692193</id>
-        <link href="https://tv.naver.com/v/41692193"/>
-        <updated>2023-10-23T17:36:17.134Z</updated>
-        <content type="html"><![CDATA[08:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제시가 부른 노래에 탱구가 정답을 알아버렸다! | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41691758</id>
-        <link href="https://tv.naver.com/v/41691758"/>
-        <updated>2023-10-23T17:36:17.136Z</updated>
-        <content type="html"><![CDATA[11:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈화사 - 아이 러브 마이 바디♪〉 영어 가사 화끈하게 해석하는 제시ㅋㅋㅋ | tvN 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41691231</id>
-        <link href="https://tv.naver.com/v/41691231"/>
-        <updated>2023-10-23T17:36:17.138Z</updated>
-        <content type="html"><![CDATA[12:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 상습적 포기선언에 놀랐츄💓 인생은 실전이라고요!😏]]></title>
-        <id>https://tv.naver.com/v/41658846</id>
-        <link href="https://tv.naver.com/v/41658846"/>
-        <updated>2023-10-23T17:36:17.140Z</updated>
-        <content type="html"><![CDATA[04:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 핫한 언니 등장에 긴장하는 도레미🤭 보여줄게 완전히 달라진 나~🎶]]></title>
-        <id>https://tv.naver.com/v/41658844</id>
-        <link href="https://tv.naver.com/v/41658844"/>
-        <updated>2023-10-23T17:36:17.142Z</updated>
-        <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 극과 극의 광인들이 떴다?!😘 쎈 광기vs맑은 광기💥 제시 X 츄]]></title>
-        <id>https://tv.naver.com/v/41449464</id>
-        <link href="https://tv.naver.com/v/41449464"/>
-        <updated>2023-10-23T17:36:17.143Z</updated>
-        <content type="html"><![CDATA[00:35]]></content>
     </entry>
 </feed>
