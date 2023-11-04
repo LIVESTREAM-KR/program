@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-03T17:36:51.290Z</updated>
+    <updated>2023-11-04T05:36:21.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 범상치 않은 댄서들의 등장😅 '스트릿 ((개그)) 댄서 파이터' START!!]]></title>
+        <id>https://tv.naver.com/v/42323155</id>
+        <link href="https://tv.naver.com/v/42323155"/>
+        <updated>2023-11-04T05:36:21.153Z</updated>
+        <content type="html"><![CDATA[05:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】＂ 야 나 진짜 행복하다니까...? ＂ 스트릿 개그우먼 파이터들의  본격 행복 호소 배틀 시좍합니돠~🔥]]></title>
         <id>https://tv.naver.com/v/42217222</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/41690944"/>
         <updated>2023-10-21T17:36:34.958Z</updated>
         <content type="html"><![CDATA[01:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장하오x에디x츠키가 제일 어려웠던 한국 문화? 이제는 K-예의 패치 완료ㅋㅋ | JTBC 231021 방송]]></title>
-        <id>https://tv.naver.com/v/41690937</id>
-        <link href="https://tv.naver.com/v/41690937"/>
-        <updated>2023-10-21T17:36:34.959Z</updated>
-        <content type="html"><![CDATA[03:07]]></content>
     </entry>
 </feed>
