@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T05:36:28.054Z</updated>
+    <updated>2023-11-06T17:37:06.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 피오 전역 기념! 환영회를 위한 특별 손님 등장?!🎉 황제성 X 권혁수 X 곽범😎 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/42414425</id>
+        <link href="https://tv.naver.com/v/42414425"/>
+        <updated>2023-11-06T17:36:58.309Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 돌아온 캐치보이💕 피오가 보고 싶어한 경영자들 등장!🥸 황제성 X 권혁수 X 곽범 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/42340984</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/41693170"/>
         <updated>2023-10-23T17:36:17.123Z</updated>
         <content type="html"><![CDATA[21:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#간식게임] 초성 맞히기 | 이런 햄버거가 있다고? #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/41693168</id>
-        <link href="https://tv.naver.com/v/41693168"/>
-        <updated>2023-10-23T17:36:17.125Z</updated>
-        <content type="html"><![CDATA[16:10]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 〈스우파2〉보다 견제 심한 개그 싸움💥 시원~한 탈모까지 보여준 홍윤화-라라-김미려 | JTBC 231104 방송 (아는 형님)]]></title>
