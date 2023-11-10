@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T05:36:15.247Z</updated>
+    <updated>2023-11-10T17:36:02.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 비상이다🚨모두의 기대를 저버리고 발생한 노잼 사태😂 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/42654724</id>
+        <link href="https://tv.naver.com/v/42654724"/>
+        <updated>2023-11-10T17:35:55.192Z</updated>
+        <content type="html"><![CDATA[05:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 기다리고 기다리던 놀토의 재간둥이이자 캐치보이❣ 피오의 컴백😘 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/42654720</id>
+        <link href="https://tv.naver.com/v/42654720"/>
+        <updated>2023-11-10T17:35:55.193Z</updated>
+        <content type="html"><![CDATA[04:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 피오 전역 기념! 환영회를 위한 특별 손님 등장?!🎉 황제성 X 권혁수 X 곽범😎 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/42414425</id>
@@ -199,20 +213,6 @@
         <link href="https://tv.naver.com/v/41763269"/>
         <updated>2023-10-23T17:36:17.112Z</updated>
         <content type="html"><![CDATA[00:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 정체 불명 천국(?) 속 도레미와 존재 자체가 천국인 세븐틴이 떴다!🥰 민규 X 승관 X 디노💗 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/41693331</id>
-        <link href="https://tv.naver.com/v/41693331"/>
-        <updated>2023-10-23T17:36:17.121Z</updated>
-        <content type="html"><![CDATA[01:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자만이 아니라 자신감! 뚱유니가 또 한 건 했다! #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/41693170</id>
-        <link href="https://tv.naver.com/v/41693170"/>
-        <updated>2023-10-23T17:36:17.123Z</updated>
-        <content type="html"><![CDATA[21:19]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 🌹지우히메...?🌹 놓치지 않을 거예요~...❤️ 대기실 인터뷰도 뉴-노멀한 최지우X피오X하다인이 찾아왔습니다! (아는 형님)]]></title>
