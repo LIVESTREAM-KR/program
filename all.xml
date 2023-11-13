@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-13T05:35:57.812Z</updated>
+    <updated>2023-11-13T17:36:20.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 스트레이 키즈가 놀토에 떴다💗 줏대있게 받쓰부터 퍼포까지 접수-✨ 창빈 X 필릭스 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/42771018</id>
+        <link href="https://tv.naver.com/v/42771018"/>
+        <updated>2023-11-13T17:36:14.014Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 다양한 키즈들이 있는 놀토에 케이팝 최고의 키즈들이 떴다!🤸‍♂️ 창빈 X 필릭스🥰 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/42691469</id>
@@ -206,13 +213,6 @@
         <link href="https://tv.naver.com/v/42017345"/>
         <updated>2023-10-28T17:35:55.610Z</updated>
         <content type="html"><![CDATA[20:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친가족 세븐틴과💎 함께하는 민초단과 연애하는 반민초단의 노래 #highlight (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/42017249</id>
-        <link href="https://tv.naver.com/v/42017249"/>
-        <updated>2023-10-28T17:35:55.610Z</updated>
-        <content type="html"><![CDATA[14:56]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 게임 하랬더니 명품 연기 보여주는 최지우-피오-하다인🤗 근데 이제 2% 모자람을 곁들인.. | JTBC 231111 방송 (아는 형님)]]></title>

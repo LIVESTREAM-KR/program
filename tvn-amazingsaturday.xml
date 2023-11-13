@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-11-13T05:35:57.808Z</updated>
+    <updated>2023-11-13T17:36:20.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 스트레이 키즈가 놀토에 떴다💗 줏대있게 받쓰부터 퍼포까지 접수-✨ 창빈 X 필릭스]]></title>
+        <id>https://tv.naver.com/v/42771018</id>
+        <link href="https://tv.naver.com/v/42771018"/>
+        <updated>2023-11-13T17:36:14.014Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 다양한 키즈들이 있는 놀토에 케이팝 최고의 키즈들이 떴다!🤸‍♂️ 창빈 X 필릭스🥰]]></title>
         <id>https://tv.naver.com/v/42691469</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42017345"/>
         <updated>2023-10-28T17:35:55.610Z</updated>
         <content type="html"><![CDATA[20:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친가족 세븐틴과💎 함께하는 민초단과 연애하는 반민초단의 노래 #highlight]]></title>
-        <id>https://tv.naver.com/v/42017249</id>
-        <link href="https://tv.naver.com/v/42017249"/>
-        <updated>2023-10-28T17:35:55.610Z</updated>
-        <content type="html"><![CDATA[14:56]]></content>
     </entry>
 </feed>
