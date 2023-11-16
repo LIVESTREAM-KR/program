@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-15T17:36:03.618Z</updated>
+    <updated>2023-11-16T05:35:52.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 ＂편한 사람이 나와서 너무 좋네요＂ 10초 후 바로 어색해진 대기실?! 박재범X정찬성이 찾아왔습니다~🙌]]></title>
+        <id>https://tv.naver.com/v/42916622</id>
+        <link href="https://tv.naver.com/v/42916622"/>
+        <updated>2023-11-16T05:35:51.431Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 게임 하랬더니 명품 연기 보여주는 최지우-피오-하다인🤗 근데 이제 2% 모자람을 곁들인.. | JTBC 231111 방송]]></title>
         <id>https://tv.naver.com/v/42694022</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42217222"/>
         <updated>2023-11-02T05:36:24.295Z</updated>
         <content type="html"><![CDATA[05:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 13년 차 대한외국인 크리스🐢 불리할 때만 미국인인 척하다가 올리버쌤으로 교체 당할 위기(?) ㅋㅋㅋ | JTBC 231028 방송]]></title>
-        <id>https://tv.naver.com/v/42021863</id>
-        <link href="https://tv.naver.com/v/42021863"/>
-        <updated>2023-10-28T17:36:02.907Z</updated>
-        <content type="html"><![CDATA[35:35]]></content>
     </entry>
 </feed>
