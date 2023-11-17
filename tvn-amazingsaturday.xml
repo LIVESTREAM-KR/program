@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-11-17T05:36:17.757Z</updated>
+    <updated>2023-11-17T17:36:01.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 레전드 퍼포 떴다❣ 나는 놀래미가 줏대 있게 인생 살았으면 좋겠어🙏]]></title>
+        <id>https://tv.naver.com/v/43004107</id>
+        <link href="https://tv.naver.com/v/43004107"/>
+        <updated>2023-11-17T17:35:55.323Z</updated>
+        <content type="html"><![CDATA[04:31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 우리는 우리의 길을 간ㄷr..💥 포부 넘치는 스키즈의 놀토 방문기! 많관부😘]]></title>
+        <id>https://tv.naver.com/v/43004103</id>
+        <link href="https://tv.naver.com/v/43004103"/>
+        <updated>2023-11-17T17:35:55.325Z</updated>
+        <content type="html"><![CDATA[03:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 스트레이 키즈가 놀토에 떴다💗 줏대있게 받쓰부터 퍼포까지 접수-✨ 창빈 X 필릭스]]></title>
         <id>https://tv.naver.com/v/42771018</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/42017355"/>
         <updated>2023-10-28T17:35:55.609Z</updated>
         <content type="html"><![CDATA[01:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#간식게임] 💗포포몬쓰의 신💙 세븐틴 간겜 모음 #highlight]]></title>
-        <id>https://tv.naver.com/v/42017349</id>
-        <link href="https://tv.naver.com/v/42017349"/>
-        <updated>2023-10-28T17:35:55.610Z</updated>
-        <content type="html"><![CDATA[21:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭망 루트 탄 것 같은 세븐틴X도레미😥 1라운드에 영웅볼 다 털림 #highlight]]></title>
-        <id>https://tv.naver.com/v/42017345</id>
-        <link href="https://tv.naver.com/v/42017345"/>
-        <updated>2023-10-28T17:35:55.610Z</updated>
-        <content type="html"><![CDATA[20:20]]></content>
     </entry>
 </feed>
