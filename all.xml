@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-17T17:36:01.443Z</updated>
+    <updated>2023-11-18T05:35:46.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 레전드 퍼포 떴다❣ 나는 놀래미가 줏대 있게 인생 살았으면 좋겠어🙏 (놀라운 토요일)]]></title>
@@ -215,6 +215,13 @@
         <content type="html"><![CDATA[01:04]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 맞짱(?) 떠! 강호동에게 '진심 킥' 날리는 좀비 파이터 정찬성💥 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/43023501</id>
+        <link href="https://tv.naver.com/v/43023501"/>
+        <updated>2023-11-18T05:35:45.442Z</updated>
+        <content type="html"><![CDATA[03:47]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】 ＂편한 사람이 나와서 너무 좋네요＂ 10초 후 바로 어색해진 대기실?! 박재범X정찬성이 찾아왔습니다~🙌 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/42916622</id>
         <link href="https://tv.naver.com/v/42916622"/>
@@ -416,12 +423,5 @@
         <link href="https://tv.naver.com/v/42323155"/>
         <updated>2023-11-04T05:36:21.153Z</updated>
         <content type="html"><![CDATA[05:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【형친소】＂ 야 나 진짜 행복하다니까...? ＂ 스트릿 개그우먼 파이터들의  본격 행복 호소 배틀 시좍합니돠~🔥 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/42217222</id>
-        <link href="https://tv.naver.com/v/42217222"/>
-        <updated>2023-11-02T05:36:24.295Z</updated>
-        <content type="html"><![CDATA[05:22]]></content>
     </entry>
 </feed>
