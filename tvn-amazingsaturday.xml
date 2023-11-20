@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-11-20T05:36:01.365Z</updated>
+    <updated>2023-11-20T17:35:53.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 존재 자체가 HIP한 한국 힙합씬의 GOAT🎧🎶 스윙스 X 크러쉬]]></title>
+        <id>https://tv.naver.com/v/43116100</id>
+        <link href="https://tv.naver.com/v/43116100"/>
+        <updated>2023-11-20T17:35:47.337Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 다양한 힙합(?)으로 가득한 놀토에 진짜 힙합 전사들이 떴다!💥 스윙스 X 크러쉬😎]]></title>
         <id>https://tv.naver.com/v/43041753</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42340886"/>
         <updated>2023-11-04T17:36:02.679Z</updated>
         <content type="html"><![CDATA[19:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박은빈 씨 너무 예리한데요? 혹시 레드벨벳인가? 포항항ꉂ(ᵔᗜᵔ*)⚓️ #highlight]]></title>
-        <id>https://tv.naver.com/v/42340882</id>
-        <link href="https://tv.naver.com/v/42340882"/>
-        <updated>2023-11-04T17:36:02.681Z</updated>
-        <content type="html"><![CDATA[16:57]]></content>
     </entry>
 </feed>
