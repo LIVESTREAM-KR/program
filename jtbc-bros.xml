@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-22T17:36:02.861Z</updated>
+    <updated>2023-11-23T05:35:59.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 눈앞에서 뺏겨버리는 정답? Oh my god...에스파가 푸는 SM sbn들의 이모지 퀴즈 🌙🦋⭐💙 + 🎁이벤트🎁]]></title>
+        <id>https://tv.naver.com/v/43263060</id>
+        <link href="https://tv.naver.com/v/43263060"/>
+        <updated>2023-11-23T05:35:58.578Z</updated>
+        <content type="html"><![CDATA[05:58]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 이수근-김희철의 폭주🔥 랩하랬더니 폭로전으로 변질된 무대에 박재범 영혼 가출..👻 | JTBC 231118 방송]]></title>
         <id>https://tv.naver.com/v/43041489</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42560043"/>
         <updated>2023-11-09T05:37:55.285Z</updated>
         <content type="html"><![CDATA[04:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 〈스우파2〉보다 견제 심한 개그 싸움💥 시원~한 탈모까지 보여준 홍윤화-라라-김미려 | JTBC 231104 방송]]></title>
-        <id>https://tv.naver.com/v/42344133</id>
-        <link href="https://tv.naver.com/v/42344133"/>
-        <updated>2023-11-04T17:36:08.044Z</updated>
-        <content type="html"><![CDATA[29:03]]></content>
     </entry>
 </feed>
