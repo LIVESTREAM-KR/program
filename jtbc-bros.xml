@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-23T05:35:59.162Z</updated>
+    <updated>2023-11-23T17:35:50.243Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 다시 돌아온 쇠맛 에스파의 'Drama' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/43287565</id>
+        <link href="https://tv.naver.com/v/43287565"/>
+        <updated>2023-11-23T17:35:49.628Z</updated>
+        <content type="html"><![CDATA[01:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 눈앞에서 뺏겨버리는 정답? Oh my god...에스파가 푸는 SM sbn들의 이모지 퀴즈 🌙🦋⭐💙 + 🎁이벤트🎁]]></title>
         <id>https://tv.naver.com/v/43263060</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/42669669"/>
         <updated>2023-11-11T05:36:23.889Z</updated>
         <content type="html"><![CDATA[04:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【형친소】 🌹지우히메...?🌹 놓치지 않을 거예요~...❤️ 대기실 인터뷰도 뉴-노멀한 최지우X피오X하다인이 찾아왔습니다!]]></title>
-        <id>https://tv.naver.com/v/42560043</id>
-        <link href="https://tv.naver.com/v/42560043"/>
-        <updated>2023-11-09T05:37:55.285Z</updated>
-        <content type="html"><![CDATA[04:05]]></content>
     </entry>
 </feed>
