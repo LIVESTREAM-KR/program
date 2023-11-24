@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-11-24T05:36:02.445Z</updated>
+    <updated>2023-11-24T17:36:28.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 하이에나 상시 대기 중! 끝나지 않은 슬릭백 열풍으로 후끈~🔥🤸‍♀️]]></title>
+        <id>https://tv.naver.com/v/43353752</id>
+        <link href="https://tv.naver.com/v/43353752"/>
+        <updated>2023-11-24T17:36:21.996Z</updated>
+        <content type="html"><![CDATA[04:19]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 두 힙합 전사와 놀토의 인연?💕 투윙스의 돈가스 플러팅까지🤣]]></title>
+        <id>https://tv.naver.com/v/43353751</id>
+        <link href="https://tv.naver.com/v/43353751"/>
+        <updated>2023-11-24T17:36:22.001Z</updated>
+        <content type="html"><![CDATA[05:13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 존재 자체가 HIP한 한국 힙합씬의 GOAT🎧🎶 스윙스 X 크러쉬]]></title>
         <id>https://tv.naver.com/v/43116100</id>
@@ -200,19 +214,5 @@
         <link href="https://tv.naver.com/v/42340984"/>
         <updated>2023-11-04T17:36:02.670Z</updated>
         <content type="html"><![CDATA[01:10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채종협X차학연 동기화되는 것도 프리덤🎵 #highlight]]></title>
-        <id>https://tv.naver.com/v/42340887</id>
-        <link href="https://tv.naver.com/v/42340887"/>
-        <updated>2023-11-04T17:36:02.678Z</updated>
-        <content type="html"><![CDATA[24:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[#간식게임] 정장+차학연+사슬 = 덕후 쥬금... 무인도에서도 볼 포포몬쓰 #highlight]]></title>
-        <id>https://tv.naver.com/v/42340886</id>
-        <link href="https://tv.naver.com/v/42340886"/>
-        <updated>2023-11-04T17:36:02.679Z</updated>
-        <content type="html"><![CDATA[19:56]]></content>
     </entry>
 </feed>
