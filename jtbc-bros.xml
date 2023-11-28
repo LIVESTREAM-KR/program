@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-28T05:36:13.701Z</updated>
+    <updated>2023-11-28T17:36:14.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[✨보너스 미션✨ 팀 플레이로 팀원 모두 힘을 합쳐 즐기는 게임! | JTBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/43549006</id>
+        <link href="https://tv.naver.com/v/43549006"/>
+        <updated>2023-11-28T17:36:13.465Z</updated>
+        <content type="html"><![CDATA[04:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 에스파가 말아주는 〈Drama〉 아니면 이제 드라마 못 본다~🔥 | JTBC 231125 방송]]></title>
         <id>https://tv.naver.com/v/43400766</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43039100"/>
         <updated>2023-11-18T17:36:17.132Z</updated>
         <content type="html"><![CDATA[04:48]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박재범이 정찬성과 계약한 이유? 광고비 슈킹하기 위해 ㅋㅋ | JTBC 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43038953</id>
-        <link href="https://tv.naver.com/v/43038953"/>
-        <updated>2023-11-18T17:36:17.132Z</updated>
-        <content type="html"><![CDATA[07:19]]></content>
     </entry>
 </feed>
