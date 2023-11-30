@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-11-29T17:36:01.192Z</updated>
+    <updated>2023-11-30T05:36:18.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 큰 거 왔습니다...스우파2 리더계급의 춤으로 말해요🕺 워스트 댄서는..? ((없습니다))+ 🍪이벤트🍪]]></title>
+        <id>https://tv.naver.com/v/43618878</id>
+        <link href="https://tv.naver.com/v/43618878"/>
+        <updated>2023-11-30T05:36:18.221Z</updated>
+        <content type="html"><![CDATA[08:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✨보너스 미션✨ 팀 플레이로 팀원 모두 힘을 합쳐 즐기는 게임! | JTBC 231125 방송]]></title>
         <id>https://tv.naver.com/v/43549006</id>
@@ -207,12 +214,5 @@
         <link href="https://tv.naver.com/v/43039563"/>
         <updated>2023-11-18T17:36:17.132Z</updated>
         <content type="html"><![CDATA[09:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 찐 인정 받았습니다! 손흥민이 인정한 월클 라인 박재범💥 | JTBC 231118 방송]]></title>
-        <id>https://tv.naver.com/v/43039100</id>
-        <link href="https://tv.naver.com/v/43039100"/>
-        <updated>2023-11-18T17:36:17.132Z</updated>
-        <content type="html"><![CDATA[04:48]]></content>
     </entry>
 </feed>
