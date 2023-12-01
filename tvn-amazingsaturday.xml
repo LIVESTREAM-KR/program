@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-12-01T05:35:57.147Z</updated>
+    <updated>2023-12-01T17:36:02.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 모든 것에 진심이던 시절✨ 끝나지 않은 활약상~🤭]]></title>
+        <id>https://tv.naver.com/v/43706513</id>
+        <link href="https://tv.naver.com/v/43706513"/>
+        <updated>2023-12-01T17:35:56.128Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 활력 장난 없는 투 엔젤의 미러전🔥 그리고 이상한 배틀?🤩]]></title>
+        <id>https://tv.naver.com/v/43706511</id>
+        <link href="https://tv.naver.com/v/43706511"/>
+        <updated>2023-12-01T17:35:56.129Z</updated>
+        <content type="html"><![CDATA[04:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 텐션 끌어올려↗↗ 독보적인 활력의 엔젤들✨ 김호영 X 조권]]></title>
         <id>https://tv.naver.com/v/43471691</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/43395623"/>
         <updated>2023-11-25T17:36:01.626Z</updated>
         <content type="html"><![CDATA[07:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[단기 기억 상실 짤 해명하는 스윙스 ㅋㅋㅋ | tvN 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43395253</id>
-        <link href="https://tv.naver.com/v/43395253"/>
-        <updated>2023-11-25T17:36:01.626Z</updated>
-        <content type="html"><![CDATA[09:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 너튜브로 핫한 브라이언! 그의 갈망 짤을 아십니까? 〈크러쉬 - 흠칫♪〉 | tvN 231125 방송]]></title>
-        <id>https://tv.naver.com/v/43394960</id>
-        <link href="https://tv.naver.com/v/43394960"/>
-        <updated>2023-11-25T17:36:01.626Z</updated>
-        <content type="html"><![CDATA[09:47]]></content>
     </entry>
 </feed>
