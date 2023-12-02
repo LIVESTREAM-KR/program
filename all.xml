@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T17:36:02.117Z</updated>
+    <updated>2023-12-02T05:35:59.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 모든 것에 진심이던 시절✨ 끝나지 않은 활약상~🤭 (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[07:45]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] '진짜'가 나타났다! ＜스우파2＞ 리더즈의 형님학교 입성↗ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/43725298</id>
+        <link href="https://tv.naver.com/v/43725298"/>
+        <updated>2023-12-02T05:35:59.304Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[선공개] 센 언니들이 다시 모였다!! 스우파2 리더즈 'Smoke + Chili' 리허설 캠♬ (아는 형님)]]></title>
         <id>https://tv.naver.com/v/43642644</id>
         <link href="https://tv.naver.com/v/43642644"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/43395617"/>
         <updated>2023-11-25T17:36:07.693Z</updated>
         <content type="html"><![CDATA[02:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈터의 귀여운 투정에도 극단적 이별을 고하는 이진호😱 | JTBC 231125 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/43395904</id>
-        <link href="https://tv.naver.com/v/43395904"/>
-        <updated>2023-11-25T17:36:07.695Z</updated>
-        <content type="html"><![CDATA[05:12]]></content>
     </entry>
 </feed>
