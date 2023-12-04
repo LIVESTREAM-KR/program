@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-04T05:36:13.678Z</updated>
+    <updated>2023-12-04T17:36:03.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 코미디 왕국의 레전드! 예능 대부와 받쓰 에이스(?)의 등장?!🤭 이경규 X 이창호 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/43818422</id>
+        <link href="https://tv.naver.com/v/43818422"/>
+        <updated>2023-12-04T17:35:56.689Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 찾아온 코미디 왕국의 로얄 패밀리?!👑 이경규 X 이창호🥳 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/43743955</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/43741699"/>
         <updated>2023-12-02T17:36:18.132Z</updated>
         <content type="html"><![CDATA[11:23]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈세븐틴 - 음악의 신♪〉 많이 쓰면 뭐해~! 맞혀야지↗!! | tvN 231202 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/43741351</id>
-        <link href="https://tv.naver.com/v/43741351"/>
-        <updated>2023-12-02T17:36:18.133Z</updated>
-        <content type="html"><![CDATA[10:18]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 아형 스튜디오에서 열린 스우파2 콘서트🔥 핫한 챌린지부터 '노래'까지 섭렵 완! | JTBC 231202 방송 (아는 형님)]]></title>
