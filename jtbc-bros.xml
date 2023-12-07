@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-12-06T17:36:21.124Z</updated>
+    <updated>2023-12-07T05:35:51.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 보컬의 신들을 모셔다가 ＜안녕 클레오파트라＞를 해보았습니다. 근데 이제 너무 잘하세요...😱]]></title>
+        <id>https://tv.naver.com/v/43960083</id>
+        <link href="https://tv.naver.com/v/43960083"/>
+        <updated>2023-12-07T05:35:50.973Z</updated>
+        <content type="html"><![CDATA[05:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 아형 스튜디오에서 열린 스우파2 콘서트🔥 핫한 챌린지부터 '노래'까지 섭렵 완! | JTBC 231202 방송]]></title>
         <id>https://tv.naver.com/v/43745201</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43741304"/>
         <updated>2023-12-02T17:36:23.327Z</updated>
         <content type="html"><![CDATA[07:12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[※화해 인증 완료※ 하나가 되어 추는 리아킴&미나명 페어 퍼포먼스 | JTBC 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43740832</id>
-        <link href="https://tv.naver.com/v/43740832"/>
-        <updated>2023-12-02T17:36:23.328Z</updated>
-        <content type="html"><![CDATA[01:00]]></content>
     </entry>
 </feed>
