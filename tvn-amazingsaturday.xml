@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-12-08T05:36:02.725Z</updated>
+    <updated>2023-12-08T17:35:55.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 한 끗 차이로 희비 교차!🤸‍♀️ 액션 대부님과 어질~한 간겜 타임🤣]]></title>
+        <id>https://tv.naver.com/v/44043527</id>
+        <link href="https://tv.naver.com/v/44043527"/>
+        <updated>2023-12-08T17:35:49.382Z</updated>
+        <content type="html"><![CDATA[03:57]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 충.격.실.화! 대부님 놀토 출연✨ 긴장한 신입 오른팔도 어서오시고~😎]]></title>
+        <id>https://tv.naver.com/v/44043526</id>
+        <link href="https://tv.naver.com/v/44043526"/>
+        <updated>2023-12-08T17:35:49.385Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 코미디 왕국의 레전드! 예능 대부와 받쓰 에이스(?)의 등장?!🤭 이경규 X 이창호]]></title>
         <id>https://tv.naver.com/v/43818422</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/43742668"/>
         <updated>2023-12-02T17:36:18.131Z</updated>
         <content type="html"><![CDATA[13:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[13년 만에 이뤄진 화★합★의★장 〈조권 X 키 - 아브라카다브라♪〉 | tvN 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43742023</id>
-        <link href="https://tv.naver.com/v/43742023"/>
-        <updated>2023-12-02T17:36:18.131Z</updated>
-        <content type="html"><![CDATA[08:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매번 붐청이에 당하면서 또 혹하는 호탕한 구매자 | tvN 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741699</id>
-        <link href="https://tv.naver.com/v/43741699"/>
-        <updated>2023-12-02T17:36:18.132Z</updated>
-        <content type="html"><![CDATA[11:23]]></content>
     </entry>
 </feed>
