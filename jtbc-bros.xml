@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-12-08T17:35:55.824Z</updated>
+    <updated>2023-12-09T05:35:51.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '무진이가 떨어졌어?!💥' 예비 800번대 받은 이무진에게 해명(?)하는 신연아 교수님😂]]></title>
+        <id>https://tv.naver.com/v/44064145</id>
+        <link href="https://tv.naver.com/v/44064145"/>
+        <updated>2023-12-09T05:35:50.356Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 보컬의 신들을 모셔다가 ＜안녕 클레오파트라＞를 해보았습니다. 근데 이제 너무 잘하세요...😱]]></title>
         <id>https://tv.naver.com/v/43960083</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/43741680"/>
         <updated>2023-12-02T17:36:23.325Z</updated>
         <content type="html"><![CDATA[12:56]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[찰지게 물 맞는 강호동에 감탄만 나오는 리더즈👍👍 | JTBC 231202 방송]]></title>
-        <id>https://tv.naver.com/v/43741304</id>
-        <link href="https://tv.naver.com/v/43741304"/>
-        <updated>2023-12-02T17:36:23.327Z</updated>
-        <content type="html"><![CDATA[07:12]]></content>
     </entry>
 </feed>
