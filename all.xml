@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-11T05:35:53.385Z</updated>
+    <updated>2023-12-11T17:36:05.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 2세대 아이돌의 정점! 열정 만수르와 리액션 장인이 돌아왔다✨ 동방신기 유노윤호 X 최강창민😎 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/44160967</id>
+        <link href="https://tv.naver.com/v/44160967"/>
+        <updated>2023-12-11T17:35:58.760Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[👑영원한 놀토의 보물! 소중한 동현의 생일을 축하해🥳 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/44083560</id>
@@ -68,11 +75,11 @@
         <content type="html"><![CDATA[07:53]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오카상 도망갈 듯ㅠㅠ 지브리 잘못 삼킨 이창호 개인기 | tvN 231209 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/44081890</id>
-        <link href="https://tv.naver.com/v/44081890"/>
-        <updated>2023-12-09T17:36:21.789Z</updated>
-        <content type="html"><![CDATA[12:00]]></content>
+        <title type="html"><![CDATA[에스파, 포켓몬 잡으러 일산 호수공원에 등장★ 우리도 손민수 가능? (ㅇㅇ 당연) | JTBC 231125 방송 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/44181204</id>
+        <link href="https://tv.naver.com/v/44181204"/>
+        <updated>2023-12-11T17:36:04.507Z</updated>
+        <content type="html"><![CDATA[05:48]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 진정한 '음악의 신'을 뽑는 본격 노래 대결 ＜아는 가수다＞♬ | JTBC 231209 방송 (아는 형님)]]></title>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/44080254"/>
         <updated>2023-12-09T17:36:27.644Z</updated>
         <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음을 촉촉하게 녹여주는💕 감성 발라더 박재정의 〈내 마음에 비친 내 모습〉♪ | JTBC 231209 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/44080252</id>
-        <link href="https://tv.naver.com/v/44080252"/>
-        <updated>2023-12-09T17:36:27.645Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>

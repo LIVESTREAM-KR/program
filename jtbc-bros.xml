@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-12-11T05:35:53.384Z</updated>
+    <updated>2023-12-11T17:36:05.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스파, 포켓몬 잡으러 일산 호수공원에 등장★ 우리도 손민수 가능? (ㅇㅇ 당연) | JTBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/44181204</id>
+        <link href="https://tv.naver.com/v/44181204"/>
+        <updated>2023-12-11T17:36:04.507Z</updated>
+        <content type="html"><![CDATA[05:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 진정한 '음악의 신'을 뽑는 본격 노래 대결 ＜아는 가수다＞♬ | JTBC 231209 방송]]></title>
         <id>https://tv.naver.com/v/44090246</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44080254"/>
         <updated>2023-12-09T17:36:27.644Z</updated>
         <content type="html"><![CDATA[04:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음을 촉촉하게 녹여주는💕 감성 발라더 박재정의 〈내 마음에 비친 내 모습〉♪ | JTBC 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44080252</id>
-        <link href="https://tv.naver.com/v/44080252"/>
-        <updated>2023-12-09T17:36:27.645Z</updated>
-        <content type="html"><![CDATA[04:06]]></content>
     </entry>
 </feed>
