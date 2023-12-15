@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-12-15T05:35:43.425Z</updated>
+    <updated>2023-12-15T17:35:51.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 모두의 취향을 저격한 간식?💘 밈 박사들 다 드루와~🤓]]></title>
+        <id>https://tv.naver.com/v/44395477</id>
+        <link href="https://tv.naver.com/v/44395477"/>
+        <updated>2023-12-15T17:35:45.520Z</updated>
+        <content type="html"><![CDATA[04:00]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 동방신기와 뒷방신기(?)의 환상적인 무대❣ 진한 감동의 도가니탕😭]]></title>
+        <id>https://tv.naver.com/v/44395475</id>
+        <link href="https://tv.naver.com/v/44395475"/>
+        <updated>2023-12-15T17:35:45.526Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2세대 아이돌의 정점! 열정 만수르와 리액션 장인이 돌아왔다✨ 동방신기 유노윤호 X 최강창민😎]]></title>
         <id>https://tv.naver.com/v/44160967</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/44082924"/>
         <updated>2023-12-09T17:36:21.786Z</updated>
         <content type="html"><![CDATA[07:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대부님 VS 오른팔] 숨 좀 덜 막히는 놀토 간겜 결승전 | tvN 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44082569</id>
-        <link href="https://tv.naver.com/v/44082569"/>
-        <updated>2023-12-09T17:36:21.787Z</updated>
-        <content type="html"><![CDATA[06:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너무 EZ하게 맞혀서 간식 반납하는 이경규 클라스- | tvN 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44082389</id>
-        <link href="https://tv.naver.com/v/44082389"/>
-        <updated>2023-12-09T17:36:21.788Z</updated>
-        <content type="html"><![CDATA[07:53]]></content>
     </entry>
 </feed>
