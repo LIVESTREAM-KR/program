@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-12-15T17:35:51.970Z</updated>
+    <updated>2023-12-16T05:36:05.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 콩트의 신 '이수근-이진호-김기욱'이 뭉치면 레전드 「무협 깔깔이」 한 편 뚝딱😆]]></title>
+        <id>https://tv.naver.com/v/44415003</id>
+        <link href="https://tv.naver.com/v/44415003"/>
+        <updated>2023-12-16T05:36:04.841Z</updated>
+        <content type="html"><![CDATA[04:57]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】정답 맞히라 했더니 그냥 아무나 다 말하는 동기즈의 ＜콜 마이 네임＞ 게임 현장ㅋㅋㅋ]]></title>
         <id>https://tv.naver.com/v/44310013</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44080280"/>
         <updated>2023-12-09T17:36:27.641Z</updated>
         <content type="html"><![CDATA[04:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노래방 여심 독점💓 파워풀한 빅마마의 가창력 〈거위의 꿈〉♪ | JTBC 231209 방송]]></title>
-        <id>https://tv.naver.com/v/44080384</id>
-        <link href="https://tv.naver.com/v/44080384"/>
-        <updated>2023-12-09T17:36:27.643Z</updated>
-        <content type="html"><![CDATA[06:23]]></content>
     </entry>
 </feed>
