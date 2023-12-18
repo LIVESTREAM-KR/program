@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-18T05:35:57.091Z</updated>
+    <updated>2023-12-18T17:36:06.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 크리스마스 선물 같은 탱키의 친구들❤️ 음색 천재 이창섭 X 헤이즈 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/44513329</id>
+        <link href="https://tv.naver.com/v/44513329"/>
+        <updated>2023-12-18T17:36:00.219Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 크리스마스가 찾아온 놀토에🎄산타의 선물 같은 친구들이 떴다! 이창섭 X 헤이즈🎁 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/44434866</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/44432931"/>
         <updated>2023-12-16T17:35:53.137Z</updated>
         <content type="html"><![CDATA[11:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[키어로가 징역 10년 받은 영상 〈태민 - 길티♪〉 유죄 인간 키버미 | tvN 231216 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/44432169</id>
-        <link href="https://tv.naver.com/v/44432169"/>
-        <updated>2023-12-16T17:35:53.139Z</updated>
-        <content type="html"><![CDATA[11:02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 여기 개그맨 공채시험장 아닌가요? 노래 빼고 다~하는 「아는 노래자랑♪」 | JTBC 231216 방송 (아는 형님)]]></title>
