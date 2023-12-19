@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2023-12-18T17:36:06.850Z</updated>
+    <updated>2023-12-19T05:35:49.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[FULL 버전] 미방분 공개! 에스파 집중력 풀가동🔥 '레이드배틀' 승리를 위한 집념의 광클! | JTBC 231125 방송]]></title>
+        <id>https://tv.naver.com/v/44540197</id>
+        <link href="https://tv.naver.com/v/44540197"/>
+        <updated>2023-12-19T05:35:49.170Z</updated>
+        <content type="html"><![CDATA[09:09]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 여기 개그맨 공채시험장 아닌가요? 노래 빼고 다~하는 「아는 노래자랑♪」 | JTBC 231216 방송]]></title>
         <id>https://tv.naver.com/v/44438284</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44431867"/>
         <updated>2023-12-16T17:35:58.657Z</updated>
         <content type="html"><![CDATA[08:30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제서야 해명하는 김신영-심진화 결혼식 불화설의 진실🤣 | JTBC 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44431986</id>
-        <link href="https://tv.naver.com/v/44431986"/>
-        <updated>2023-12-16T17:35:58.658Z</updated>
-        <content type="html"><![CDATA[08:17]]></content>
     </entry>
 </feed>
