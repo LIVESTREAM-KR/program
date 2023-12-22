@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-12-22T05:35:49.301Z</updated>
+    <updated>2023-12-22T17:36:08.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이걸 어떻게 이겨!🙀 정답보다 어려운 센스 오답 배틀 시작이요~🎵]]></title>
+        <id>https://tv.naver.com/v/44736066</id>
+        <link href="https://tv.naver.com/v/44736066"/>
+        <updated>2023-12-22T17:36:01.560Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 음색 천재들이 왔어요🎈 찐친 케미 가보자고~👩🏼‍🤝‍👩🏻]]></title>
+        <id>https://tv.naver.com/v/44736060</id>
+        <link href="https://tv.naver.com/v/44736060"/>
+        <updated>2023-12-22T17:36:01.561Z</updated>
+        <content type="html"><![CDATA[04:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 크리스마스 선물 같은 탱키의 친구들❤️ 음색 천재 이창섭 X 헤이즈]]></title>
         <id>https://tv.naver.com/v/44513329</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/44433574"/>
         <updated>2023-12-16T17:35:53.134Z</updated>
         <content type="html"><![CDATA[05:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[★최신 짤 등장★ 민시둥절 짤의 출처는? | tvN 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44433223</id>
-        <link href="https://tv.naver.com/v/44433223"/>
-        <updated>2023-12-16T17:35:53.136Z</updated>
-        <content type="html"><![CDATA[09:04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태민아 나 진짜 봤어ㅠㅠ 이 악물고 정답 맞히는 키어로 | tvN 231216 방송]]></title>
-        <id>https://tv.naver.com/v/44432931</id>
-        <link href="https://tv.naver.com/v/44432931"/>
-        <updated>2023-12-16T17:35:53.137Z</updated>
-        <content type="html"><![CDATA[11:19]]></content>
     </entry>
 </feed>
