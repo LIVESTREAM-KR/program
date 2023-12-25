@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2023-12-25T05:35:40.981Z</updated>
+    <updated>2023-12-25T17:36:05.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 매력 BAAM🔥쭈니형과 놀토 찐가족 태우의 등장!🙌 god 박준형 X 김태우]]></title>
+        <id>https://tv.naver.com/v/44825772</id>
+        <link href="https://tv.naver.com/v/44825772"/>
+        <updated>2023-12-25T17:35:59.065Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 여러 ‘갓’들이 가득한 놀토에 👑 god의 큰형과 막내 등판?🤭 박준형 X 김태우]]></title>
         <id>https://tv.naver.com/v/44774380</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/44772669"/>
         <updated>2023-12-23T17:35:56.587Z</updated>
         <content type="html"><![CDATA[09:36]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막힌 귀도 뚫리게 해주는 해병대? 〈잔나비 - 메이드 인 크리스마스♪〉 | tvN 231223 방송]]></title>
-        <id>https://tv.naver.com/v/44772053</id>
-        <link href="https://tv.naver.com/v/44772053"/>
-        <updated>2023-12-23T17:35:56.589Z</updated>
-        <content type="html"><![CDATA[09:24]]></content>
     </entry>
 </feed>
