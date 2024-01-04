@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-03T17:54:40.507Z</updated>
+    <updated>2024-01-04T05:35:51.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 2024년 시작을 빛내 줄 청소광과 놀토 찐 가족이 떴다🌟 브라이언 X 규현 (놀라운 토요일)]]></title>
@@ -75,6 +75,20 @@
         <content type="html"><![CDATA[09:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아는 형님 1월 전학생 라인업 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/45241413</id>
+        <link href="https://tv.naver.com/v/45241413"/>
+        <updated>2024-01-04T05:35:51.038Z</updated>
+        <content type="html"><![CDATA[00:47]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【형친소】전생엔 한복 입었던 장채커플🧡 교복 입고 아형에서 게임을?! 남궁민X안은진의 콜 마이 네임 현장✨ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/45237306</id>
+        <link href="https://tv.naver.com/v/45237306"/>
+        <updated>2024-01-04T05:35:51.039Z</updated>
+        <content type="html"><![CDATA[03:53]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 크리스마스의 축복 끝이 없네...✨ 스타쉽 가좍↗들이 직접 말아주는 선물 같은 캐럴 메들리❄ | JTBC 231223 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/44776302</id>
         <link href="https://tv.naver.com/v/44776302"/>
@@ -129,19 +143,5 @@
         <link href="https://tv.naver.com/v/44772693"/>
         <updated>2023-12-23T17:36:02.508Z</updated>
         <content type="html"><![CDATA[06:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아기 산타들의 깜짝선물💝 레이·리즈·이서의 〈Santa baby〉♬ | JTBC 231223 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/44772646</id>
-        <link href="https://tv.naver.com/v/44772646"/>
-        <updated>2023-12-23T17:36:02.509Z</updated>
-        <content type="html"><![CDATA[06:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모르는 게 뭐야? 출석률 100% 형준이가 말아주는 댄스 챌린지 | JTBC 231223 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/44772322</id>
-        <link href="https://tv.naver.com/v/44772322"/>
-        <updated>2023-12-23T17:36:02.510Z</updated>
-        <content type="html"><![CDATA[03:18]]></content>
     </entry>
 </feed>
