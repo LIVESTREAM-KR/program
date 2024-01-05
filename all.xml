@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-05T05:35:46.693Z</updated>
+    <updated>2024-01-05T17:36:35.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 에브리데이 '붐붐'~🎵 뭘 좋아할지 몰라서 내가 나와봤어😉 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/45320962</id>
+        <link href="https://tv.naver.com/v/45320962"/>
+        <updated>2024-01-05T17:36:29.378Z</updated>
+        <content type="html"><![CDATA[04:02]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 세트장 A/S 안 하나요?😷 놀토도 통과 못한 청소광의 청결 테스트!? (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/45320961</id>
+        <link href="https://tv.naver.com/v/45320961"/>
+        <updated>2024-01-05T17:36:29.379Z</updated>
+        <content type="html"><![CDATA[04:37]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 2024년 시작을 빛내 줄 청소광과 놀토 찐 가족이 떴다🌟 브라이언 X 규현 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/45115123</id>
@@ -59,20 +73,6 @@
         <link href="https://tv.naver.com/v/45063356"/>
         <updated>2023-12-30T17:35:51.900Z</updated>
         <content type="html"><![CDATA[13:18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 어김없는 직진 언행ㅋㅋㅋ 쭈니 형, 간식 게임하다 탈퇴 언급한 이유 | tvN 231230 방 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45063511</id>
-        <link href="https://tv.naver.com/v/45063511"/>
-        <updated>2023-12-30T17:35:51.901Z</updated>
-        <content type="html"><![CDATA[10:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쭈니 형이 잘못 들어도 괜찮아 든든한 막내 김태우가 있으니까 ^^ | tvN 231230 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45062401</id>
-        <link href="https://tv.naver.com/v/45062401"/>
-        <updated>2023-12-30T17:35:51.903Z</updated>
-        <content type="html"><![CDATA[09:54]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아는 형님 1월 전학생 라인업 (아는 형님)]]></title>
