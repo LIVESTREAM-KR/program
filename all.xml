@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-08T05:35:48.929Z</updated>
+    <updated>2024-01-08T17:35:59.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 베테랑 동욱과 첫 방문에 놀며든 혜준까지!? 치명적인 두 배우🎵 이동욱 X 김혜준 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/45428016</id>
+        <link href="https://tv.naver.com/v/45428016"/>
+        <updated>2024-01-08T17:35:53.277Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 수상한 놀토 쇼핑몰에🛒 ＜킬러들의 쇼핑몰＞ 배우들의 등장이라..❣ 이동욱 X 김혜준 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/45358153</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/45356115"/>
         <updated>2024-01-06T17:36:19.923Z</updated>
         <content type="html"><![CDATA[12:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국에서 학교를 안 다녔는데 어떻게 봐요 ^_ㅠ | tvN 240106 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45355468</id>
-        <link href="https://tv.naver.com/v/45355468"/>
-        <updated>2024-01-06T17:36:19.925Z</updated>
-        <content type="html"><![CDATA[14:31]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 어쩌면 이 사람이 나의 연인? 남궁민보다 더 훅- 들어오는 서장훈표 조선 멜로에 혼란 온 '길채' 안은진😲 | JTBC 240106 방송 (아는 형님)]]></title>

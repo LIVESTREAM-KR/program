@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-01-08T05:35:48.939Z</updated>
+    <updated>2024-01-08T17:35:59.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 베테랑 동욱과 첫 방문에 놀며든 혜준까지!? 치명적인 두 배우🎵 이동욱 X 김혜준]]></title>
+        <id>https://tv.naver.com/v/45428016</id>
+        <link href="https://tv.naver.com/v/45428016"/>
+        <updated>2024-01-08T17:35:53.277Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 수상한 놀토 쇼핑몰에🛒 ＜킬러들의 쇼핑몰＞ 배우들의 등장이라..❣ 이동욱 X 김혜준]]></title>
         <id>https://tv.naver.com/v/45358153</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45356115"/>
         <updated>2024-01-06T17:36:19.923Z</updated>
         <content type="html"><![CDATA[12:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국에서 학교를 안 다녔는데 어떻게 봐요 ^_ㅠ | tvN 240106 방송]]></title>
-        <id>https://tv.naver.com/v/45355468</id>
-        <link href="https://tv.naver.com/v/45355468"/>
-        <updated>2024-01-06T17:36:19.925Z</updated>
-        <content type="html"><![CDATA[14:31]]></content>
     </entry>
 </feed>
