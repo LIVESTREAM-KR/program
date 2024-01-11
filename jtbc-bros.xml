@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-10T17:36:06.316Z</updated>
+    <updated>2024-01-11T05:35:57.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】데뷔 20년 차 동방신기가 풀어보는 SM 동료들의 이모지 퀴즈 ❤️‍🔥]]></title>
+        <id>https://tv.naver.com/v/45570728</id>
+        <link href="https://tv.naver.com/v/45570728"/>
+        <updated>2024-01-11T05:35:56.538Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아형✪하이라이트] 어쩌면 이 사람이 나의 연인? 남궁민보다 더 훅- 들어오는 서장훈표 조선 멜로에 혼란 온 '길채' 안은진😲 | JTBC 240106 방송]]></title>
         <id>https://tv.naver.com/v/45353804</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45351331"/>
         <updated>2024-01-06T17:36:25.082Z</updated>
         <content type="html"><![CDATA[02:25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(성덕👍) 최애 뉴진스 하니에게 '5초 눈맞춤' 인정받은 안은진 | JTBC 240106 방송]]></title>
-        <id>https://tv.naver.com/v/45351329</id>
-        <link href="https://tv.naver.com/v/45351329"/>
-        <updated>2024-01-06T17:36:25.083Z</updated>
-        <content type="html"><![CDATA[06:25]]></content>
     </entry>
 </feed>
