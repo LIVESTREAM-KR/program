@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-01-12T05:36:15.079Z</updated>
+    <updated>2024-01-12T17:36:02.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] “저 친구의 작품을 챙겨보지 않습니다.” 세호 문제 빼고 다 맞히는 동욱😏]]></title>
+        <id>https://tv.naver.com/v/45655391</id>
+        <link href="https://tv.naver.com/v/45655391"/>
+        <updated>2024-01-12T17:35:57.124Z</updated>
+        <content type="html"><![CDATA[04:34]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 4번째 출연이면 도레미지🤗 최다 출연 기록 깨러 가보자고~🖤]]></title>
+        <id>https://tv.naver.com/v/45655389</id>
+        <link href="https://tv.naver.com/v/45655389"/>
+        <updated>2024-01-12T17:35:57.126Z</updated>
+        <content type="html"><![CDATA[03:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 베테랑 동욱과 첫 방문에 놀며든 혜준까지!? 치명적인 두 배우🎵 이동욱 X 김혜준]]></title>
         <id>https://tv.naver.com/v/45428016</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/45356811"/>
         <updated>2024-01-06T17:36:19.921Z</updated>
         <content type="html"><![CDATA[07:52]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하에서 위층까지 벨이 울릴 때까지 봐야할 〈키 - 엘리베이터♪〉 | tvN 240106 방송]]></title>
-        <id>https://tv.naver.com/v/45356506</id>
-        <link href="https://tv.naver.com/v/45356506"/>
-        <updated>2024-01-06T17:36:19.922Z</updated>
-        <content type="html"><![CDATA[10:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한달마가 예언한 2024년 청룡의 해 첫 받쓰 大실패? | tvN 240106 방송]]></title>
-        <id>https://tv.naver.com/v/45356115</id>
-        <link href="https://tv.naver.com/v/45356115"/>
-        <updated>2024-01-06T17:36:19.923Z</updated>
-        <content type="html"><![CDATA[12:13]]></content>
     </entry>
 </feed>
