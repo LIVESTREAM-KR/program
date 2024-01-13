@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-12T17:36:02.956Z</updated>
+    <updated>2024-01-13T05:35:55.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '대충'에겐 가차 없던 시절ㅋㅋ 20년 지기 동방신기의 첫 만남.SSUL]]></title>
+        <id>https://tv.naver.com/v/45674478</id>
+        <link href="https://tv.naver.com/v/45674478"/>
+        <updated>2024-01-13T05:35:55.034Z</updated>
+        <content type="html"><![CDATA[05:10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 데뷔 20주년 축하한다💥 동방신기가 말아주는 'Down+주문+Rising Sun+Rebel' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/45593749</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45351453"/>
         <updated>2024-01-06T17:36:25.079Z</updated>
         <content type="html"><![CDATA[08:53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[길채(=안은진)가 감탄한 이상민의 '유길채' 삼행시ㅋㅋ | JTBC 240106 방송]]></title>
-        <id>https://tv.naver.com/v/45351332</id>
-        <link href="https://tv.naver.com/v/45351332"/>
-        <updated>2024-01-06T17:36:25.081Z</updated>
-        <content type="html"><![CDATA[05:24]]></content>
     </entry>
 </feed>
