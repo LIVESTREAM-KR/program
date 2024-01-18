@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-18T05:35:59.167Z</updated>
+    <updated>2024-01-18T17:35:56.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 레전드의 귀환💥 11년 만에 뭉친 씨스타19 'Ma Boy+있다 없으니까+나혼자' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/45922932</id>
+        <link href="https://tv.naver.com/v/45922932"/>
+        <updated>2024-01-18T17:35:56.136Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】＂타~이 웨이브에🔥＂ 무근본으로 끝나버린 규현x효린x보라의 인터뷰 ㅋㅋㅋ]]></title>
         <id>https://tv.naver.com/v/45896480</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45695731"/>
         <updated>2024-01-13T17:36:20.483Z</updated>
         <content type="html"><![CDATA[07:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['SM 대선배' 유노윤호의 PICK! 동방신기를 뛰어넘을 것 같은 후배는? | JTBC 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45695393</id>
-        <link href="https://tv.naver.com/v/45695393"/>
-        <updated>2024-01-13T17:36:20.485Z</updated>
-        <content type="html"><![CDATA[06:08]]></content>
     </entry>
 </feed>
