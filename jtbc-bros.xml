@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-17T17:36:09.923Z</updated>
+    <updated>2024-01-18T05:35:59.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】＂타~이 웨이브에🔥＂ 무근본으로 끝나버린 규현x효린x보라의 인터뷰 ㅋㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/45896480</id>
+        <link href="https://tv.naver.com/v/45896480"/>
+        <updated>2024-01-18T05:35:58.571Z</updated>
+        <content type="html"><![CDATA[04:15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돌아온 댄스 황태자 '유노윤호'의 폭풍 댄스 타임❤️ | JTBC 240113 방송]]></title>
         <id>https://tv.naver.com/v/45696542</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45695393"/>
         <updated>2024-01-13T17:36:20.485Z</updated>
         <content type="html"><![CDATA[06:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20년이 지나도 절대 잊을 수 없는 동방신기 첫 데뷔 무대✨ | JTBC 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45695392</id>
-        <link href="https://tv.naver.com/v/45695392"/>
-        <updated>2024-01-13T17:36:20.486Z</updated>
-        <content type="html"><![CDATA[07:56]]></content>
     </entry>
 </feed>
