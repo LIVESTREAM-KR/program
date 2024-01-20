@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-19T17:35:54.547Z</updated>
+    <updated>2024-01-20T05:35:50.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 'SM 호동' 떠나 '안테나 재석' 선택?! 규현이 말하는 소속사 이적 이유 ((호동:💦))]]></title>
+        <id>https://tv.naver.com/v/45997108</id>
+        <link href="https://tv.naver.com/v/45997108"/>
+        <updated>2024-01-20T05:35:50.044Z</updated>
+        <content type="html"><![CDATA[04:56]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 레전드의 귀환💥 11년 만에 뭉친 씨스타19 'Ma Boy+있다 없으니까+나혼자' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/45922932</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/45695592"/>
         <updated>2024-01-13T17:36:20.482Z</updated>
         <content type="html"><![CDATA[02:24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂이름 너무 창피하다고!＂😭 30대 중반이 된 '최강'창민의 하소연ㅋㅋ; | JTBC 240113 방송]]></title>
-        <id>https://tv.naver.com/v/45695731</id>
-        <link href="https://tv.naver.com/v/45695731"/>
-        <updated>2024-01-13T17:36:20.483Z</updated>
-        <content type="html"><![CDATA[07:57]]></content>
     </entry>
 </feed>
