@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-22T05:37:05.572Z</updated>
+    <updated>2024-01-22T17:35:56.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 숨겨둔 흥 방출?!🤣 댕댕미 넘치는 두 배우의 놀토 방문기✨ 김서형 X 이현우 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/46086879</id>
+        <link href="https://tv.naver.com/v/46086879"/>
+        <updated>2024-01-22T17:35:49.898Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 동물 친구들이 함께하는 놀토에👀 댕며드는 매력의 두 배우 등장!🐶 김서형 X 이현우 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/45694738</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/45692155"/>
         <updated>2024-01-13T17:36:15.475Z</updated>
         <content type="html"><![CDATA[10:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀토 베테랑 이동욱! 역시 폼이 다르다…⭐ ＜자이언티-낫 포 세일♪＞ | tvN 240113 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45691648</id>
-        <link href="https://tv.naver.com/v/45691648"/>
-        <updated>2024-01-13T17:36:15.476Z</updated>
-        <content type="html"><![CDATA[08:59]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[네 노래를 왜 몰라요?! 본인 노래 못 알아보는 가수 '규현'😂 | JTBC 240120 방송 (아는 형님)]]></title>
