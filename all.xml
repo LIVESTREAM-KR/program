@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T17:36:56.354Z</updated>
+    <updated>2024-01-25T05:36:08.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 숨겨둔 흥 방출?!🤣 댕댕미 넘치는 두 배우의 놀토 방문기✨ 김서형 X 이현우 (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[10:37]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】대기실에서 ＜몸으로 말해요＞ 하는 🌟 T1🌟  실존... (feat.K-POP) (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/46231795</id>
+        <link href="https://tv.naver.com/v/46231795"/>
+        <updated>2024-01-25T05:36:08.104Z</updated>
+        <content type="html"><![CDATA[04:54]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[네 노래를 왜 몰라요?! 본인 노래 못 알아보는 가수 '규현'😂 | JTBC 240120 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/46017406</id>
         <link href="https://tv.naver.com/v/46017406"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/46016655"/>
         <updated>2024-01-20T17:35:41.412Z</updated>
         <content type="html"><![CDATA[03:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈그렇지 않아〉 EDM 버전 탄생 완-😎 어떻게든 규현 놀리는 형님들ㅋㅋ | JTBC 240120 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/46016503</id>
-        <link href="https://tv.naver.com/v/46016503"/>
-        <updated>2024-01-20T17:35:41.412Z</updated>
-        <content type="html"><![CDATA[04:35]]></content>
     </entry>
 </feed>
