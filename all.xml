@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-26T05:36:25.082Z</updated>
+    <updated>2024-01-26T17:38:18.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 플러팅 선수들 모임?!✨ 갑분 붐러팅에 심벌즈 원숭이 등장~🐵 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/46312755</id>
+        <link href="https://tv.naver.com/v/46312755"/>
+        <updated>2024-01-26T17:38:12.134Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] ??: 마이크 찰 때도 계속 웃으시더라고요😊 받쓰보다 다른 것들에(?) 관심 많은 배우들😎 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/46312753</id>
+        <link href="https://tv.naver.com/v/46312753"/>
+        <updated>2024-01-26T17:38:12.134Z</updated>
+        <content type="html"><![CDATA[03:40]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 숨겨둔 흥 방출?!🤣 댕댕미 넘치는 두 배우의 놀토 방문기✨ 김서형 X 이현우 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/46086879</id>
@@ -59,20 +73,6 @@
         <link href="https://tv.naver.com/v/45693029"/>
         <updated>2024-01-13T17:36:15.472Z</updated>
         <content type="html"><![CDATA[08:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스무스하게 정답 외치는 이동욱... 이 남자.. 못 하는 게 뭐임;;? | tvN 240113 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45692750</id>
-        <link href="https://tv.naver.com/v/45692750"/>
-        <updated>2024-01-13T17:36:15.474Z</updated>
-        <content type="html"><![CDATA[08:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[붐 X 키 뇌트워크 뭐야…? 둘이 짰지? 엄청난 힌트 퍼포먼스ㅋㅋㅋ🤣 | tvN 240113 방송 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/45692155</id>
-        <link href="https://tv.naver.com/v/45692155"/>
-        <updated>2024-01-13T17:36:15.475Z</updated>
-        <content type="html"><![CDATA[10:37]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】대기실에서 ＜몸으로 말해요＞ 하는 🌟 T1🌟  실존... (feat.K-POP) (아는 형님)]]></title>
