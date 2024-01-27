@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-26T17:38:18.436Z</updated>
+    <updated>2024-01-27T05:36:24.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '헤어롤 협곡에 오신 것을 환영합니다' T1의 헤어롤드컵(???) 실력은?!]]></title>
+        <id>https://tv.naver.com/v/46332267</id>
+        <link href="https://tv.naver.com/v/46332267"/>
+        <updated>2024-01-27T05:36:23.875Z</updated>
+        <content type="html"><![CDATA[02:52]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 롤알못 형님들을 위한 'T1'이 말아주는 롤 기초 상식✨ (ft 희철의 롤 백과)]]></title>
+        <id>https://tv.naver.com/v/46332066</id>
+        <link href="https://tv.naver.com/v/46332066"/>
+        <updated>2024-01-27T05:36:23.875Z</updated>
+        <content type="html"><![CDATA[04:26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】대기실에서 ＜몸으로 말해요＞ 하는 🌟 T1🌟  실존... (feat.K-POP)]]></title>
         <id>https://tv.naver.com/v/46231795</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46016691"/>
         <updated>2024-01-20T17:35:41.406Z</updated>
         <content type="html"><![CDATA[02:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[씨스타19 신곡 〈No more (Ma Boy)〉 제목 만들기! 효린x보라의 선택은? | JTBC 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46016690</id>
-        <link href="https://tv.naver.com/v/46016690"/>
-        <updated>2024-01-20T17:35:41.412Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(희귀 영상.mov) 아형 최초 발라드 립싱크🎤 규현의 신곡 〈그렇지 않아〉♪ | JTBC 240120 방송]]></title>
-        <id>https://tv.naver.com/v/46016655</id>
-        <link href="https://tv.naver.com/v/46016655"/>
-        <updated>2024-01-20T17:35:41.412Z</updated>
-        <content type="html"><![CDATA[03:02]]></content>
     </entry>
 </feed>
