@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-29T05:36:44.205Z</updated>
+    <updated>2024-01-29T17:36:03.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 300회 맞이🥳 완전체 도레미와 함께하는 마피아 받쓰!🤫 과연 승자는 누구?! (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/46418683</id>
+        <link href="https://tv.naver.com/v/46418683"/>
+        <updated>2024-01-29T17:35:57.291Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토 300회 특집💛 역대급 상품을 건 도레미들의 마피아 받쓰💥 범인은 이 안에 있어🤫 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/46351270</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/46312753"/>
         <updated>2024-01-26T17:38:12.134Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 숨겨둔 흥 방출?!🤣 댕댕미 넘치는 두 배우의 놀토 방문기✨ 김서형 X 이현우 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/46086879</id>
-        <link href="https://tv.naver.com/v/46086879"/>
-        <updated>2024-01-22T17:35:49.898Z</updated>
-        <content type="html"><![CDATA[00:33]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대. 상. 혁 Roll 감기 컨트롤 실패💦 1초 만에 뚝 끊겨버린 휴지ㅋㅋ | JTBC 240127 방송 (아는 형님)]]></title>

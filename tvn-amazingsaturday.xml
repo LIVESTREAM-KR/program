@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-01-29T05:36:44.203Z</updated>
+    <updated>2024-01-29T17:36:03.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 300회 맞이🥳 완전체 도레미와 함께하는 마피아 받쓰!🤫 과연 승자는 누구?!]]></title>
+        <id>https://tv.naver.com/v/46418683</id>
+        <link href="https://tv.naver.com/v/46418683"/>
+        <updated>2024-01-29T17:35:57.291Z</updated>
+        <content type="html"><![CDATA[00:33]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토 300회 특집💛 역대급 상품을 건 도레미들의 마피아 받쓰💥 범인은 이 안에 있어🤫]]></title>
         <id>https://tv.naver.com/v/46351270</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46312753"/>
         <updated>2024-01-26T17:38:12.134Z</updated>
         <content type="html"><![CDATA[03:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 숨겨둔 흥 방출?!🤣 댕댕미 넘치는 두 배우의 놀토 방문기✨ 김서형 X 이현우]]></title>
-        <id>https://tv.naver.com/v/46086879</id>
-        <link href="https://tv.naver.com/v/46086879"/>
-        <updated>2024-01-22T17:35:49.898Z</updated>
-        <content type="html"><![CDATA[00:33]]></content>
     </entry>
 </feed>
