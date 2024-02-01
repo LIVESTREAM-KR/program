@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-01-31T17:36:14.566Z</updated>
+    <updated>2024-02-01T05:36:45.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞]]></title>
+        <id>https://tv.naver.com/v/46558386</id>
+        <link href="https://tv.naver.com/v/46558386"/>
+        <updated>2024-02-01T05:36:44.497Z</updated>
+        <content type="html"><![CDATA[04:41]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대. 상. 혁 Roll 감기 컨트롤 실패💦 1초 만에 뚝 끊겨버린 휴지ㅋㅋ | JTBC 240127 방송]]></title>
         <id>https://tv.naver.com/v/46351745</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46350740"/>
         <updated>2024-01-27T17:36:02.520Z</updated>
         <content type="html"><![CDATA[03:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂스카우트 제의? 그런 거 없었어＂ 첫 시즌에 협곡 입성했던 페이커의 ☕ 시전 | JTBC 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46350783</id>
-        <link href="https://tv.naver.com/v/46350783"/>
-        <updated>2024-01-27T17:36:02.522Z</updated>
-        <content type="html"><![CDATA[07:11]]></content>
     </entry>
 </feed>
