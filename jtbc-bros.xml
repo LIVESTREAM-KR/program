@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-01T05:36:45.062Z</updated>
+    <updated>2024-02-01T17:35:56.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/46581920</id>
+        <link href="https://tv.naver.com/v/46581920"/>
+        <updated>2024-02-01T17:35:55.954Z</updated>
+        <content type="html"><![CDATA[01:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 슈퍼 히트곡 메이커✨ (여자)아이들의 '퀸카+LION+TOMBOY' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/46581705</id>
+        <link href="https://tv.naver.com/v/46581705"/>
+        <updated>2024-02-01T17:35:55.956Z</updated>
+        <content type="html"><![CDATA[02:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 ✨Super Lady✨들의 ＜몸으로 말해요＞]]></title>
         <id>https://tv.naver.com/v/46558386</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46350785"/>
         <updated>2024-01-27T17:36:02.517Z</updated>
         <content type="html"><![CDATA[05:14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이커 복귀 후 표정이 밝아졌던 선수들! 오너는 오히려 어두워졌다...?🙄 | JTBC 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46350743</id>
-        <link href="https://tv.naver.com/v/46350743"/>
-        <updated>2024-01-27T17:36:02.519Z</updated>
-        <content type="html"><![CDATA[06:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂쟤네들이 먼저 우승했구나＂ 2022년 롤드컵 결승 당시 폭풍 오열했던 케리아😥 | JTBC 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46350740</id>
-        <link href="https://tv.naver.com/v/46350740"/>
-        <updated>2024-01-27T17:36:02.520Z</updated>
-        <content type="html"><![CDATA[03:45]]></content>
     </entry>
 </feed>
