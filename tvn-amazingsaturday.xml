@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-02-02T05:35:57.134Z</updated>
+    <updated>2024-02-02T17:36:06.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 아침엔 OOO 필수던 내가~🎵 도레미와 함께하는 '아주 나이스'한 추억여행❣]]></title>
+        <id>https://tv.naver.com/v/46638868</id>
+        <link href="https://tv.naver.com/v/46638868"/>
+        <updated>2024-02-02T17:36:00.096Z</updated>
+        <content type="html"><![CDATA[05:24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 생긴 게(?) 마피아야!🤔 역대급 우승 상금의 주인공은 누구!?💰]]></title>
+        <id>https://tv.naver.com/v/46638864</id>
+        <link href="https://tv.naver.com/v/46638864"/>
+        <updated>2024-02-02T17:36:00.097Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 300회 맞이🥳 완전체 도레미와 함께하는 마피아 받쓰!🤫 과연 승자는 누구?!]]></title>
         <id>https://tv.naver.com/v/46418683</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46347811"/>
         <updated>2024-01-27T17:35:57.149Z</updated>
         <content type="html"><![CDATA[11:40]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 플러팅 선수들 모임?!✨ 갑분 붐러팅에 심벌즈 원숭이 등장~🐵]]></title>
-        <id>https://tv.naver.com/v/46312755</id>
-        <link href="https://tv.naver.com/v/46312755"/>
-        <updated>2024-01-26T17:38:12.134Z</updated>
-        <content type="html"><![CDATA[04:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] ??: 마이크 찰 때도 계속 웃으시더라고요😊 받쓰보다 다른 것들에(?) 관심 많은 배우들😎]]></title>
-        <id>https://tv.naver.com/v/46312753</id>
-        <link href="https://tv.naver.com/v/46312753"/>
-        <updated>2024-01-26T17:38:12.134Z</updated>
-        <content type="html"><![CDATA[03:40]]></content>
     </entry>
 </feed>
