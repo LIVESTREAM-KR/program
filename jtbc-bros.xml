@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-02T17:36:06.617Z</updated>
+    <updated>2024-02-03T05:35:42.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 불만이 있었는데? 없었습니다^_^ 살벌한 (여자)아이들의 파트 분배ㅋㅋ]]></title>
+        <id>https://tv.naver.com/v/46661324</id>
+        <link href="https://tv.naver.com/v/46661324"/>
+        <updated>2024-02-03T05:35:41.417Z</updated>
+        <content type="html"><![CDATA[05:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 콘셉트 장인 (여자)아이들의 화려한 귀환💥 'Super Lady' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/46581920</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46350786"/>
         <updated>2024-01-27T17:36:02.516Z</updated>
         <content type="html"><![CDATA[05:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 팀 중 유일하게 4강 진출했던 T1🔥 'JDG'와 경기 전 제오페구케의 마음은? | JTBC 240127 방송]]></title>
-        <id>https://tv.naver.com/v/46350785</id>
-        <link href="https://tv.naver.com/v/46350785"/>
-        <updated>2024-01-27T17:36:02.517Z</updated>
-        <content type="html"><![CDATA[05:14]]></content>
     </entry>
 </feed>
