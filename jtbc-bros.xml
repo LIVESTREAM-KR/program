@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-07T17:36:21.606Z</updated>
+    <updated>2024-02-08T05:35:46.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 ((산적에 단무지..넣어?  말아?)) 명절 기념 무 근본 토론으로 모십니다🙇‍♂️]]></title>
+        <id>https://tv.naver.com/v/46858552</id>
+        <link href="https://tv.naver.com/v/46858552"/>
+        <updated>2024-02-08T05:35:45.941Z</updated>
+        <content type="html"><![CDATA[06:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여왕에서 디바로 돌아온 (여자)아이들의 신곡 무대💗 〈Super Lady〉♪ | JTBC 240203 방송]]></title>
         <id>https://tv.naver.com/v/46678920</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46678471"/>
         <updated>2024-02-03T17:36:51.840Z</updated>
         <content type="html"><![CDATA[05:00]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미연은 지각 안 하는 날이 없다? 사과하면서 계속 늦는 이유가 궁금한 'T' 소연🤔 | JTBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46678443</id>
-        <link href="https://tv.naver.com/v/46678443"/>
-        <updated>2024-02-03T17:36:51.841Z</updated>
-        <content type="html"><![CDATA[04:38]]></content>
     </entry>
 </feed>
