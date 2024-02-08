@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-08T05:35:46.516Z</updated>
+    <updated>2024-02-08T17:36:01.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 또 한 번의 명곡 탄생💕 하이키의 신곡 'Thinkin' About You' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/46879353</id>
+        <link href="https://tv.naver.com/v/46879353"/>
+        <updated>2024-02-08T17:36:01.112Z</updated>
+        <content type="html"><![CDATA[01:11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '역주행 신화' 하이키의 그 곡🌹 '건물 사이에 피어난 장미' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/46878927</id>
+        <link href="https://tv.naver.com/v/46878927"/>
+        <updated>2024-02-08T17:36:01.113Z</updated>
+        <content type="html"><![CDATA[01:25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 ((산적에 단무지..넣어?  말아?)) 명절 기념 무 근본 토론으로 모십니다🙇‍♂️]]></title>
         <id>https://tv.naver.com/v/46858552</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46678738"/>
         <updated>2024-02-03T17:36:51.835Z</updated>
         <content type="html"><![CDATA[05:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂나 파트 없어져...＂ 사람 가려서 잔소리하는 (여자)아이들 '엄마' 민니ㅋㅋ | JTBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46678480</id>
-        <link href="https://tv.naver.com/v/46678480"/>
-        <updated>2024-02-03T17:36:51.837Z</updated>
-        <content type="html"><![CDATA[04:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🙏민니 소원 성취 성공🙏 (여자)아이들 멤버(+최PD) 모두 소연이에 집에 모여-! | JTBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46678471</id>
-        <link href="https://tv.naver.com/v/46678471"/>
-        <updated>2024-02-03T17:36:51.840Z</updated>
-        <content type="html"><![CDATA[05:00]]></content>
     </entry>
 </feed>
