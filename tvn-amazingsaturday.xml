@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-02-09T05:36:14.570Z</updated>
+    <updated>2024-02-09T17:36:52.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 어쩌면 입덕 부정기일지도...😲 밥 먹듯이 플러팅하는 선욱에 욱며드는 도레미들💘]]></title>
+        <id>https://tv.naver.com/v/46912617</id>
+        <link href="https://tv.naver.com/v/46912617"/>
+        <updated>2024-02-09T17:36:45.834Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 동현 형님하고 너무 똑같대요...😮 성격부터 포지션까지 똑닮은 동생들의 사연?😂]]></title>
+        <id>https://tv.naver.com/v/46912613</id>
+        <link href="https://tv.naver.com/v/46912613"/>
+        <updated>2024-02-09T17:36:45.835Z</updated>
+        <content type="html"><![CDATA[04:20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 둔둔한 설날에 놀토 즐기러 온 매력쟁이들😘 이호철 X 나선욱]]></title>
         <id>https://tv.naver.com/v/46743394</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/46676395"/>
         <updated>2024-02-03T17:36:46.024Z</updated>
         <content type="html"><![CDATA[11:26]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마피아 의심에 고장 난 탱구ㅋㅋㅋ  아 진짜 유치하게 싸우는 도레미들 볼 사람ㅋㅋㅋ🤣 | tvN 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46676147</id>
-        <link href="https://tv.naver.com/v/46676147"/>
-        <updated>2024-02-03T17:36:46.025Z</updated>
-        <content type="html"><![CDATA[09:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 아침엔 OOO 필수던 내가~🎵 도레미와 함께하는 '아주 나이스'한 추억여행❣]]></title>
-        <id>https://tv.naver.com/v/46638868</id>
-        <link href="https://tv.naver.com/v/46638868"/>
-        <updated>2024-02-02T17:36:00.096Z</updated>
-        <content type="html"><![CDATA[05:24]]></content>
     </entry>
 </feed>
