@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-09T17:36:52.599Z</updated>
+    <updated>2024-02-10T05:37:14.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 찐 X세대 인정👍 00년생(!) 윤가이의 완벽한 서울 사투리💥]]></title>
+        <id>https://tv.naver.com/v/46924507</id>
+        <link href="https://tv.naver.com/v/46924507"/>
+        <updated>2024-02-10T05:37:13.931Z</updated>
+        <content type="html"><![CDATA[04:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 또 한 번의 명곡 탄생💕 하이키의 신곡 'Thinkin' About You' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/46879353</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46678483"/>
         <updated>2024-02-03T17:36:51.834Z</updated>
         <content type="html"><![CDATA[02:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민니x우기에게 양다리 걸쳤던 남자가 있다?!🙊 멤버들을 지키기 위한 소연의 방안! | JTBC 240203 방송]]></title>
-        <id>https://tv.naver.com/v/46678738</id>
-        <link href="https://tv.naver.com/v/46678738"/>
-        <updated>2024-02-03T17:36:51.835Z</updated>
-        <content type="html"><![CDATA[05:35]]></content>
     </entry>
 </feed>
