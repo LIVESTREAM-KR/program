@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-02-12T05:36:04.932Z</updated>
+    <updated>2024-02-12T17:36:06.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 사이다 복수로 시청률 고공행진 중인 ＜내.남.결＞의 주인공✨ 박민영 X 나인우💕]]></title>
+        <id>https://tv.naver.com/v/46974381</id>
+        <link href="https://tv.naver.com/v/46974381"/>
+        <updated>2024-02-12T17:35:59.501Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 놀토에 강림한 ＜내 남편과 결혼해줘＞의 두 주인공💖 대세 of 대세! 박민영 X 나인우💎]]></title>
         <id>https://tv.naver.com/v/46934121</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46912613"/>
         <updated>2024-02-09T17:36:45.835Z</updated>
         <content type="html"><![CDATA[04:20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 둔둔한 설날에 놀토 즐기러 온 매력쟁이들😘 이호철 X 나선욱]]></title>
-        <id>https://tv.naver.com/v/46743394</id>
-        <link href="https://tv.naver.com/v/46743394"/>
-        <updated>2024-02-05T17:36:18.870Z</updated>
-        <content type="html"><![CDATA[00:34]]></content>
     </entry>
 </feed>
