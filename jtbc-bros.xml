@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-14T17:36:20.816Z</updated>
+    <updated>2024-02-15T05:37:06.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 🎵싱어게인3 TOP7🎵 아낌없이 다 퍼주는 무물현장🚨]]></title>
+        <id>https://tv.naver.com/v/47091223</id>
+        <link href="https://tv.naver.com/v/47091223"/>
+        <updated>2024-02-15T05:37:05.534Z</updated>
+        <content type="html"><![CDATA[11:01]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화음이 돋보이는 하이키의 신곡 〈Thinkin' About You〉♪ | JTBC 240210 방송]]></title>
         <id>https://tv.naver.com/v/46935670</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46935242"/>
         <updated>2024-02-10T17:36:29.895Z</updated>
         <content type="html"><![CDATA[01:35]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(경악) 강호동 옆에 있으니 더 작아 보이는 서이 얼굴😅 | JTBC 240210 방송]]></title>
-        <id>https://tv.naver.com/v/46935234</id>
-        <link href="https://tv.naver.com/v/46935234"/>
-        <updated>2024-02-10T17:36:29.897Z</updated>
-        <content type="html"><![CDATA[04:09]]></content>
     </entry>
 </feed>
