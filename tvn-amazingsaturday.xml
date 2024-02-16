@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-02-16T05:36:04.168Z</updated>
+    <updated>2024-02-16T17:35:47.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 민영 씨 재밌는 분이셨네~😝 간겜하다 경고받은 사연은?!🚨]]></title>
+        <id>https://tv.naver.com/v/47171626</id>
+        <link href="https://tv.naver.com/v/47171626"/>
+        <updated>2024-02-16T17:35:40.732Z</updated>
+        <content type="html"><![CDATA[04:11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 사이다 복수로 시청률 고공행진 중인 ＜내.남.결＞의 주인공✨ 박민영 X 나인우💕]]></title>
         <id>https://tv.naver.com/v/46974381</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46912617"/>
         <updated>2024-02-09T17:36:45.834Z</updated>
         <content type="html"><![CDATA[03:16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 동현 형님하고 너무 똑같대요...😮 성격부터 포지션까지 똑닮은 동생들의 사연?😂]]></title>
-        <id>https://tv.naver.com/v/46912613</id>
-        <link href="https://tv.naver.com/v/46912613"/>
-        <updated>2024-02-09T17:36:45.835Z</updated>
-        <content type="html"><![CDATA[04:20]]></content>
     </entry>
 </feed>
