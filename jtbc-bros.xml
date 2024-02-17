@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-16T17:35:47.135Z</updated>
+    <updated>2024-02-17T05:36:51.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 다시 들어도 소름 쫙↗ '싱어게인3 우승' 제대로 증명한 홍이삭의 〈바람의 노래〉♪]]></title>
+        <id>https://tv.naver.com/v/47191709</id>
+        <link href="https://tv.naver.com/v/47191709"/>
+        <updated>2024-02-17T05:36:51.053Z</updated>
+        <content type="html"><![CDATA[05:38]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 🎵싱어게인3 TOP7🎵 아낌없이 다 퍼주는 무물현장🚨]]></title>
         <id>https://tv.naver.com/v/47091223</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/46935350"/>
         <updated>2024-02-10T17:36:29.894Z</updated>
         <content type="html"><![CDATA[05:50]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀸덤퍼즐 우승자의 위엄.. 하이키 휘서의 〈어른 아이〉♪ | JTBC 240210 방송]]></title>
-        <id>https://tv.naver.com/v/46935242</id>
-        <link href="https://tv.naver.com/v/46935242"/>
-        <updated>2024-02-10T17:36:29.895Z</updated>
-        <content type="html"><![CDATA[01:35]]></content>
     </entry>
 </feed>
