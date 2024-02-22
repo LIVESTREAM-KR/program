@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-02-21T17:35:56.878Z</updated>
+    <updated>2024-02-22T05:35:50.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 덩치들의 꽉~끼는 대기실 게임 현장💥]]></title>
+        <id>https://tv.naver.com/v/47409816</id>
+        <link href="https://tv.naver.com/v/47409816"/>
+        <updated>2024-02-22T05:35:50.233Z</updated>
+        <content type="html"><![CDATA[06:05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노래자랑] 강성희·홍이삭의 미친 가창력에 후끈해진 캠핑장🔥 | JTBC 240217 방송]]></title>
         <id>https://tv.naver.com/v/47205564</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47204817"/>
         <updated>2024-02-17T17:36:54.913Z</updated>
         <content type="html"><![CDATA[02:09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[싱어게인 미방분 최초 공개! 소수빈에게 포옹해준 따듯한 사람💞 | JTBC 240217 방송]]></title>
-        <id>https://tv.naver.com/v/47204940</id>
-        <link href="https://tv.naver.com/v/47204940"/>
-        <updated>2024-02-17T17:36:54.913Z</updated>
-        <content type="html"><![CDATA[04:32]]></content>
     </entry>
 </feed>
