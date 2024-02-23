@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-23T05:36:48.969Z</updated>
+    <updated>2024-02-23T17:36:06.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 이런 게 MZ 애교?😎 막냉이 은채가 말아주는 애교 3종 SET🧡 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/47488256</id>
+        <link href="https://tv.naver.com/v/47488256"/>
+        <updated>2024-02-23T17:36:00.177Z</updated>
+        <content type="html"><![CDATA[03:13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 여기 와서 연기만 잔뜩 했죠..😂 춤 못 춰서 잠 못 잔 채원이 한풀러 왔어요~🤸🏻‍♀ (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/47488251</id>
+        <link href="https://tv.naver.com/v/47488251"/>
+        <updated>2024-02-23T17:36:00.178Z</updated>
+        <content type="html"><![CDATA[03:54]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 오늘은 내가 받쓰 셰프👩‍🍳 올라운더 채원과 받쓰 은쪽이 은채가 떴다❣ 르세라핌 채원 X 은채 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/47274121</id>
@@ -59,20 +73,6 @@
         <link href="https://tv.naver.com/v/47206039"/>
         <updated>2024-02-17T17:36:49.514Z</updated>
         <content type="html"><![CDATA[12:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 민영 씨 재밌는 분이셨네~😝 간겜하다 경고받은 사연은?!🚨 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/47171626</id>
-        <link href="https://tv.naver.com/v/47171626"/>
-        <updated>2024-02-16T17:35:40.732Z</updated>
-        <content type="html"><![CDATA[04:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 사이다 복수로 시청률 고공행진 중인 ＜내.남.결＞의 주인공✨ 박민영 X 나인우💕 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/46974381</id>
-        <link href="https://tv.naver.com/v/46974381"/>
-        <updated>2024-02-12T17:35:59.501Z</updated>
-        <content type="html"><![CDATA[00:32]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 덩치들의 꽉~끼는 대기실 게임 현장💥 (아는 형님)]]></title>
