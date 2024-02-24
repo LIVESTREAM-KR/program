@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-23T17:36:06.621Z</updated>
+    <updated>2024-02-24T05:35:46.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 이런 게 MZ 애교?😎 막냉이 은채가 말아주는 애교 3종 SET🧡 (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[12:07]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] ＂어? 너 뭐하는...＂ 기루X풍자를 오해하게 만든 나선욱의 고-급 플러팅(?)ㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/47504260</id>
+        <link href="https://tv.naver.com/v/47504260"/>
+        <updated>2024-02-24T05:35:45.571Z</updated>
+        <content type="html"><![CDATA[05:03]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】 덩치들의 꽉~끼는 대기실 게임 현장💥 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/47409816</id>
         <link href="https://tv.naver.com/v/47409816"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/47204819"/>
         <updated>2024-02-17T17:36:54.913Z</updated>
         <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포옹만큼 따듯한 목소리의 주인공, 소수빈의 〈한번만 더〉♪ | JTBC 240217 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/47204817</id>
-        <link href="https://tv.naver.com/v/47204817"/>
-        <updated>2024-02-17T17:36:54.913Z</updated>
-        <content type="html"><![CDATA[02:09]]></content>
     </entry>
 </feed>
