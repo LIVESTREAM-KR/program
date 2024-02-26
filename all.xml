@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-26T05:35:46.429Z</updated>
+    <updated>2024-02-26T17:36:08.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 천재 보컬리스트가 떴다🙌 받쓰부터 보컬 텐션까지 찢어버린 믿.듣.🎧 김범수 X 서은광 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/47577323</id>
+        <link href="https://tv.naver.com/v/47577323"/>
+        <updated>2024-02-26T17:36:01.634Z</updated>
+        <content type="html"><![CDATA[00:34]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 가요계의 기강을 잡을 천재 보컬들이 떴다🎤 김범수 X 서은광✨ (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/47520364</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/47488251"/>
         <updated>2024-02-23T17:36:00.178Z</updated>
         <content type="html"><![CDATA[03:54]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 오늘은 내가 받쓰 셰프👩‍🍳 올라운더 채원과 받쓰 은쪽이 은채가 떴다❣ 르세라핌 채원 X 은채 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/47274121</id>
-        <link href="https://tv.naver.com/v/47274121"/>
-        <updated>2024-02-19T17:35:51.449Z</updated>
-        <content type="html"><![CDATA[00:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[형님들, 신기루-풍자 무게 감당할 수 있겠어...? 「아형 표 림보 게임」 | JTBC 240224 방송 (아는 형님)]]></title>
