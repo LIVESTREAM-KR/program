@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-28T17:37:50.057Z</updated>
+    <updated>2024-02-29T05:35:54.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 천재 보컬리스트가 떴다🙌 받쓰부터 보컬 텐션까지 찢어버린 믿.듣.🎧 김범수 X 서은광 (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[03:54]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】 ❣️이은지와 남자들❣️의 플러팅 좔좔 흐르는(?) ＜표정으로 말해요＞🤡 (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/47692398</id>
+        <link href="https://tv.naver.com/v/47692398"/>
+        <updated>2024-02-29T05:35:54.197Z</updated>
+        <content type="html"><![CDATA[07:40]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[형님들, 신기루-풍자 무게 감당할 수 있겠어...? 「아형 표 림보 게임」 | JTBC 240224 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/47519471</id>
         <link href="https://tv.naver.com/v/47519471"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/47518608"/>
         <updated>2024-02-24T17:36:20.012Z</updated>
         <content type="html"><![CDATA[05:42]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(건달 st) ＜먹찌빠＞ 촬영장에서 속전속결로 섭외 성공한 서장훈 ㅋㅋㅋ | JTBC 240224 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/47518606</id>
-        <link href="https://tv.naver.com/v/47518606"/>
-        <updated>2024-02-24T17:36:20.012Z</updated>
-        <content type="html"><![CDATA[05:21]]></content>
     </entry>
 </feed>
