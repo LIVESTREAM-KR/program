@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-03-01T05:37:31.184Z</updated>
+    <updated>2024-03-01T17:41:05.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 우리 모두 출석 CHECK~🕶 공연장이 된 놀토에 실버라이트 강림✨]]></title>
+        <id>https://tv.naver.com/v/47750224</id>
+        <link href="https://tv.naver.com/v/47750224"/>
+        <updated>2024-03-01T17:40:59.176Z</updated>
+        <content type="html"><![CDATA[04:03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 해리 스타일스 잠깐 왔다 감...🌟 슈퍼스타들을 집어삼킨 보컬리스트들🎤]]></title>
+        <id>https://tv.naver.com/v/47750220</id>
+        <link href="https://tv.naver.com/v/47750220"/>
+        <updated>2024-03-01T17:40:59.176Z</updated>
+        <content type="html"><![CDATA[04:08]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 천재 보컬리스트가 떴다🙌 받쓰부터 보컬 텐션까지 찢어버린 믿.듣.🎧 김범수 X 서은광]]></title>
         <id>https://tv.naver.com/v/47577323</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47518497"/>
         <updated>2024-02-24T17:36:14.802Z</updated>
         <content type="html"><![CDATA[09:06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 이런 게 MZ 애교?😎 막냉이 은채가 말아주는 애교 3종 SET🧡]]></title>
-        <id>https://tv.naver.com/v/47488256</id>
-        <link href="https://tv.naver.com/v/47488256"/>
-        <updated>2024-02-23T17:36:00.177Z</updated>
-        <content type="html"><![CDATA[03:13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 여기 와서 연기만 잔뜩 했죠..😂 춤 못 춰서 잠 못 잔 채원이 한풀러 왔어요~🤸🏻‍♀]]></title>
-        <id>https://tv.naver.com/v/47488251</id>
-        <link href="https://tv.naver.com/v/47488251"/>
-        <updated>2024-02-23T17:36:00.178Z</updated>
-        <content type="html"><![CDATA[03:54]]></content>
     </entry>
 </feed>
