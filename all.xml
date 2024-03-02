@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-01T17:41:05.497Z</updated>
+    <updated>2024-03-02T05:37:43.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[선공개] 우리 모두 출석 CHECK~🕶 공연장이 된 놀토에 실버라이트 강림✨ (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[09:06]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[선공개] 텐션이 투 핫💦 인류학자(?) 이은지의 연애 프로그램 고증 연기ㅋㅋ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/47765716</id>
+        <link href="https://tv.naver.com/v/47765716"/>
+        <updated>2024-03-02T05:37:42.458Z</updated>
+        <content type="html"><![CDATA[05:17]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[【형친소】 ❣️이은지와 남자들❣️의 플러팅 좔좔 흐르는(?) ＜표정으로 말해요＞🤡 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/47692398</id>
         <link href="https://tv.naver.com/v/47692398"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/47518612"/>
         <updated>2024-02-24T17:36:20.007Z</updated>
         <content type="html"><![CDATA[05:01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역시 운동인? 나이 족보 정리는 확실한 최준석 ＂83년생은 동생이야＂ | JTBC 240224 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/47518608</id>
-        <link href="https://tv.naver.com/v/47518608"/>
-        <updated>2024-02-24T17:36:20.012Z</updated>
-        <content type="html"><![CDATA[05:42]]></content>
     </entry>
 </feed>
