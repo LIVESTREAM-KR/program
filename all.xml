@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-04T06:05:36.060Z</updated>
+    <updated>2024-03-04T17:36:01.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[예고] 신곡으로 분위기 UP🎵 싱그러운 봄을 닮은 요정들이 떴다🌷 청하 X 비비 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/47837640</id>
+        <link href="https://tv.naver.com/v/47837640"/>
+        <updated>2024-03-04T17:35:55.646Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 봄이 찾아온 놀토에🌸 싱그러운 봄의 정령들 등장!🧚🏻 청하 X 비비 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/47781203</id>
@@ -66,13 +73,6 @@
         <link href="https://tv.naver.com/v/47750220"/>
         <updated>2024-03-01T17:40:59.176Z</updated>
         <content type="html"><![CDATA[04:08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 천재 보컬리스트가 떴다🙌 받쓰부터 보컬 텐션까지 찢어버린 믿.듣.🎧 김범수 X 서은광 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/47577323</id>
-        <link href="https://tv.naver.com/v/47577323"/>
-        <updated>2024-02-26T17:36:01.634Z</updated>
-        <content type="html"><![CDATA[00:34]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여장은 훼이크(?) 피지컬로 3명 이겨먹는 강호동 클라쓰💪 | JTBC 240302 방송 (아는 형님)]]></title>
