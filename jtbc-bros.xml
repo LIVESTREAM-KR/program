@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-06T17:36:45.382Z</updated>
+    <updated>2024-03-07T05:36:09.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[【형친소】 ((그 시절 그 감성...붐은 온다...🫶)) 혼성듀오 아니고 김범수 X KCM 대기실 인터뷰🎙️]]></title>
+        <id>https://tv.naver.com/v/47958922</id>
+        <link href="https://tv.naver.com/v/47958922"/>
+        <updated>2024-03-07T05:36:09.157Z</updated>
+        <content type="html"><![CDATA[07:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여장은 훼이크(?) 피지컬로 3명 이겨먹는 강호동 클라쓰💪 | JTBC 240302 방송]]></title>
         <id>https://tv.naver.com/v/47779825</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47779232"/>
         <updated>2024-03-02T17:36:43.309Z</updated>
         <content type="html"><![CDATA[09:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은지-신규진-김승진-이창호가 알려주는 방송국별 개그 스타일 | JTBC 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47778639</id>
-        <link href="https://tv.naver.com/v/47778639"/>
-        <updated>2024-03-02T17:36:43.310Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>

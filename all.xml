@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-06T17:36:45.386Z</updated>
+    <updated>2024-03-07T05:36:09.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[예고] 신곡으로 분위기 UP🎵 싱그러운 봄을 닮은 요정들이 떴다🌷 청하 X 비비 (놀라운 토요일)]]></title>
@@ -75,6 +75,13 @@
         <content type="html"><![CDATA[04:08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[【형친소】 ((그 시절 그 감성...붐은 온다...🫶)) 혼성듀오 아니고 김범수 X KCM 대기실 인터뷰🎙️ (아는 형님)]]></title>
+        <id>https://tv.naver.com/v/47958922</id>
+        <link href="https://tv.naver.com/v/47958922"/>
+        <updated>2024-03-07T05:36:09.157Z</updated>
+        <content type="html"><![CDATA[07:45]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[여장은 훼이크(?) 피지컬로 3명 이겨먹는 강호동 클라쓰💪 | JTBC 240302 방송 (아는 형님)]]></title>
         <id>https://tv.naver.com/v/47779825</id>
         <link href="https://tv.naver.com/v/47779825"/>
@@ -136,12 +143,5 @@
         <link href="https://tv.naver.com/v/47779232"/>
         <updated>2024-03-02T17:36:43.309Z</updated>
         <content type="html"><![CDATA[09:19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이은지-신규진-김승진-이창호가 알려주는 방송국별 개그 스타일 | JTBC 240302 방송 (아는 형님)]]></title>
-        <id>https://tv.naver.com/v/47778639</id>
-        <link href="https://tv.naver.com/v/47778639"/>
-        <updated>2024-03-02T17:36:43.310Z</updated>
-        <content type="html"><![CDATA[03:31]]></content>
     </entry>
 </feed>
