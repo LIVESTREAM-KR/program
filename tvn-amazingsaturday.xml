@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-03-08T05:35:47.661Z</updated>
+    <updated>2024-03-08T17:35:45.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 놀토 출연 세 번째 만에 복수 성공?!🔥 청하가 말아주는 레전드 ＜뱅뱅＞ 무대🎤]]></title>
+        <id>https://tv.naver.com/v/48045478</id>
+        <link href="https://tv.naver.com/v/48045478"/>
+        <updated>2024-03-08T17:35:39.953Z</updated>
+        <content type="html"><![CDATA[05:33]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 신곡 홍보 도레미가 흥겹게 도와드립니다🎵 달디~단 봄 노래로 돌아온 청하&비비🌸]]></title>
+        <id>https://tv.naver.com/v/48045475</id>
+        <link href="https://tv.naver.com/v/48045475"/>
+        <updated>2024-03-08T17:35:39.958Z</updated>
+        <content type="html"><![CDATA[04:30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 신곡으로 분위기 UP🎵 싱그러운 봄을 닮은 요정들이 떴다🌷 청하 X 비비]]></title>
         <id>https://tv.naver.com/v/47837640</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/47779017"/>
         <updated>2024-03-02T17:36:37.546Z</updated>
         <content type="html"><![CDATA[16:37]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 우리 모두 출석 CHECK~🕶 공연장이 된 놀토에 실버라이트 강림✨]]></title>
-        <id>https://tv.naver.com/v/47750224</id>
-        <link href="https://tv.naver.com/v/47750224"/>
-        <updated>2024-03-01T17:40:59.176Z</updated>
-        <content type="html"><![CDATA[04:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 해리 스타일스 잠깐 왔다 감...🌟 슈퍼스타들을 집어삼킨 보컬리스트들🎤]]></title>
-        <id>https://tv.naver.com/v/47750220</id>
-        <link href="https://tv.naver.com/v/47750220"/>
-        <updated>2024-03-01T17:40:59.176Z</updated>
-        <content type="html"><![CDATA[04:08]]></content>
     </entry>
 </feed>
