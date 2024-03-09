@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-08T17:35:45.657Z</updated>
+    <updated>2024-03-09T05:35:47.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 벌써 몇 개째야? ㅋㅋ 김범수 헤어스타일 하나로 레전드 짤 무한 생성 중🤣]]></title>
+        <id>https://tv.naver.com/v/48062332</id>
+        <link href="https://tv.naver.com/v/48062332"/>
+        <updated>2024-03-09T05:35:47.018Z</updated>
+        <content type="html"><![CDATA[04:47]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 ((그 시절 그 감성...붐은 온다...🫶)) 혼성듀오 아니고 김범수 X KCM 대기실 인터뷰🎙️]]></title>
         <id>https://tv.naver.com/v/47958922</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/47778863"/>
         <updated>2024-03-02T17:36:43.307Z</updated>
         <content type="html"><![CDATA[04:58]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[등산복 입고 스케줄 갔다가 출입 금지 당한 부캐 부자 이창호😂 | JTBC 240302 방송]]></title>
-        <id>https://tv.naver.com/v/47779232</id>
-        <link href="https://tv.naver.com/v/47779232"/>
-        <updated>2024-03-02T17:36:43.309Z</updated>
-        <content type="html"><![CDATA[09:19]]></content>
     </entry>
 </feed>
