@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-14T05:36:27.640Z</updated>
+    <updated>2024-03-14T17:35:57.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] '내남결' 백은호 본업 폼 美쳤다! 이기광의 'Favorite+BODY' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/48312427</id>
+        <link href="https://tv.naver.com/v/48312427"/>
+        <updated>2024-03-14T17:35:56.697Z</updated>
+        <content type="html"><![CDATA[01:24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 '과거로 회귀 한다 vs 안 한다?!' 이기광 x 송하윤이 말아주는 내남결 밸런스게임💨]]></title>
         <id>https://tv.naver.com/v/48285584</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48081207"/>
         <updated>2024-03-09T17:36:12.829Z</updated>
         <content type="html"><![CDATA[06:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당장 42월드 BGM으로 달아야만.. KCM♬ ＜흑백사진＞ | JTBC 240309 방송]]></title>
-        <id>https://tv.naver.com/v/48080862</id>
-        <link href="https://tv.naver.com/v/48080862"/>
-        <updated>2024-03-09T17:36:12.829Z</updated>
-        <content type="html"><![CDATA[01:54]]></content>
     </entry>
 </feed>
