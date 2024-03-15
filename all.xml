@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/program/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T05:36:00.026Z</updated>
+    <updated>2024-03-15T17:36:10.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 내 정답 돌려줘요!!😰 뺏고 뺏기는 이곳은 놀토 간겜 현장!💫 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/48375521</id>
+        <link href="https://tv.naver.com/v/48375521"/>
+        <updated>2024-03-15T17:36:04.531Z</updated>
+        <content type="html"><![CDATA[03:41]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 부담감 때문에 안 나오려고 했어요💦 예낳괴 판정받은 의욕과다 게스트?!🤓 (놀라운 토요일)]]></title>
+        <id>https://tv.naver.com/v/48375516</id>
+        <link href="https://tv.naver.com/v/48375516"/>
+        <updated>2024-03-15T17:36:04.536Z</updated>
+        <content type="html"><![CDATA[04:14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 자신감부터 입담까지 모두 UPGRADE😎 넘치는 놀토 사랑으로 돌아온🖤 스윙스 X 정혁 (놀라운 토요일)]]></title>
         <id>https://tv.naver.com/v/48147373</id>
@@ -59,20 +73,6 @@
         <link href="https://tv.naver.com/v/48077385"/>
         <updated>2024-03-09T17:36:08.218Z</updated>
         <content type="html"><![CDATA[09:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 놀토 출연 세 번째 만에 복수 성공?!🔥 청하가 말아주는 레전드 ＜뱅뱅＞ 무대🎤 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/48045478</id>
-        <link href="https://tv.naver.com/v/48045478"/>
-        <updated>2024-03-08T17:35:39.953Z</updated>
-        <content type="html"><![CDATA[05:33]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 신곡 홍보 도레미가 흥겹게 도와드립니다🎵 달디~단 봄 노래로 돌아온 청하&비비🌸 (놀라운 토요일)]]></title>
-        <id>https://tv.naver.com/v/48045475</id>
-        <link href="https://tv.naver.com/v/48045475"/>
-        <updated>2024-03-08T17:35:39.958Z</updated>
-        <content type="html"><![CDATA[04:30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] '내남결' 백은호 본업 폼 美쳤다! 이기광의 'Favorite+BODY' 리허설 캠♬ (아는 형님)]]></title>
