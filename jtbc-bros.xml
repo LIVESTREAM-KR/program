@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-15T17:36:10.319Z</updated>
+    <updated>2024-03-16T05:35:49.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 나도 이용당했어💥 '최악의 질투 빌런' 정수민을 만든 송하윤의 열정👍]]></title>
+        <id>https://tv.naver.com/v/48392451</id>
+        <link href="https://tv.naver.com/v/48392451"/>
+        <updated>2024-03-16T05:35:48.769Z</updated>
+        <content type="html"><![CDATA[04:45]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] '내남결' 백은호 본업 폼 美쳤다! 이기광의 'Favorite+BODY' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/48312427</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48080865"/>
         <updated>2024-03-09T17:36:12.822Z</updated>
         <content type="html"><![CDATA[01:57]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[〈이제는 말할 수 있다〉 얼굴 없는 가수 김범수-KCM 서로의 첫인상💥 | JTBC 240309 방송]]></title>
-        <id>https://tv.naver.com/v/48081207</id>
-        <link href="https://tv.naver.com/v/48081207"/>
-        <updated>2024-03-09T17:36:12.829Z</updated>
-        <content type="html"><![CDATA[06:15]]></content>
     </entry>
 </feed>
