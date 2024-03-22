@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-03-22T05:36:49.869Z</updated>
+    <updated>2024-03-22T17:35:54.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 일단 정답은 두 번 말하고 보는 지원?!💫 여왕님은 놀토 적응 중~👸🏻]]></title>
+        <id>https://tv.naver.com/v/48719292</id>
+        <link href="https://tv.naver.com/v/48719292"/>
+        <updated>2024-03-22T17:35:47.830Z</updated>
+        <content type="html"><![CDATA[03:05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 재능은 어쩔 수 없는 거니까😉 찬란했던 동연이의 그때 그 호시절...✨]]></title>
+        <id>https://tv.naver.com/v/48719288</id>
+        <link href="https://tv.naver.com/v/48719288"/>
+        <updated>2024-03-22T17:35:47.834Z</updated>
+        <content type="html"><![CDATA[04:49]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 사랑스러움 그 자체💖 매력 가득한 〈눈물의 여왕〉 남매즈의 놀토 방문기🎈 김지원 X 곽동연]]></title>
         <id>https://tv.naver.com/v/48483622</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/48409169"/>
         <updated>2024-03-16T17:35:51.130Z</updated>
         <content type="html"><![CDATA[16:22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 내 정답 돌려줘요!!😰 뺏고 뺏기는 이곳은 놀토 간겜 현장!💫]]></title>
-        <id>https://tv.naver.com/v/48375521</id>
-        <link href="https://tv.naver.com/v/48375521"/>
-        <updated>2024-03-15T17:36:04.531Z</updated>
-        <content type="html"><![CDATA[03:41]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 부담감 때문에 안 나오려고 했어요💦 예낳괴 판정받은 의욕과다 게스트?!🤓]]></title>
-        <id>https://tv.naver.com/v/48375516</id>
-        <link href="https://tv.naver.com/v/48375516"/>
-        <updated>2024-03-15T17:36:04.536Z</updated>
-        <content type="html"><![CDATA[04:14]]></content>
     </entry>
 </feed>
