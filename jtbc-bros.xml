@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-22T17:35:54.039Z</updated>
+    <updated>2024-03-23T05:36:33.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 요즘은 사극은 이렇게 찍는다고? '고려 거란 전쟁' 최수종의 실감 나는 승마 연기🤣]]></title>
+        <id>https://tv.naver.com/v/48739697</id>
+        <link href="https://tv.naver.com/v/48739697"/>
+        <updated>2024-03-23T05:36:32.853Z</updated>
+        <content type="html"><![CDATA[04:53]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 ＜고려 거란 전쟁＞ 팀이 나와서 머리띠를 쓰고 콜마이네임 게임을 한 사건이다🖐]]></title>
         <id>https://tv.naver.com/v/48632303</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48417569"/>
         <updated>2024-03-16T17:35:56.168Z</updated>
         <content type="html"><![CDATA[06:31]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂기광아 잘 들어＂ 찐 경상도 네이티브 강호동의 사투리 시범 ㅋㅋㅋ | JTBC 240316 방송]]></title>
-        <id>https://tv.naver.com/v/48417567</id>
-        <link href="https://tv.naver.com/v/48417567"/>
-        <updated>2024-03-16T17:35:56.169Z</updated>
-        <content type="html"><![CDATA[06:25]]></content>
     </entry>
 </feed>
