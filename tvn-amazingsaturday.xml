@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-03-25T05:35:41.448Z</updated>
+    <updated>2024-03-25T17:35:57.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 마성의 매력과 Great한 목소리를 가진 〈그레이트 코멧〉의 두 남자🔥 하도권 X 케이윌✨]]></title>
+        <id>https://tv.naver.com/v/48844202</id>
+        <link href="https://tv.naver.com/v/48844202"/>
+        <updated>2024-03-25T17:35:50.826Z</updated>
+        <content type="html"><![CDATA[00:32]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 흥이 넘치는 놀토에🎵 〈그레이트 코멧〉의 두 스타가 왔다! 하도권 X 케이윌😎]]></title>
         <id>https://tv.naver.com/v/48762661</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48719288"/>
         <updated>2024-03-22T17:35:47.834Z</updated>
         <content type="html"><![CDATA[04:49]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예고] 사랑스러움 그 자체💖 매력 가득한 〈눈물의 여왕〉 남매즈의 놀토 방문기🎈 김지원 X 곽동연]]></title>
-        <id>https://tv.naver.com/v/48483622</id>
-        <link href="https://tv.naver.com/v/48483622"/>
-        <updated>2024-03-18T17:36:46.362Z</updated>
-        <content type="html"><![CDATA[00:32]]></content>
     </entry>
 </feed>
