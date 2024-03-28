@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-28T05:36:44.027Z</updated>
+    <updated>2024-03-28T17:36:08.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 듀엣으로 컴백! 백지영&뮤지의 '별이 되어주고 싶었어' 리허설 캠♬]]></title>
+        <id>https://tv.naver.com/v/49017197</id>
+        <link href="https://tv.naver.com/v/49017197"/>
+        <updated>2024-03-28T17:36:07.753Z</updated>
+        <content type="html"><![CDATA[01:59]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【형친소】 백지영한테 두 번째 혼나는 뮤지]]></title>
         <id>https://tv.naver.com/v/48998521</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48766913"/>
         <updated>2024-03-23T17:36:00.488Z</updated>
         <content type="html"><![CDATA[08:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[촬영장 비하인드] 윤복인이 울컥한 사극 드라마계 레전드 최수종.SSUL | JTBC 240323 방송]]></title>
-        <id>https://tv.naver.com/v/48766392</id>
-        <link href="https://tv.naver.com/v/48766392"/>
-        <updated>2024-03-23T17:36:00.490Z</updated>
-        <content type="html"><![CDATA[06:16]]></content>
     </entry>
 </feed>
