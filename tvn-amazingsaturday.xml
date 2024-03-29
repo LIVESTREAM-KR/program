@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-03-29T05:36:17.447Z</updated>
+    <updated>2024-03-29T17:37:18.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 문제 틀린 김에 귀 호강? 오히려 좋아🙊 도권 X 케이윌 듀엣 결성🔥]]></title>
+        <id>https://tv.naver.com/v/49089013</id>
+        <link href="https://tv.naver.com/v/49089013"/>
+        <updated>2024-03-29T17:37:12.450Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 먹고 놀고 노래 부르고✨놀토는 대학 MT 그 자체예요🤸🏻‍♂️]]></title>
+        <id>https://tv.naver.com/v/49089008</id>
+        <link href="https://tv.naver.com/v/49089008"/>
+        <updated>2024-03-29T17:37:12.450Z</updated>
+        <content type="html"><![CDATA[03:46]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예고] 마성의 매력과 Great한 목소리를 가진 〈그레이트 코멧〉의 두 남자🔥 하도권 X 케이윌✨]]></title>
         <id>https://tv.naver.com/v/48844202</id>
@@ -60,19 +74,5 @@
         <link href="https://tv.naver.com/v/48760324"/>
         <updated>2024-03-23T17:35:54.802Z</updated>
         <content type="html"><![CDATA[10:03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 일단 정답은 두 번 말하고 보는 지원?!💫 여왕님은 놀토 적응 중~👸🏻]]></title>
-        <id>https://tv.naver.com/v/48719292</id>
-        <link href="https://tv.naver.com/v/48719292"/>
-        <updated>2024-03-22T17:35:47.830Z</updated>
-        <content type="html"><![CDATA[03:05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 재능은 어쩔 수 없는 거니까😉 찬란했던 동연이의 그때 그 호시절...✨]]></title>
-        <id>https://tv.naver.com/v/48719288</id>
-        <link href="https://tv.naver.com/v/48719288"/>
-        <updated>2024-03-22T17:35:47.834Z</updated>
-        <content type="html"><![CDATA[04:49]]></content>
     </entry>
 </feed>
