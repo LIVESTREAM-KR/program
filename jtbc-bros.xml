@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-29T17:37:18.239Z</updated>
+    <updated>2024-03-30T05:36:36.372Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[선공개] 갑자기 불량 식품이 당긴 거야?! 백지영과 듀엣 하는 뮤지에 화가 난 형님들😅]]></title>
+        <id>https://tv.naver.com/v/49109107</id>
+        <link href="https://tv.naver.com/v/49109107"/>
+        <updated>2024-03-30T05:36:35.585Z</updated>
+        <content type="html"><![CDATA[04:48]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선공개] 듀엣으로 컴백! 백지영&뮤지의 '별이 되어주고 싶었어' 리허설 캠♬]]></title>
         <id>https://tv.naver.com/v/49017197</id>
@@ -67,12 +74,5 @@
         <link href="https://tv.naver.com/v/48766586"/>
         <updated>2024-03-23T17:36:00.486Z</updated>
         <content type="html"><![CDATA[03:55]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[＂여러분들을 위해서 노래 한 곡(?)＂ 지친 병사들을 위한 강감찬의 열창 | JTBC 240323 방송]]></title>
-        <id>https://tv.naver.com/v/48766913</id>
-        <link href="https://tv.naver.com/v/48766913"/>
-        <updated>2024-03-23T17:36:00.488Z</updated>
-        <content type="html"><![CDATA[08:11]]></content>
     </entry>
 </feed>
