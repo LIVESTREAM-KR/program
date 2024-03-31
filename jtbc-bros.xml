@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/3052901/clip</id>
     <title>아는 형님</title>
-    <updated>2024-03-31T05:35:56.804Z</updated>
+    <updated>2024-03-31T17:36:36.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[07:17]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[유세윤 어머니 칠순 때의 섭섭함을 잊길 바라면서...✨ 뮤지♬ 〈테스형!〉 | JTBC 240330 방송]]></title>
+        <id>https://tv.naver.com/v/49130556</id>
+        <link href="https://tv.naver.com/v/49130556"/>
+        <updated>2024-03-30T17:36:46.166Z</updated>
+        <content type="html"><![CDATA[03:16]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아형 방] X 싼 놈이 성질낸다더니(?) 누가 화장실 물 안 내렸어? | JTBC 240330 방송]]></title>
         <id>https://tv.naver.com/v/49130547</id>
         <link href="https://tv.naver.com/v/49130547"/>
@@ -39,13 +46,6 @@
         <link href="https://tv.naver.com/v/49130592"/>
         <updated>2024-03-30T17:36:46.164Z</updated>
         <content type="html"><![CDATA[07:11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유세윤 어머니 칠순 때의 섭섭함을 잊길 바라면서...✨ 뮤지♬ 〈테스형!〉 | JTBC 240330 방송]]></title>
-        <id>https://tv.naver.com/v/49130556</id>
-        <link href="https://tv.naver.com/v/49130556"/>
-        <updated>2024-03-30T17:36:46.166Z</updated>
-        <content type="html"><![CDATA[03:16]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[웃참 챌린지가 되어버린 백지영x뮤지의 얼렁뚱땅 신곡 듀엣 무대😅 | JTBC 240330 방송]]></title>
@@ -69,10 +69,10 @@
         <content type="html"><![CDATA[09:29]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[아형✪하이라이트] 백지영의 끝없는 히트곡들과 함께하는 제2의 옥택연 찾기💎 (+'잊지 말아요' 레전드 라이브 있을 유♪) | 아는 형님 | JTBC 240330 방송]]></title>
-        <id>https://tv.naver.com/v/49129383</id>
-        <link href="https://tv.naver.com/v/49129383"/>
-        <updated>2024-03-30T17:36:46.169Z</updated>
-        <content type="html"><![CDATA[31:57]]></content>
+        <title type="html"><![CDATA[아는 형님 428회 예고편]]></title>
+        <id>https://tv.naver.com/v/49128614</id>
+        <link href="https://tv.naver.com/v/49128614"/>
+        <updated>2024-03-31T17:36:36.126Z</updated>
+        <content type="html"><![CDATA[01:21]]></content>
     </entry>
 </feed>
