@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://program.naver.com/p/7682370/clip</id>
     <title>놀라운 토요일</title>
-    <updated>2024-04-01T05:36:15.159Z</updated>
+    <updated>2024-04-01T17:35:50.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://program.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[예고] 🎂놀토의 6번째 생일🎂 스피드 받쓰에 팀 분열까지?! 우당탕탕 6주년 파티의 결말은?🔥]]></title>
+        <id>https://tv.naver.com/v/49202060</id>
+        <link href="https://tv.naver.com/v/49202060"/>
+        <updated>2024-04-01T17:35:44.376Z</updated>
+        <content type="html"><![CDATA[00:35]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉하나의 수식어로는 모자란❣ 러블리 큐티 프리티 탱구의 생일을 축하해!🎉]]></title>
         <id>https://tv.naver.com/v/49126539</id>
@@ -65,13 +72,6 @@
         <title type="html"><![CDATA[[선공개] 문제 틀린 김에 귀 호강? 오히려 좋아🙊 도권 X 케이윌 듀엣 결성🔥]]></title>
         <id>https://tv.naver.com/v/49089013</id>
         <link href="https://tv.naver.com/v/49089013"/>
-        <updated>2024-03-29T17:37:12.450Z</updated>
-        <content type="html"><![CDATA[03:46]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선공개] 먹고 놀고 노래 부르고✨놀토는 대학 MT 그 자체예요🤸🏻‍♂️]]></title>
-        <id>https://tv.naver.com/v/49089008</id>
-        <link href="https://tv.naver.com/v/49089008"/>
         <updated>2024-03-29T17:37:12.450Z</updated>
         <content type="html"><![CDATA[03:46]]></content>
     </entry>
